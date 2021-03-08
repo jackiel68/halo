@@ -1,0 +1,112 @@
+// Icons
+
+@font-face {
+  font-family: 'icomoon';
+  src: font-url('icomoon.eot');
+  src: font-url('icomoon.eot?#iefix') format('embedded-opentype'),
+    font-url('icomoon.svg#icomoon') format('svg'),
+    font-url('icomoon.woff') format('woff'),
+    font-url('icomoon.ttf') format('truetype');
+}
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-size: 1.3em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon {
+  // for use with custom(non-icomoon) icons
+  display: block;
+  width: 3rem;
+  height:3rem;
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center center;
+}
+.icon-inline {
+  vertical-align: sub;
+}
+.icon-halo-o {
+  @extend .icon;
+  background-image:url(image-path('icons/halo-o.svg'));
+}
+.icon-medal {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-medal.svg'));
+}
+.icon-white-cross {
+  @extend .icon;
+  background-image:url(image-path('icons/white-cross.svg'));
+}
+.icon-pointer-left-blue {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-pointer-left-blue.svg'));
+}
+.icon-pointer-right-blue {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-pointer-right-blue.svg'));
+}
+.icon-pointer-left-green {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-pointer-left-green.svg'));
+}
+.icon-pointer-right-green {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-pointer-right-green.svg'));
+}
+.icon-left-quote-blue {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-left-quote-blue.svg'));
+}
+.icon-left-quote-green {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-left-quote-green.svg'));
+}
+.icon-university {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-university.svg'));
+}
+.icon-drug {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-drug.svg'));
+}
+.icon-science {
+  @extend .icon;
+  background-image:url(image-path('icons/icon-science.svg'));
+}
+.icon-heart:before {
+  content: "\e900";
+}
+.icon-mail:before {
+  content: "\e901";
+}
+.icon-link:before {
+  content: "\e902";
+}
+.icon-arrow-left:before {
+  content: "\e909";
+}
+.icon-arrow-right:before {
+  content: "\e903";
+}
+.icon-circled-arrow-right:before {
+  content: "\e904";
+}
+.icon-facebook:before {
+  content: "\e905";
+}
+.icon-lock:before {
+  content: "\e906";
+}
+.icon-megaphone:before {
+  content: "\e907";
+}
+.icon-twitter:before {
+  content: "\e908";
+}

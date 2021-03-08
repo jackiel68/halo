@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="50px" viewBox="0 0 24 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>halo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="halo" fill-rule="nonzero">
+            <path d="M5.755,12.77 C5.755,8.091 7.76,5.272 11.918,5.272 C16.15,5.272 18.081,8.091 18.081,12.77 L18.081,22.219 L23.871,22.219 L23.871,13.068 C23.871,5.076 19.889,-0.059 11.773,0.002 C5.215,0.053 0.039,5.644 0.039,12.202 L0.039,22.22 L5.755,22.22 L5.755,12.77 Z" id="Shape" fill="#3FBBEC"></path>
+            <path d="M18.08,36.864 C18.08,41.616 16.15,44.363 11.918,44.363 C7.762,44.363 5.755,41.616 5.755,36.864 L5.755,27.416 L0.039,27.416 L0.039,36.566 C0.039,44.437 3.975,49.632 11.918,49.632 C19.938,49.632 23.871,44.437 23.871,36.566 L23.871,27.416 L18.08,27.416 L18.08,36.864 Z" id="Shape" fill="#58595B"></path>
+        </g>
+    </g>
+</svg>

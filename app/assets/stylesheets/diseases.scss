@@ -1,0 +1,34 @@
+// Diseases
+
+.diseases-show {
+  .main-image {
+    margin-bottom: 2em;
+  }
+  .tab-content {
+    padding-top: 2em;
+  }
+  dl {
+    color: #242c37;
+  }
+  dt {
+    font-weight: 500;
+    margin-bottom: 2px;
+  }
+  dd {
+    font-size: 2em;
+    line-height: 1em;
+    margin-bottom: .5em;
+  }
+  .foundations li {
+    margin-bottom: 0;
+    font-size: .9em;
+  }
+  .well {
+    @include boxshadow;
+  }
+}
+.disease-stats {
+  p {
+    @extend .font-small;
+  }
+}

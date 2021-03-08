@@ -1,0 +1,51 @@
+<section>
+  <div class="col-md-8">
+    <%= title("About: <strong>#{ @disease.name }</strong>") %>
+    <%= markdown(@disease.intro) %>
+
+    <%= image_tag(@disease.image_url(:big), alt: @disease.name, class: 'main-image') if @disease.image.present? %>
+
+    <ul class="nav nav-tabs" role="tablist">
+      <li role="presentation" class="active"><a href="#about" aria-controls="about" role="tab" data-toggle="tab">About the Disease</a></li>
+      <li role="presentation"><a href="#memorial-wall" aria-controls="memorial-wall" role="tab" data-toggle="tab">Memorial Wall</a></li>
+    </ul>
+
+    <div class="tab-content">
+      <section role="tabpanel" class="tab-pane active" id="about">
+        <%= markdown(@disease.description) %>
+      </section>
+      <section role="tabpanel" class="tab-pane" id="memorial-wall">
+        <% if @loved_ones.any? %>
+          <ul>
+            <% @loved_ones.each do |name| %>
+              <li><%= name %></li>
+            <% end %>
+          </ul>
+        <% else %>
+          <p>It seems the memorial wall is empty for this disease.</p>
+        <% end %>
+      </section>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <% if @disease.stats.present? %>
+      <section class="well padded disease-stats">
+        <h3>By the Numbers</h3>
+        <%= markdown(@disease.stats) %>
+      </section>
+    <% end %>
+
+    <% if @disease.foundations.any? %>
+      <section class="well padded">
+        <h3>Foundations</h3>
+        <ul class="foundations list-unstyled">
+          <% @disease.foundations.each do |foundation| %>
+            <li>
+              <%= link_to(foundation.name, foundation.url) %>
+            </li>
+          <% end %>
+        </ul>
+      </section>
+    <% end %>
+  </div>
+</section>

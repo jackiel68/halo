@@ -1,0 +1,239 @@
+<% content_for :head do %>
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="<%= @campaign.facebook_image_url(:big) %>" />
+<% end %>
+
+<section>
+  <nav id="campaign-sticky-header" class="navbar navbar-inverse">
+    <div class="container">
+      <ul class="nav navbar-nav navbar-right">
+        <% if current_user %>
+          <li>
+            <%= button_to new_campaign_donation_path(@campaign), type: 'button', method: 'get', class: 'btn btn-secondary btn-lg' do %>
+              Donate
+              <span class="icon-circled-arrow-right icon-inline"></span>
+            <% end %>
+          </li>
+        <% else %>
+          <li>
+            <% session[:previous_url] = request.fullpath %>
+            <%= button_to '#', class: 'btn btn-secondary btn-lg donate-auth-link', :remote => true do %>
+                Donate
+              <span class="icon-circled-arrow-right icon-inline"></span>
+            <% end %>
+          </li>
+        <% end %>
+        <li>
+          <%= share_button('Share', @campaign, 'facebook') %>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="row">
+      <div class="col-md-8">
+      <%= title("Saving Lifetimes, One Surgery at a Time", "visible-lg") %>
+      <%= title("Saving Lifetimes", "hidden-lg") %>
+
+      <%= subheading("Research: <strong>#{ link_to @campaign.disease.name, disease_path(@campaign.disease), class: "no-break" }</strong>") %>
+      <%= markdown(@campaign.description) %>
+      <% if @campaign.image? %>
+        <%= image_tag(@campaign.image_url(:big), alt: @campaign.name, class: 'main-image') %>
+      <% end %>
+      <div class="hidden-lg">
+        <%= render(partial: 'donation') %>
+      </div>
+
+      <div class="ddio_countdown_wrap"></div>
+        
+      <div id="campaign-nav-tabs">
+        <ul class="nav nav-tabs" role="tablist">
+          <li role="presentation" class="active"><a href="#about" aria-controls="about" role="tab" data-toggle="tab">Goal</a></li>
+          <li role="presentation"><a href="#use-of-funds" aria-controls="use-of-funds" role="tab" data-toggle="tab">Milestones</a></li>
+          <li role="presentation"><a href="#questions" aria-controls="questions" role="tab" data-toggle="tab">Ask Dr. Frykman</a></li>
+
+          <li class="navbar-right">
+            <ul class="nav">
+              <% if current_user %>
+                <li>
+                  <%= button_to new_campaign_donation_path(@campaign), type: 'button', method: 'get', class: 'btn btn-secondary btn-lg' do %>
+                  Donate
+                  <span class="icon-circled-arrow-right icon-inline"></span>
+                  <% end %>
+                </li>
+              <% else %>
+                <li>
+                  <% session[:previous_url] = request.fullpath %>
+                  <%= button_to '#', class: 'btn btn-secondary btn-lg donate-auth-link', :remote => true do %>
+                  Donate
+                  <span class="icon-circled-arrow-right icon-inline"></span>
+                  <% end %>
+                </li>
+              <% end %>
+
+              <li>
+                <%= share_button('Share', @campaign, 'facebook') %>
+              </li>
+            </ul>
+          </li>
+        </ul>
+
+      </div>
+
+      <div class="tab-content">
+        <section role="tabpanel" class="tab-pane active" id="about">
+
+          <% if false %>
+            <h3>Campaign Ambassadors</h3>
+
+            <% if @campaign.campaign_advisors.any? %>
+              <% @campaign.campaign_advisors.each do |advisor| %>
+                <section class="media">
+                  <div class="media-left">
+                    <%= image_tag(advisor.image_url(:big), alt: advisor.name, class: 'media-object') %>
+                  </div>
+                  <div class="media-body">
+                    <h4>
+                      <%= advisor.name %>
+                      <span><%= advisor.title %><span>
+                    </h4>
+                    <p>"<%= advisor.quote %>"</p>
+                  </div>
+                </section>
+              <% end %>
+            <% else %>
+              <p>It seems there are no advisors for this campaign yet.</p>
+            <% end %>
+          <% end %>
+
+          <% if @campaign.long_description.present? %>
+
+            <%= markdown(@campaign.long_description) %>
+          <% end %>
+        </section>
+
+        <section role="tabpanel" class="tab-pane milestones" id="use-of-funds">
+          <h3>Milestone Timeline</h3>
+
+          <p><%= @campaign.milestone_funding_message %></p>
+
+          <ol class="milestones__timeline">
+            <% @campaign.milestones.each do |milestone| %>
+              <li class="milestones__timeline-section">
+                <div class="milestones__funding-data font-small">
+                  <ul class="arrowbox">
+                    <li><b>Funding: </b><%= milestone[:funding_status] %></li>
+                    <li><b>Goal: </b><%= number_to_currency(milestone[:goal], precision: 0) %></li>
+                  </ul>
+                </div>
+
+                <div class="milestones__progress-wrapper">
+                  <span
+                    class="circle-progress circle-progress-timeline <%= milestone[:current] ? 'inprogress' : '' %>"
+                    data-position="<%= milestone[:position] %>"
+                    data-value="<%= milestone[:current_funds] / milestone[:goal_progress_display].to_f %>"
+                    data-animation="false"
+                    data-thickness="6">
+                    <span class="absolute-center"><%= milestone[:position] %></span>
+                  </span>
+
+                  <span class="circle-progress-connector <%= timeline_connector_class_for(milestone) %>"></span>
+                </div>
+
+                <div class="milestones__project-data">
+                  <h6>Milestone <%= milestone[:position] %></h6>
+                  <h5><%= milestone[:name] %></h5>
+
+                  <ul class="font-small">
+                    <li><b>Project Duration: </b><%= milestone[:project_duration] %> months</li>
+                    <li><b>Goal: </b><%= milestone[:description] %></li>
+                    <li><b>Project: </b><%= milestone[:project_status] %></li>
+                  </ul>
+                </div>
+              </li>
+            <% end %>
+
+            <li class="milestones__timeline-section">
+              <div class="milestones__funding-data"></div>
+              <i class="icon-halo-o"></i>
+              <div class="milestones__project-data">
+                <h5>Goal Achieved!</h5>
+                <div class="font-small"><%= @campaign.achievement_text %></div>
+              </div>
+            </li>
+          </ol>
+        </section>
+
+        <section role="tabpanel" class="tab-pane" id="questions">
+          <h3>Ask Dr. Frykman</h3>
+          <% if @campaign.campaign_questions.any? %>
+            <% @campaign.campaign_questions.sorted.each do |question| %>
+              <section class="question">
+                <h4><%= question.question %></h4>
+                <%= markdown(question.answer) %>
+              </section>
+            <% end %>
+          <% else %>
+            <p>It seems there are no questions for this campaign yet.</p>
+          <% end %>
+        </section>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <% if @campaign.sponsor %>
+        <section class="sponsor visible-lg">
+          <h3>With generous support from:</h3>
+          <%= link_to(@campaign.sponsor.url) do %>
+            <%= image_tag(@campaign.sponsor.logo_url(:landscape), alt: @campaign.sponsor.name) %>
+          <% end %>
+        </section>
+      <% end %>
+
+      <div class="visible-lg">
+        <%= render(partial: 'donation') %>
+      </div>
+
+      <section class="well well-wrapper padded how-it-works visible-lg">
+        <h3>How It Works</h3>
+        <dl>
+          <dt>Donate Directly</dt>
+          <dd class="font-small">
+            <%= image_tag('donate-directly.png', alt: 'Donate Directly')%>
+            Your tax-deductible donation funds a defined research project required to advance discovery
+          </dd>
+
+          <dt>Track Your Progress</dt>
+          <dd class="font-small">
+            <%= image_tag('track-your-progress.png', alt: 'Track Your Progress')%>
+            Receive regular updates on progress once the research project is funded
+          </dd>
+
+          <dt>See Your Impact</dt>
+          <dd class="font-small">
+            <%= image_tag('see-your-impact.png', alt: 'See your impact')%>
+            Earn <%= link_to('tokens of appreciation', donations_path(anchor: 'wallet')) %> when you donate yourself or simply share the campaign
+          </dd>
+        </dl>
+      </section>
+
+      <% if @campaign.public_donors.any? %>
+        <section class="well well-wrapper padded visible-lg">
+          <h3>Recent Donors</h3>
+          <ul class="list-unstyled">
+            <% @campaign.public_donors.each do |donor| %>
+              <li class="donor">
+                <%= avatar_for(donor) %>
+                <%= donor.name %>
+              </li>
+            <% end %>
+          </ul>
+        </section>
+      <% end %>
+    </div>
+  </div>
+</section>
+
+<% if false && @upcoming_campaigns.any? %>
+  <%= render(partial: 'campaigns/list', locals: { campaigns: @upcoming_campaigns, campaign_on_display: @campaign }) %>
+<% end %>

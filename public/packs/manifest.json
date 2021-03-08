@@ -1,0 +1,146 @@
+{
+  "application.js": "/packs/js/application-b05b347a476de0899e3e.js",
+  "application.js.map": "/packs/js/application-b05b347a476de0899e3e.js.map",
+  "companyLogin/index.js": "/packs/js/companyLogin/index-338e36fe6e1b4dd30b00.js",
+  "companyLogin/index.js.map": "/packs/js/companyLogin/index-338e36fe6e1b4dd30b00.js.map",
+  "companySignup/index.js": "/packs/js/companySignup/index-01961a9626785c6f3fb2.js",
+  "companySignup/index.js.map": "/packs/js/companySignup/index-01961a9626785c6f3fb2.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-b05b347a476de0899e3e.js"
+      ],
+      "js.map": [
+        "/packs/js/application-b05b347a476de0899e3e.js.map"
+      ]
+    },
+    "companyLogin/index": {
+      "js": [
+        "/packs/js/companyLogin/index-338e36fe6e1b4dd30b00.js"
+      ],
+      "js.map": [
+        "/packs/js/companyLogin/index-338e36fe6e1b4dd30b00.js.map"
+      ]
+    },
+    "companySignup/index": {
+      "js": [
+        "/packs/js/companySignup/index-01961a9626785c6f3fb2.js"
+      ],
+      "js.map": [
+        "/packs/js/companySignup/index-01961a9626785c6f3fb2.js.map"
+      ]
+    },
+    "login/index": {
+      "js": [
+        "/packs/js/login/index-33ce4866881a5e17b5bd.js"
+      ],
+      "js.map": [
+        "/packs/js/login/index-33ce4866881a5e17b5bd.js.map"
+      ]
+    },
+    "marketplace/index": {
+      "js": [
+        "/packs/js/marketplace/index-d90938e0f93ccd80148c.js"
+      ],
+      "js.map": [
+        "/packs/js/marketplace/index-d90938e0f93ccd80148c.js.map"
+      ]
+    },
+    "orcidRedirect": {
+      "js": [
+        "/packs/js/orcidRedirect-30f88bd7b96072782f26.js"
+      ],
+      "js.map": [
+        "/packs/js/orcidRedirect-30f88bd7b96072782f26.js.map"
+      ]
+    },
+    "register/index": {
+      "js": [
+        "/packs/js/register/index-f0543d643090dca15e83.js"
+      ],
+      "js.map": [
+        "/packs/js/register/index-f0543d643090dca15e83.js.map"
+      ]
+    },
+    "rfpForm/index": {
+      "js": [
+        "/packs/js/rfpForm/index-17279817c1fb64bb2d38.js"
+      ],
+      "js.map": [
+        "/packs/js/rfpForm/index-17279817c1fb64bb2d38.js.map"
+      ]
+    },
+    "universityLogin/index": {
+      "js": [
+        "/packs/js/universityLogin/index-ac26c78a6c0a13e3481e.js"
+      ],
+      "js.map": [
+        "/packs/js/universityLogin/index-ac26c78a6c0a13e3481e.js.map"
+      ]
+    },
+    "universityOnboarding/index": {
+      "js": [
+        "/packs/js/universityOnboarding/index-ea962806a6cc36a7a7b4.js"
+      ],
+      "js.map": [
+        "/packs/js/universityOnboarding/index-ea962806a6cc36a7a7b4.js.map"
+      ]
+    },
+    "universitySignup/index": {
+      "js": [
+        "/packs/js/universitySignup/index-0560280d52633f5c80b8.js"
+      ],
+      "js.map": [
+        "/packs/js/universitySignup/index-0560280d52633f5c80b8.js.map"
+      ]
+    },
+    "userOnboarding/index": {
+      "js": [
+        "/packs/js/userOnboarding/index-1260333cb1db1b395e47.js"
+      ],
+      "js.map": [
+        "/packs/js/userOnboarding/index-1260333cb1db1b395e47.js.map"
+      ]
+    }
+  },
+  "login/index.js": "/packs/js/login/index-33ce4866881a5e17b5bd.js",
+  "login/index.js.map": "/packs/js/login/index-33ce4866881a5e17b5bd.js.map",
+  "marketplace/index.js": "/packs/js/marketplace/index-d90938e0f93ccd80148c.js",
+  "marketplace/index.js.map": "/packs/js/marketplace/index-d90938e0f93ccd80148c.js.map",
+  "media/images/backgrounds/bean.svg": "/packs/media/images/backgrounds/bean-28789985b9841c71867a69e3f17df466.svg",
+  "media/images/backgrounds/droplet-background.svg": "/packs/media/images/backgrounds/droplet-background-82f7e7c670d8f7656f223cdb9d586878.svg",
+  "media/images/backgrounds/partner-background.png": "/packs/media/images/backgrounds/partner-background-e33fcddf9ca0d6a57c606534c941872d.png",
+  "media/images/backgrounds/scientist-background.png": "/packs/media/images/backgrounds/scientist-background-efb935e9674dd829bb0ba65091488b10.png",
+  "media/images/backgrounds/sign_up_graphic.svg": "/packs/media/images/backgrounds/sign_up_graphic-5e6113d20bd005780c71e27443e190bd.svg",
+  "media/images/halo-empty-state.png": "/packs/media/images/halo-empty-state-0f8c91885d83fe7fcb0c315e56fe326c.png",
+  "media/images/icons/employee.svg": "/packs/media/images/icons/employee-66fe995ed6e382b8c463c2e99f92c89d.svg",
+  "media/images/icons/expertise.svg": "/packs/media/images/icons/expertise-b4de73a6376a6e1fa5b8735ea15ef398.svg",
+  "media/images/icons/facilities.svg": "/packs/media/images/icons/facilities-0986ad071d9a3df0ad1cd6d02d283638.svg",
+  "media/images/icons/filled_heart.svg": "/packs/media/images/icons/filled_heart-d4951cb9510450393aaa29e0cb22122c.svg",
+  "media/images/icons/funding.svg": "/packs/media/images/icons/funding-aac6230daaa829714b148d7be7e9019a.svg",
+  "media/images/icons/globe.svg": "/packs/media/images/icons/globe-7e9e4cf7feb2a25c2d8a005653acd412.svg",
+  "media/images/icons/heart.svg": "/packs/media/images/icons/heart-06abd03863e09ebfb8f27fe0318797b0.svg",
+  "media/images/icons/lightning-blue.svg": "/packs/media/images/icons/lightning-blue-6cd9ea0ce7fbfa14f88c5e4c054217e4.svg",
+  "media/images/icons/lightning.svg": "/packs/media/images/icons/lightning-32e61bad54fb6d7487a4f803a6e7991d.svg",
+  "media/images/icons/location_pin.svg": "/packs/media/images/icons/location_pin-33c17cc24627fc060125e4a670bf89f9.svg",
+  "media/images/icons/reagents.svg": "/packs/media/images/icons/reagents-36006f7ebf0e338cd2680aa840fb9f39.svg",
+  "media/images/icons/technologies.svg": "/packs/media/images/icons/technologies-a293b3fa09a4474fb82ba5acff8822de.svg",
+  "media/images/icons/verified_partner_icon.svg": "/packs/media/images/icons/verified_partner_icon-b8dc5e0e92898a305d22536514566479.svg",
+  "media/images/icons/warning.svg": "/packs/media/images/icons/warning-7137a623fa10a5fb220b7d9d46135a75.svg",
+  "media/images/logos/baxter.png": "/packs/media/images/logos/baxter-e96ef479122e4fda5cdc2def19bb795e.png",
+  "media/images/logos/halo_logo.svg": "/packs/media/images/logos/halo_logo-f6d6d8b6cd1ce62502eed03dfd5e3418.svg",
+  "orcidRedirect.js": "/packs/js/orcidRedirect-30f88bd7b96072782f26.js",
+  "orcidRedirect.js.map": "/packs/js/orcidRedirect-30f88bd7b96072782f26.js.map",
+  "register/index.js": "/packs/js/register/index-f0543d643090dca15e83.js",
+  "register/index.js.map": "/packs/js/register/index-f0543d643090dca15e83.js.map",
+  "rfpForm/index.js": "/packs/js/rfpForm/index-17279817c1fb64bb2d38.js",
+  "rfpForm/index.js.map": "/packs/js/rfpForm/index-17279817c1fb64bb2d38.js.map",
+  "universityLogin/index.js": "/packs/js/universityLogin/index-ac26c78a6c0a13e3481e.js",
+  "universityLogin/index.js.map": "/packs/js/universityLogin/index-ac26c78a6c0a13e3481e.js.map",
+  "universityOnboarding/index.js": "/packs/js/universityOnboarding/index-ea962806a6cc36a7a7b4.js",
+  "universityOnboarding/index.js.map": "/packs/js/universityOnboarding/index-ea962806a6cc36a7a7b4.js.map",
+  "universitySignup/index.js": "/packs/js/universitySignup/index-0560280d52633f5c80b8.js",
+  "universitySignup/index.js.map": "/packs/js/universitySignup/index-0560280d52633f5c80b8.js.map",
+  "userOnboarding/index.js": "/packs/js/userOnboarding/index-1260333cb1db1b395e47.js",
+  "userOnboarding/index.js.map": "/packs/js/userOnboarding/index-1260333cb1db1b395e47.js.map"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="103px" viewBox="0 0 61 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Illustration</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Halo" transform="translate(-348.000000, -3120.000000)" fill-rule="nonzero" stroke="#9880D8">
+            <g id="Section-4" transform="translate(220.000000, 3000.000000)">
+                <g id="For-Scientists" transform="translate(0.000000, 121.000000)">
+                    <g id="For-scientists">
+                        <g id="Illustration" transform="translate(126.000000, 0.000000)">
+                            <g id="Group-18" transform="translate(0.000000, 33.000000)" stroke-width="2">
+                                <path d="M20.7088939,13 L3.27884158,62.6756491 C3.12951708,63.101224 3.05324151,63.5489881 3.05324151,64 C3.05324151,66.209139 4.84410251,68 7.05324151,68 L57.9467585,68 C58.3977704,68 58.8455345,67.9237244 59.2711093,67.7743999 C61.3556529,67.0429811 62.4525772,64.7601927 61.7211584,62.6756491 L44.2911061,13 L20.7088939,13 Z" id="Rectangle"></path>
+                                <path d="M25,38 C25,35.790861 23.209139,34 21,34 C18.790861,34 17,35.790861 17,38 L17,39 L12.4125012,39 C11.9891373,39 11.6116505,39.2666003 11.4700734,39.6655902 L3.30992908,62.6623606 C3.15752412,63.0918655 3.07964007,63.5442569 3.07964007,64 C3.07964007,66.209139 4.87050107,68 7.07964007,68 L57.9203599,68 C58.376103,68 58.8284944,67.9221159 59.2579993,67.769711 C61.3399532,67.0309532 62.4288287,64.7443145 61.6900709,62.6623606 L53.5299266,39.6655902 C53.3883495,39.2666003 53.0108627,39 52.5874988,39 L47,39 L47,38 C47,35.790861 45.209139,34 43,34 C40.790861,34 39,35.790861 39,38 C39,41.8659932 35.8659932,45 32,45 C28.1340068,45 25,41.8659932 25,38 Z" id="Combined-Shape" fill="#EAE3FB"></path>
+                                <path d="M21,13 L44,13 L44,2 C44,1.44771525 43.5522847,1 43,1 L22,1 C21.4477153,1 21,1.44771525 21,2 L21,13 Z" id="Rectangle"></path>
+                            </g>
+                            <g id="Group-19" transform="translate(13.000000, 0.000000)">
+                                <circle id="Oval" fill="#FFFFFF" cx="32" cy="84" r="2"></circle>
+                                <circle id="Oval" cx="23" cy="55" r="3"></circle>
+                                <circle id="Oval" cx="12" cy="40" r="2"></circle>
+                                <circle id="Oval" cx="2" cy="10" r="2"></circle>
+                                <circle id="Oval" cx="22.5" cy="20.5" r="2.5"></circle>
+                                <circle id="Oval" cx="14" cy="4" r="4"></circle>
+                                <circle id="Oval" fill="#FFFFFF" cx="2.5" cy="94.5" r="2.5"></circle>
+                                <circle id="Oval" fill="#FFFFFF" cx="13" cy="83" r="4"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

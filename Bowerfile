@@ -1,0 +1,14 @@
+# More options on https://github.com/42dev/bower-rails#ruby-dsl-configuration
+
+asset 'jquery-ujs', '1.0.4'
+asset 'bootstrap-sass', '3.3.6' do
+  main_files [
+    'assets/javascripts/bootstrap.js',
+    'assets/stylesheets/_bootstrap',
+    'assets/stylesheets/bootstrap/*'
+  ]
+end
+
+asset 'clipboard', '1.5.5'
+asset 'jquery-circle-progress', '1.2.2'
+asset 'slick-carousel', '1.8.1'

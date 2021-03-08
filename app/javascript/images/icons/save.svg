@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-RFP" transform="translate(-757.000000, -327.000000)">
+            <g id="Button" transform="translate(744.000000, 317.000000)">
+                <g id="Group-4">
+                    <g id="Bookmark" transform="translate(8.000000, 6.000000)">
+                        <rect id="bound" x="0" y="0" width="20" height="20"></rect>
+                        <path d="M7,5 L13.0439752,5 C13.5962599,5 14.0439752,5.44771525 14.0439752,6 L14.0439752,14.8835614 C14.0439752,15.1597038 13.8201175,15.3835614 13.5439752,15.3835614 C13.4604096,15.3835614 13.3781768,15.3626169 13.3047928,15.3226421 L10.5003523,13.7949665 C10.2021306,13.6325148 9.84184457,13.6325148 9.54362283,13.7949665 L6.73918238,15.3226421 C6.49668485,15.4547388 6.19301616,15.3652413 6.06091938,15.1227438 C6.02094458,15.0493598 6,14.967127 6,14.8835614 L6,6 C6,5.44771525 6.44771525,5 7,5 Z" id="Rectangle-31" stroke="#8A94A6" fill="#D3D6DD"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

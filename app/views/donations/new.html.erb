@@ -1,0 +1,136 @@
+<%= link_to(campaign_path(@campaign), class: 'back-to-campaign') do %>
+  <span class="icon-arrow-left font-small"></span>
+  Back to Campaign
+<% end %>
+<%= title("You are donating to <br><strong>#{ @campaign.name }</strong>", 'dotted') %>
+
+<%= simple_form_for [@campaign, @donation] do |f| %>
+  <div class="row">
+    <div class="col-md-8">
+      <h3>Payment Information</h3>
+
+      <p id="payment-errors" class="alert alert-danger hidden"></p>
+
+      <div class="payment-fields">
+        <div class="col-md-12">
+          <%= text_field_tag :card_number, nil, name: nil, placeholder: 'Card Number', data: { stripe: 'number' } %>
+        </div>
+        <div class="col-md-6">
+          <%= text_field_tag :exp_month, nil, name: nil, placeholder: 'MM', maxlength: 2, size: 3, data: { stripe: 'exp_month' } %>/
+          <%= text_field_tag :exp_year, nil, name: nil, placeholder: 'YY', maxlength: 2, size: 3, data: { stripe: 'exp_year' } %>
+        </div>
+        <div class="col-md-6">
+          <%= text_field_tag :card_code, nil, name: nil, placeholder: 'CVC', data: { stripe: 'cvc' } %>
+        </div>
+      </div>
+
+      <%= f.input :is_anonymous, label: false, inline_label: "Back Anonymously #{ link_to "What's this?", '#', data: { container: 'body', toggle: 'popover', placement: 'top', content: 'Donate without having your information displayed on the donors listing.' } }".html_safe %>
+
+      <% if false %>
+        <%= f.input :has_loved_one, label: false, as: :boolean, input_html: { id: 'has-loved-one' }, inline_label: "Add Loved One to Memorial Wall #{ link_to "What's this?", '#', data: { container: 'body', toggle: 'popover', placement: 'top', content: "With each donation, you receive a space on the #{ @campaign.disease.name } memorial wall to honor a loved one who has suffered from #{ @campaign.disease.name }" } }".html_safe %>
+        <%= f.input :loved_one_name, label: false, input_html: { placeholder: 'Name of Loved One', class: 'hidden', id: 'loved-one-name' } %>
+      <% end %>
+    </div>
+    <div class="col-md-4">
+      <div class="well-wrapper">
+        <div class="well confirmation">
+          <h3>Enter Donation</h3>
+          <%= f.input :amount, wrapper: :vertical_input_group, label: false do %>
+            <span class="input-group-addon">$</span>
+            <%= f.input_field :amount, class: 'form-control', as: :string, value: number_with_precision(@donation.amount, precision: 0) %>
+          <% end %>
+
+          <%= f.button :submit, 'Submit Donation', class: 'btn-lg' %>
+        </div>
+        <div class="well security-seal">
+          <div class="css-table">
+            <div class="css-table-row">
+              <div class="css-table-cell lock">
+                <span class="icon-lock"></span>
+              </div>
+              <div class="css-table-cell encryption">
+                We use 256-bit encryption to ensure your data is secure.
+              </div>
+              <div class="css-table-cell seal">
+                <div id="DigiCertClickID_dIzWrIx-" data-language="en">
+                  <a href="https://www.digicert.com/ev-ssl-certification/"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <section class="checkout-questions">
+        <h2>Frequently Asked Questions</h2>
+        <h3 data-toggle="collapse" data-target="#question-1">
+          When is my card charged?
+        </h3>
+        <p class="collapse" id="question-1">
+          Your card is charged immediately. <!-- It will show up on your credit card bill as 'Halo Inc.'. -->
+        </p>
+        <h3 data-toggle="collapse" data-target="#question-2">
+          What if the fundraising goal is not met?
+        </h3>
+        <p class="collapse" id="question-2">
+          If the fundraising goal is not met, the funds are still disbursed to the research project. While the fundraising goal is based on a detailed third-party assessment of costs, any amount of funding is helpful and can be deployed elsewhere to advance the research. However, you can still request a full refund within 30 days of payment.
+        </p>
+        <h3 data-toggle="collapse" data-target="#question-3">
+          What can others see about my donation?
+        </h3>
+        <p class="collapse" id="question-3">
+          Unless you checked "Back Anonymously," your name and profile photo (if logged in through Facebook) will appear under the list of Donors. The amount you donated will not be public.
+        </p>
+      </section>
+    </div>
+  </div>
+<% end %>
+
+<% content_for :javascript do %>
+  <script src="https://js.stripe.com/v2/"></script>
+  <script>
+    // Stripe
+    Stripe.setPublishableKey("<%= ENV['STRIPE_PUBLIC_KEY'] %>");
+
+    // Create a Single use Token
+    $(function() {
+      var $form = $('#new_donation');
+      $form.submit(function(event) {
+        // Disable the submit button to prevent repeated clicks:
+        $form.find('.submit').prop('disabled', true);
+
+        // Request a token from Stripe:
+        Stripe.card.createToken($form, stripeResponseHandler);
+
+        // Prevent the form from being submitted:
+        return false;
+      });
+    });
+
+    // Send the form to the server
+    function stripeResponseHandler(status, response) {
+      // Grab the form:
+      var $form = $('#new_donation');
+
+      if (response.error) { // Problem!
+        // Show the errors on the form:
+        $form.find('#payment-errors').text(response.error.message).removeClass('hidden');
+        $form.find('.submit').prop('disabled', false); // Re-enable submission
+
+      } else { // Token was created!
+
+        // Get the token ID:
+        var token = response.id;
+
+        // Insert the token ID into the form so it gets submitted to the server:
+        $form.append($('<input type="hidden" name="donation[stripe_card_token]">').val(token));
+
+        // Submit the form:
+        $form.get(0).submit();
+      }
+    };
+
+    // // Load DigiCert's Seal
+    var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_dIzWrIx-", "10", "m", "black", "dIzWrIx-"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+  </script>
+<% end %>

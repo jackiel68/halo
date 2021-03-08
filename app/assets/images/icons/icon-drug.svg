@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="103px" viewBox="0 0 58 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Halo" transform="translate(-1032.000000, -3120.000000)" fill-rule="nonzero">
+            <g id="Section-4" transform="translate(220.000000, 3000.000000)">
+                <g id="For-Drug-Companies" transform="translate(683.000000, 120.000000)">
+                    <g id="For-Drug-companies">
+                        <g id="Group-6" transform="translate(129.000000, 0.000000)">
+                            <g id="Pill-Box" transform="translate(0.000000, 28.000000)" stroke="#9880D8">
+                                <g id="Group-22" stroke-width="2">
+                                    <g id="Group-21" transform="translate(9.000000, 0.000000)">
+                                        <path d="M1,10 L39,10 L39,5 C39,2.790861 37.209139,1 35,1 L5,1 C2.790861,1 1,2.790861 1,5 L1,10 Z" id="Rectangle"></path>
+                                        <g id="Group-20" transform="translate(7.000000, 1.000000)" stroke-linecap="square">
+                                            <path d="M1,-1.27897692e-13 L1,8" id="Line-6"></path>
+                                            <path d="M8.83333333,-1.27897692e-13 L8.83333333,8" id="Line-6"></path>
+                                            <path d="M16.6666667,-1.27897692e-13 L16.6666667,8" id="Line-6"></path>
+                                            <path d="M24.5,-1.27897692e-13 L24.5,8" id="Line-6"></path>
+                                        </g>
+                                    </g>
+                                    <path d="M45.6692991,10 L12.8237387,10 L9.38353696,16.7617759 C8.71815722,18.0695912 7.59659662,19.0882424 6.23097445,19.6250732 L4.18164042,20.4306735 C2.26216638,21.1852253 1,23.0375734 1,25.1000304 L1,70 C1,72.209139 2.790861,74 5,74 L53,74 C55.209139,74 57,72.209139 57,70 L57,24.9819272 C57,22.9812544 55.7879937,21.179992 53.9347015,20.4263345 L52.0335904,19.653231 C50.6532167,19.09189 49.5311195,18.0369732 48.8857339,16.6938379 L45.6692991,10 Z" id="Rectangle"></path>
+                                </g>
+                                <g id="Group-26" transform="translate(9.000000, 29.000000)">
+                                    <rect id="Rectangle" stroke-width="2" fill="#EAE3FB" x="1" y="1" width="38" height="35" rx="2"></rect>
+                                    <g id="Group-25" transform="translate(9.000000, 8.000000)">
+                                        <g id="Group-24" transform="translate(1.000000, 0.000000)" stroke-linecap="round" stroke-width="2">
+                                            <path d="M4,0.5 L16,0.5" id="Line-7"></path>
+                                            <path d="M8.8817842e-15,4.5 L20,4.5" id="Line-7"></path>
+                                        </g>
+                                        <g id="Group-23" transform="translate(0.000000, 15.000000)">
+                                            <path d="M3,0 L11,0 L11,6 L3,6 C1.34314575,6 2.86246156e-14,4.65685425 2.84217094e-14,3 L2.84217094e-14,3 C2.82188033e-14,1.34314575 1.34314575,7.48448398e-16 3,4.4408921e-16 Z" id="Rectangle" fill="#FFFFFF"></path>
+                                            <path d="M14,0 L21,0 L21,6 L14,6 C12.3431458,6 11,4.65685425 11,3 L11,3 C11,1.34314575 12.3431458,3.04359188e-16 14,0 Z" id="Rectangle" fill="#DED8ED" transform="translate(16.000000, 3.000000) scale(-1, 1) translate(-16.000000, -3.000000) "></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Pill" transform="translate(45.000000, 6.000000) rotate(-10.000000) translate(-45.000000, -6.000000) translate(40.000000, 1.000000)">
+                                <circle id="Oval" stroke="#9880D8" fill="#FFFFFF" cx="5" cy="5" r="5"></circle>
+                                <path d="M5,10 C7.76142375,10 10,7.76142375 10,5 C10,2.23857625 7.76142375,0 5,0 L5,10 Z" id="Oval" fill="#DED8ED"></path>
+                                <circle id="Oval" stroke="#9880D8" cx="5" cy="5" r="5"></circle>
+                            </g>
+                            <g id="Pill" transform="translate(29.000000, 17.000000) rotate(30.000000) translate(-29.000000, -17.000000) translate(24.000000, 12.000000)">
+                                <circle id="Oval" stroke="#9880D8" fill="#FFFFFF" cx="5" cy="5" r="5"></circle>
+                                <path d="M5,10 C7.76142375,10 10,7.76142375 10,5 C10,2.23857625 7.76142375,0 5,0 L5,10 Z" id="Oval" fill="#DED8ED"></path>
+                                <circle id="Oval" stroke="#9880D8" cx="5" cy="5" r="5"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

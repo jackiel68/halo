@@ -1,0 +1,3473 @@
+
+Rank;Global Rank;Institution;Country;Sector
+1;4;Harvard University *;USA;Higher educ.
+2;5;Harvard Medical School;USA;Higher educ.
+3;8;Massachusetts Institute of Technology *;USA;Higher educ.
+4;9;Stanford University *;USA;Higher educ.
+5;12;Johns Hopkins University *;USA;Higher educ.
+6;13;Tsinghua University *;CHN;Higher educ.
+7;14;University of Oxford;GBR;Higher educ.
+8;17;University of Michigan, Ann Arbor *;USA;Higher educ.
+9;18;University College London;GBR;Higher educ.
+10;19;University of Washington *;USA;Higher educ.
+11;20;University of Toronto;CAN;Higher educ.
+12;23;University of Pennsylvania *;USA;Higher educ.
+13;25;The University of Hong Kong *;HKG;Higher educ.
+14;27;University of California, Los Angeles *;USA;Higher educ.
+15;28;Peking University *;CHN;Higher educ.
+16;29;Zhejiang University *;CHN;Higher educ.
+17;30;Shanghai Jiao Tong University *;CHN;Higher educ.
+18;32;University of Cambridge *;GBR;Higher educ.
+19;33;Columbia University *;USA;Higher educ.
+20;34;University of California, San Diego *;USA;Higher educ.
+21;38;University of California, Berkeley *;USA;Higher educ.
+22;39;Cornell University *;USA;Higher educ.
+23;41;University of California, San Francisco *;USA;Higher educ.
+24;42;University of Tokyo *;JPN;Higher educ.
+25;44;Yale University *;USA;Higher educ.
+26;45;Imperial College London;GBR;Higher educ.
+27;46;National University of Singapore *;SGP;Higher educ.
+28;47;Duke University *;USA;Higher educ.
+29;49;Universidade de Sao Paulo;BRA;Higher educ.
+30;51;University of Wisconsin, Madison *;USA;Higher educ.
+31;52;University of Melbourne;AUS;Higher educ.
+32;53;University of Minnesota, Twin Cities *;USA;Higher educ.
+33;54;University of Sydney;AUS;Higher educ.
+34;55;Swiss Federal Institute of Technology;CHE;Higher educ.
+35;57;Northwestern University, Evanston *;USA;Higher educ.
+36;58;University of North Carolina, Chapel Hill *;USA;Higher educ.
+37;59;Graduate University of the Chinese Academy of Sciences;CHN;Higher educ.
+38;63;University of Maryland, Baltimore;USA;Higher educ.
+39;64;The University of British Columbia;CAN;Higher educ.
+40;66;New York University *;USA;Higher educ.
+41;67;The University of Queensland *;AUS;Higher educ.
+42;69;Seoul National University *;KOR;Higher educ.
+43;72;Catholic University of Leuven;BEL;Higher educ.
+44;73;University of Pittsburgh *;USA;Higher educ.
+45;74;Ohio State University, Columbus *;USA;Higher educ.
+46;75;University of Copenhagen;DNK;Higher educ.
+47;79;Monash University, Melbourne *;AUS;Higher educ.
+48;80;University of California, Davis *;USA;Higher educ.
+49;81;Utrecht University *;NLD;Higher educ.
+50;82;Nanyang Technological University *;SGP;Higher educ.
+51;83;University of Southern California *;USA;Higher educ.
+51;83;University of Chicago *;USA;Higher educ.
+52;86;Pennsylvania State University *;USA;Higher educ.
+53;87;University of Florida *;USA;Higher educ.
+54;88;University of Amsterdam *;NLD;Higher educ.
+55;89;Washington University in Saint Louis *;USA;Higher educ.
+56;90;University of Illinois at Urbana-Champaign;USA;Higher educ.
+57;91;Fudan University *;CHN;Higher educ.
+58;92;Kings College London;GBR;Higher educ.
+59;93;The University of Manchester;GBR;Higher educ.
+60;94;University of Texas, Austin;USA;Higher educ.
+61;96;The University of Edinburgh *;GBR;Higher educ.
+62;97;Harvard-MIT Division of Health Sciences and Tecnology;USA;Higher educ.
+63;99;Kyoto University *;JPN;Higher educ.
+64;100;Vanderbilt University *;USA;Higher educ.
+65;101;Huazhong University of Science and Technology *;CHN;Higher educ.
+66;102;University of New South Wales;AUS;Higher educ.
+67;103;McGill University;CAN;Higher educ.
+68;105;Karolinska Institute;SWE;Higher educ.
+69;106;Emory University *;USA;Higher educ.
+70;110;Ecole Polytechnique Federale de Lausanne;CHE;Higher educ.
+71;112;Sorbonne Universite *;FRA;Higher educ.
+72;113;Georgia Institute of Technology;USA;Higher educ.
+73;114;Ghent University;BEL;Higher educ.
+74;116;Technische Universitat Munchen *;DEU;Higher educ.
+75;117;Harbin Institute of Technology;CHN;Higher educ.
+76;119;University of Alberta;CAN;Higher educ.
+77;124;Rutgers, The State University of New Jersey;USA;Higher educ.
+78;125;Sichuan University *;CHN;Higher educ.
+79;126;California Institute of Technology *;USA;Higher educ.
+80;128;Boston University *;USA;Higher educ.
+81;129;Jilin University *;CHN;Higher educ.
+82;130;Purdue University;USA;Higher educ.
+83;132;Sun Yat-Sen University *;CHN;Higher educ.
+84;133;University of Groningen *;NLD;Higher educ.
+85;134;Leiden University *;NLD;Higher educ.
+86;136;Weill Cornell Medical College;USA;Higher educ.
+87;137;VU University Amsterdam *;NLD;Higher educ.
+88;138;Universita degli Studi di Roma La Sapienza;ITA;Higher educ.
+89;139;University of Utah *;USA;Higher educ.
+90;140;Aarhus University *;DNK;Higher educ.
+90;140;Osaka University *;JPN;Higher educ.
+91;142;Tianjin University *;CHN;Higher educ.
+92;144;Ludwig-Maximilians Universitat Munchen *;DEU;Higher educ.
+93;145;Nanjing University *;CHN;Higher educ.
+94;147;Shandong University *;CHN;Higher educ.
+94;147;University of California, Irvine *;USA;Higher educ.
+95;149;Erasmus University Rotterdam *;NLD;Higher educ.
+96;150;Lunds University;SWE;Higher educ.
+97;153;Baylor College of Medicine;USA;Higher educ.
+98;157;National Taiwan University;TWN;Higher educ.
+98;157;Xi'an Jiaotong University *;CHN;Higher educ.
+99;158;The Rockefeller University *;USA;Higher educ.
+100;160;University of Science and Technology of China;CHN;Higher educ.
+101;161;South China University of Technology;CHN;Higher educ.
+101;161;Icahn School of Medicine at Mount Sinai;USA;Higher educ.
+102;162;Ecole Pratique des Hautes Etudes *;FRA;Higher educ.
+103;163;University of Helsinki;FIN;Higher educ.
+104;165;Universitat Zurich;CHE;Higher educ.
+105;167;Central South University *;CHN;Higher educ.
+106;169;Yonsei University *;KOR;Higher educ.
+107;170;Uppsala University;SWE;Higher educ.
+108;171;Princeton University;USA;Higher educ.
+109;172;University of Arizona *;USA;Higher educ.
+110;173;Carnegie Mellon University *;USA;Higher educ.
+111;174;Technical University of Denmark;DNK;Higher educ.
+112;175;Universitat Heidelberg *;DEU;Higher educ.
+113;177;Tongji University *;CHN;Higher educ.
+113;177;Universita degli Studi di Milano;ITA;Higher educ.
+114;178;University of Texas Southwestern Medical Center ;USA;Higher educ.
+115;179;Southeast University, Nanjing *;CHN;Higher educ.
+116;181;University of Glasgow *;GBR;Higher educ.
+117;182;Universitat de Barcelona *;ESP;Higher educ.
+117;182;University of Maryland, College Park *;USA;Higher educ.
+118;184;Universite Paris-Sud 11 *;FRA;Higher educ.
+119;185;Wuhan University *;CHN;Higher educ.
+120;187;University of Bristol;GBR;Higher educ.
+121;189;Tel Aviv University;ISR;Higher educ.
+122;190;Michigan State University;USA;Higher educ.
+122;190;University of Colorado, Denver *;USA;Higher educ.
+122;190;Korea Advanced Institute of Science and Technology *;KOR;Higher educ.
+123;191;Universita degli Studi di Padova;ITA;Higher educ.
+124;193;Texas A&M University, College Station;USA;Higher educ.
+125;194;Tohoku University *;JPN;Higher educ.
+126;195;University of Nottingham *;GBR;Higher educ.
+127;197;Arizona State University;USA;Higher educ.
+128;198;Universite Paris Diderot, Paris 7 *;FRA;Higher educ.
+129;199;Universite Paris-Descartes, Paris 5 *;FRA;Higher educ.
+130;200;Friedrich-Alexander-Universitat Erlangen-Nurnberg *;DEU;Higher educ.
+131;202;University of Colorado, Boulder *;USA;Higher educ.
+132;205;University of Virginia *;USA;Higher educ.
+132;205;University of Southampton;GBR;Higher educ.
+133;206;Soochow University, Suzhou *;CHN;Higher educ.
+134;207;University of Rochester *;USA;Higher educ.
+135;210;L'Alma Mater Studiorum - Universita di Bologna;ITA;Higher educ.
+135;210;Sungkyunkwan University;KOR;Higher educ.
+136;211;Case Western Reserve University;USA;Higher educ.
+137;213;University of Birmingham;GBR;Higher educ.
+138;214;Universite Grenoble-Alpes *;FRA;Higher educ.
+139;215;Delft University of Technology;NLD;Higher educ.
+140;216;University of Calgary;CAN;Higher educ.
+141;217;Korea University *;KOR;Higher educ.
+142;219;University of Iowa *;USA;Higher educ.
+143;221;University of Oslo;NOR;Higher educ.
+144;222;Universita degli Studi di Napoli Federico II;ITA;Higher educ.
+144;222;Universidade de Lisboa;PRT;Higher educ.
+145;224;University of California, Santa Barbara;USA;Higher educ.
+146;225;University of Alabama, Birmingham *;USA;Higher educ.
+147;226;Wageningen University and Research Centre *;NLD;Higher educ.
+148;227;University of Colorado, Anschutz Medical Campus;USA;Higher educ.
+149;229;The University of Western Australia;AUS;Higher educ.
+150;230;University of Leeds;GBR;Higher educ.
+151;232;Universitat Autonoma de Barcelona *;ESP;Higher educ.
+151;232;The University of Sheffield;GBR;Higher educ.
+152;234;Queen Mary, University of London;GBR;Higher educ.
+153;236;BeiHang University;CHN;Higher educ.
+154;238;North Carolina State University;USA;Higher educ.
+155;240;Oregon Health & Science University *;USA;Higher educ.
+156;241;Brown University;USA;Higher educ.
+156;241;Karlsruher Institut fur Technologie;DEU;Higher educ.
+157;243;Universitat Hamburg *;DEU;Higher educ.
+158;244;University of Miami *;USA;Higher educ.
+159;245;Weizmann Institute of Science;ISR;Higher educ.
+160;247;Rheinische Friedrich-Wilhelms-Universitat Bonn *;DEU;Higher educ.
+161;249;University of Illinois, Chicago *;USA;Higher educ.
+161;249;Rheinisch-Westfalische Technische Hochschule Aachen;DEU;Higher educ.
+162;250;The Chinese University of Hong Kong *;HKG;Higher educ.
+163;251;King Abdulaziz University;SAU;Higher educ.
+164;254;Universidad Nacional Autonoma de Mexico;MEX;Higher educ.
+165;258;Kyushu University *;JPN;Higher educ.
+166;259;The University of Adelaide;AUS;Higher educ.
+167;261;Medizinische Universitat Wien;AUT;Higher educ.
+167;261;Technische Universitat Dresden;DEU;Higher educ.
+167;261;Aix-Marseille Universite *;FRA;Higher educ.
+168;262;University of Pittsburgh Health Sciences;USA;Higher educ.
+169;267;Australian National University;AUS;Higher educ.
+170;273;Nankai University *;CHN;Higher educ.
+171;274;Cardiff University;GBR;Higher educ.
+172;275;University of Warwick;GBR;Higher educ.
+172;275;Universita degli Studi di Torino;ITA;Higher educ.
+172;275;Newcastle University Newcastle upon Tyne;GBR;Higher educ.
+173;276;Westfalische Wilhelms-Universitat Munster *;DEU;Higher educ.
+173;276;McMaster University;CAN;Higher educ.
+174;277;Nagoya University *;JPN;Higher educ.
+174;277;Dalian University of Technology;CHN;Higher educ.
+175;278;Eberhard-Karls-Universitat Tubingen *;DEU;Higher educ.
+176;279;Universidade do Porto *;PRT;Higher educ.
+176;279;University of Massachusetts Medical School;USA;Higher educ.
+176;279;Virginia Polytechnic Institute and State University;USA;Higher educ.
+177;280;Singapore-MIT Alliance;SGP;Higher educ.
+178;281;University of Liverpool *;GBR;Higher educ.
+178;281;University of Waterloo;CAN;Higher educ.
+179;282;University of Gothenburg;SWE;Higher educ.
+180;284;Chinese Academy of Medical Sciences and Peking Union Medical College *;CHN;Higher educ.
+180;284;Universite Paul Sabatier, Toulouse III *;FRA;Higher educ.
+181;287;King Abdullah University of Science and Technology;SAU;Higher educ.
+181;287;Rice University;USA;Higher educ.
+182;288;University of Electronic Science and Technology of China;CHN;Higher educ.
+183;289;Universitat Bern;CHE;Higher educ.
+183;289;Universite de Montreal;CAN;Higher educ.
+184;292;Hong Kong Polytechnic University;HKG;Higher educ.
+185;293;Universite Montpellier *;FRA;Higher educ.
+185;293;University of Malaya *;MYS;Higher educ.
+186;294;Johann Wolfgang Goethe-Universitat Frankfurt am Main *;DEU;Higher educ.
+186;294;Temple University *;USA;Higher educ.
+186;294;Indiana University-Purdue University Indianapolis;USA;Higher educ.
+187;295;University of Auckland;NZL;Higher educ.
+187;295;Hebrew University of Jerusalem;ISR;Higher educ.
+188;296;Tufts University;USA;Higher educ.
+189;297;Royal Institute of Technology;SWE;Higher educ.
+190;298;Universite de Strasbourg *;FRA;Higher educ.
+191;299;Hanyang University *;KOR;Higher educ.
+191;299;Universitat Basel;CHE;Higher educ.
+192;302;Universite de Geneve;CHE;Higher educ.
+193;305;University of Western Ontario;CAN;Higher educ.
+194;306;University of Georgia;USA;Higher educ.
+194;306;Universidad Complutense de Madrid *;ESP;Higher educ.
+195;308;Jiangnan University *;CHN;Higher educ.
+195;308;Albert-Ludwigs-Universitat Freiburg im Breisgau;DEU;Higher educ.
+196;310;Charles University *;CZE;Higher educ.
+197;311;Universite Claude Bernard Lyon 1;FRA;Higher educ.
+198;313;Hokkaido University *;JPN;Higher educ.
+199;314;University of Kentucky *;USA;Higher educ.
+199;314;Xiamen University *;CHN;Higher educ.
+200;315;University of Connecticut, Storrs *;USA;Higher educ.
+200;315;Universita degli Studi di Firenze;ITA;Higher educ.
+200;315;Dartmouth College *;USA;Higher educ.
+200;315;University of Kansas *;USA;Higher educ.
+201;317;California State University, Los Angeles;USA;Higher educ.
+202;318;University of Cincinnati *;USA;Higher educ.
+203;319;Wayne State University;USA;Higher educ.
+204;320;Iowa State University;USA;Higher educ.
+205;321;State University of New York, Stony Brook *;USA;Higher educ.
+206;322;Medizinische Hochschule Hannover;DEU;Higher educ.
+206;322;University of Ottawa;CAN;Higher educ.
+207;325;Julius-Maximilians-Universitat Wurzburg *;DEU;Higher educ.
+208;327;Johannes Gutenberg-Universitat Mainz *;DEU;Higher educ.
+209;328;Universidad Autonoma de Madrid *;ESP;Higher educ.
+210;330;Universidade Estadual Paulista Julio de Mesquita Filho;BRA;Higher educ.
+211;331;State University of New York, Buffalo;USA;Higher educ.
+212;332;Beijing Institute of Technology;CHN;Higher educ.
+213;336;Kyung Hee University *;KOR;Higher educ.
+213;336;Universita degli Studi di Pisa;ITA;Higher educ.
+214;337;Peking University Health Science Center;CHN;Higher educ.
+215;342;University of South Florida *;USA;Higher educ.
+216;346;Universidade Estadual de Campinas;BRA;Higher educ.
+216;346;Stockholm University;SWE;Higher educ.
+217;347;Eindhoven University of Technology;NLD;Higher educ.
+218;348;Pohang University of Science and Technology;KOR;Higher educ.
+218;348;Technion - Israel Institute of Technology *;ISR;Higher educ.
+219;349;Virginia Commonwealth University *;USA;Higher educ.
+220;351;Heinrich Heine Universitat Dusseldorf  *;DEU;Higher educ.
+220;351;Universite de Bordeaux *;FRA;Higher educ.
+221;353;Lomonosov  Moscow State University;RUS;Higher educ.
+222;354;King Saud University;SAU;Higher educ.
+222;354;City University of New York *;USA;Higher educ.
+223;358;Trinity College Dublin *;IRL;Higher educ.
+224;359;Universite de Lausanne;CHE;Higher educ.
+224;359;Hunan University;CHN;Higher educ.
+224;359;Universitat de Valencia *;ESP;Higher educ.
+225;360;University of Athens;GRC;Higher educ.
+226;361;Tokyo Institute of Technology;JPN;Higher educ.
+226;361;University of Massachusetts, Amherst;USA;Higher educ.
+227;362;Catholic University of Louvain;BEL;Higher educ.
+228;364;University of California, Riverside;USA;Higher educ.
+228;364;The Hong Kong University of Science and Technology;HKG;Higher educ.
+229;365;University of Delaware;USA;Higher educ.
+229;365;Linkoping University;SWE;Higher educ.
+229;365;Northeastern University;USA;Higher educ.
+230;366;Albert Einstein College of Medicine;USA;Higher educ.
+231;367;Universitat Duisburg Essen *;DEU;Higher educ.
+231;367;National Tsing Hua University;TWN;Higher educ.
+232;368;Aalto University;FIN;Higher educ.
+233;369;University of Exeter;GBR;Higher educ.
+233;369;Indiana University-Bloomington;USA;Higher educ.
+234;370;University of New Mexico *;USA;Higher educ.
+234;370;University of Texas, Health Science Center at Houston;USA;Higher educ.
+235;371;Universitat Ulm *;DEU;Higher educ.
+235;371;University of Texas, Dallas;USA;Higher educ.
+236;372;Wake Forest University *;USA;Higher educ.
+237;373;London School of Hygiene and Tropical Medicine;GBR;Higher educ.
+237;373;Nanjing Medical University *;CHN;Higher educ.
+238;374;University of Dundee;GBR;Higher educ.
+239;375;Politecnico di Milano;ITA;Higher educ.
+240;377;Universidade Federal do Rio de Janeiro;BRA;Higher educ.
+240;377;Universitat Wien;AUT;Higher educ.
+240;377;University of Tennessee, Knoxville *;USA;Higher educ.
+241;378;Aalborg University *;DNK;Higher educ.
+242;379;Chongqing University;CHN;Higher educ.
+243;380;East China University of Science and Technology;CHN;Higher educ.
+244;382;Chalmers University of Technology *;SWE;Higher educ.
+244;382;Friedrich-Schiller-Universitat Jena *;DEU;Higher educ.
+244;382;Freie Universitat Berlin *;DEU;Higher educ.
+244;382;Institut Eurecom;FRA;Higher educ.
+245;383;Beijing Normal University *;CHN;Higher educ.
+246;387;Tehran University of Medical Sciences *;IRN;Higher educ.
+247;388;University of Bergen;NOR;Higher educ.
+247;388;Georg-August-Universitat Gottingen *;DEU;Higher educ.
+247;388;Universitat zu Koln;DEU;Higher educ.
+247;388;Universidad de Granada *;ESP;Higher educ.
+248;389;China Agricultural University;CHN;Higher educ.
+249;392;University of Notre Dame;USA;Higher educ.
+250;393;Keio University *;JPN;Higher educ.
+251;394;University of Twente;NLD;Higher educ.
+251;394;University of Cape Town;ZAF;Higher educ.
+252;395;University of Nebraska, Lincoln;USA;Higher educ.
+252;395;University of California, Santa Cruz;USA;Higher educ.
+252;395;University College Dublin;IRL;Higher educ.
+253;397;Radboud University Nijmegen;NLD;Higher educ.
+254;398;University of Missouri, Columbia *;USA;Higher educ.
+255;399;Georgetown University *;USA;Higher educ.
+255;399;University of Oklahoma *;USA;Higher educ.
+256;400;Colorado State University;USA;Higher educ.
+257;401;Universita degli Studi di Roma Tor Vergata;ITA;Higher educ.
+257;401;University of Aberdeen;GBR;Higher educ.
+257;401;George Washington University *;USA;Higher educ.
+258;402;Queen's University Belfast;GBR;Higher educ.
+259;403;University of St. Andrews;GBR;Higher educ.
+259;403;Vrije Universiteit Brussel;BEL;Higher educ.
+260;405;Second Military Medical University *;CHN;Higher educ.
+261;407;University of Manitoba;CAN;Higher educ.
+262;408;University of Texas Medical Branch ;USA;Higher educ.
+263;409;Universitat Politecnica de Valencia *;ESP;Higher educ.
+263;409;University of Southern Denmark;DNK;Higher educ.
+264;410;National Cheng Kung University;TWN;Higher educ.
+264;410;Laval University;CAN;Higher educ.
+264;410;University of Tsukuba *;JPN;Higher educ.
+265;411;Ulsan National Institute of Science and Technology *;KOR;Higher educ.
+265;411;Florida State University *;USA;Higher educ.
+265;411;University of Ljubljana *;SVN;Higher educ.
+265;411;Universidade Federal do Rio Grande do Sul;BRA;Higher educ.
+265;411;Umea University *;SWE;Higher educ.
+265;411;University of Texas Health Science Center at San Antonio ;USA;Higher educ.
+266;412;Universidad de Sevilla *;ESP;Higher educ.
+266;412;Northwestern Polytechnical University;CHN;Higher educ.
+267;413;University of Durham;GBR;Higher educ.
+267;413;University of York;GBR;Higher educ.
+268;414;Norwegian University of Science and Technology;NOR;Higher educ.
+269;415;Universite Libre de Bruxelles;BEL;Higher educ.
+270;416;Oregon State University;USA;Higher educ.
+271;417;Universidad del Pais Vasco *;ESP;Higher educ.
+271;417;Griffith University;AUS;Higher educ.
+271;417;Thomas Jefferson University *;USA;Higher educ.
+272;418;University of Minnesota Health and Medicine;USA;Higher educ.
+272;418;University of Houston;USA;Higher educ.
+272;418;University of Belgrade;SRB;Higher educ.
+273;419;University of East Anglia *;GBR;Higher educ.
+273;419;Universitat Politecnica de Catalunya *;ESP;Higher educ.
+273;419;Universitat Leipzig *;DEU;Higher educ.
+274;420;National Chiao Tung University;TWN;Higher educ.
+275;421;Universidade Federal de Minas Gerais;BRA;Higher educ.
+275;421;Dalhousie University;CAN;Higher educ.
+276;422;Xidian University;CHN;Higher educ.
+276;422;Curtin University;AUS;Higher educ.
+277;423;Beijing University of Chemical Technology;CHN;Higher educ.
+278;424;Ruhr-Universitat Bochum *;DEU;Higher educ.
+278;424;City University of Hong Kong *;HKG;Higher educ.
+278;424;Universitat des Saarlandes *;DEU;Higher educ.
+279;425;Kyungpook National University *;KOR;Higher educ.
+280;426;Medical University of South Carolina *;USA;Higher educ.
+280;426;Simon Fraser University;CAN;Higher educ.
+281;427;University of Bath;GBR;Higher educ.
+281;427;Universite de Liege;BEL;Higher educ.
+282;428;University of Antwerp;BEL;Higher educ.
+283;429;Queen's University;CAN;Higher educ.
+283;429;Technische Universitat Berlin *;DEU;Higher educ.
+284;430;University of Wollongong *;AUS;Higher educ.
+284;430;Universitat Stuttgart *;DEU;Higher educ.
+284;430;China Pharmaceutical University;CHN;Higher educ.
+285;431;University of Surrey;GBR;Higher educ.
+285;431;Deakin University;AUS;Higher educ.
+286;432;Konkuk University *;KOR;Higher educ.
+287;434;Maastricht University;NLD;Higher educ.
+288;435;Christian-Albrechts-Universitat zu Kiel;DEU;Higher educ.
+288;435;Jiangsu University *;CHN;Higher educ.
+289;437;Jagiellonian University;POL;Higher educ.
+289;437;Capital University of Medical Sciences;CHN;Higher educ.
+289;437;Fourth Military Medical University *;CHN;Higher educ.
+289;437;Universita degli Studi di Genova;ITA;Higher educ.
+290;438;Drexel University;USA;Higher educ.
+291;439;Universitat Pompeu Fabra *;ESP;Higher educ.
+292;440;Queensland University of Technology;AUS;Higher educ.
+293;441;Technische Universitat Wien *;AUT;Higher educ.
+294;442;University of Leicester;GBR;Higher educ.
+294;442;Universidade de Coimbra;PRT;Higher educ.
+294;442;University of Ulsan *;KOR;Higher educ.
+295;443;University of Otago;NZL;Higher educ.
+296;444;Universitat Regensburg *;DEU;Higher educ.
+297;446;Medical College of Wisconsin;USA;Higher educ.
+297;446;University of South Carolina *;USA;Higher educ.
+297;446;National Yang-Ming University;TWN;Higher educ.
+298;447;Chang Gung University;TWN;Higher educ.
+298;447;China Medical University, Taichung *;TWN;Higher educ.
+298;447;Universita degli Studi di Pavia;ITA;Higher educ.
+299;449;Beijing University of Posts and Telecommunications;CHN;Higher educ.
+299;449;Ecole Normale Superieure de Paris *;FRA;Higher educ.
+300;450;Lanzhou University *;CHN;Higher educ.
+300;450;University of Nebraska Medical Center;USA;Higher educ.
+301;451;3rd Military Medical University *;CHN;Higher educ.
+302;452;University of Louisville *;USA;Higher educ.
+302;452;University College Cork *;IRL;Higher educ.
+302;452;Shanghai Medical College of Fudan University;CHN;Higher educ.
+302;452;Zhengzhou University *;CHN;Higher educ.
+303;453;University of Hawaii, Manoa *;USA;Higher educ.
+304;455;Philipps-Universitat Marburg *;DEU;Higher educ.
+304;455;University of Central Florida;USA;Higher educ.
+304;455;Universidad de Zaragoza *;ESP;Higher educ.
+304;455;Universidad de Chile *;CHL;Higher educ.
+305;456;Macquarie University *;AUS;Higher educ.
+305;456;Aristotle University of Thessaloniki;GRC;Higher educ.
+306;457;Universite de Lille *;FRA;Higher educ.
+306;457;Medizinische Universitat Innsbruck *;AUT;Higher educ.
+306;457;Universita degli Studi di Milano-Bicocca;ITA;Higher educ.
+306;457;Technische Universitat Darmstadt;DEU;Higher educ.
+306;457;Humboldt-Universitat zu Berlin *;DEU;Higher educ.
+306;457;University of Technology, Sydney;AUS;Higher educ.
+307;458;Universidad de Navarra *;ESP;Higher educ.
+308;459;Ecole Nationale Superieure de Chimie de Montpellier *;FRA;Higher educ.
+308;459;Augusta University;USA;Higher educ.
+309;460;Technische Universitat Graz;AUT;Higher educ.
+309;460;University of Sussex;GBR;Higher educ.
+310;461;Shanghai University;CHN;Higher educ.
+310;461;University of Turku;FIN;Higher educ.
+311;462;Pontificia Universidad Catolica de Chile *;CHL;Higher educ.
+312;464;Pusan National University;KOR;Higher educ.
+312;464;Universidad Politecnica de Madrid *;ESP;Higher educ.
+313;465;Catholic University of Korea *;KOR;Higher educ.
+313;465;University of Science and Technology Beijing;CHN;Higher educ.
+314;469;Universita degli Studi di Perugia;ITA;Higher educ.
+314;469;Nanjing Agricultural University;CHN;Higher educ.
+314;469;Tulane University *;USA;Higher educ.
+314;469;University of South Australia;AUS;Higher educ.
+315;470;Justus-Liebig-Universitat Giessen *;DEU;Higher educ.
+315;470;University of Oulu;FIN;Higher educ.
+315;470;Nanjing University of Science and Technology;CHN;Higher educ.
+315;470;Institut Polytechnique de Grenoble *;FRA;Higher educ.
+316;471;Southern Medical University *;CHN;Higher educ.
+316;471;Universitat fur Bodenkultur Wien *;AUT;Higher educ.
+317;472;Washington State University, Pullman;USA;Higher educ.
+318;473;Ben-Gurion University of the Negev;ISR;Higher educ.
+319;474;Nanjing University of Aeronautics and Astronautics;CHN;Higher educ.
+320;476;University of Tehran;IRN;Higher educ.
+320;476;Florida International University;USA;Higher educ.
+320;476;University of Pretoria;ZAF;Higher educ.
+321;479;China University of Mining and Technology;CHN;Higher educ.
+321;479;East China Normal University;CHN;Higher educ.
+321;479;University of Technology, Malaysia;MYS;Higher educ.
+321;479;Universidad de Buenos Aires *;ARG;Higher educ.
+322;481;Rush University *;USA;Higher educ.
+322;481;Huazhong Agricultural University;CHN;Higher educ.
+322;481;Chonnam National University;KOR;Higher educ.
+322;481;Universite de Lorraine *;FRA;Higher educ.
+323;482;Universita Cattolica del Sacro Cuore;ITA;Higher educ.
+324;483;Louisiana State University, Baton Rouge;USA;Higher educ.
+324;483;The University of Newcastle;AUS;Higher educ.
+324;483;Universita degli Studi di Bari;ITA;Higher educ.
+324;483;Lancaster University;GBR;Higher educ.
+324;483;University of Strathclyde;GBR;Higher educ.
+324;483;University of Zagreb;HRV;Higher educ.
+325;484;University of the Witwatersrand, Johannesburg;ZAF;Higher educ.
+325;484;Ewha Womans University *;KOR;Higher educ.
+325;484;Rensselaer Polytechnic Institute;USA;Higher educ.
+326;485;Universidade Federal de Sao Paulo;BRA;Higher educ.
+326;485;Universita degli Studi di Catania;ITA;Higher educ.
+327;486;Shenyang Pharmaceutical University;CHN;Higher educ.
+328;487;University of Saskatchewan;CAN;Higher educ.
+329;489;Universite de Nantes *;FRA;Higher educ.
+330;490;Northwest A and F University;CHN;Higher educ.
+331;491;University Putra Malaysia;MYS;Higher educ.
+332;492;Tianjin Medical University *;CHN;Higher educ.
+332;492;Universita degli Studi di Palermo;ITA;Higher educ.
+332;492;Royal Melbourne Institute of Technology *;AUS;Higher educ.
+333;494;University of Science, Malaysia *;MYS;Higher educ.
+333;494;Jinan University *;CHN;Higher educ.
+333;494;Taipei Medical University;TWN;Higher educ.
+334;495;Universite Nice Sophia Antipolis *;FRA;Higher educ.
+334;495;Politecnico di Torino *;ITA;Higher educ.
+334;495;China University of Geosciences;CHN;Higher educ.
+335;496;Kansas State University;USA;Higher educ.
+335;496;Universidade do Minho;PRT;Higher educ.
+335;496;Chiba University *;JPN;Higher educ.
+336;497;Universita degli Studi di Parma;ITA;Higher educ.
+336;497;University of Vermont;USA;Higher educ.
+337;498;University of Oklahoma Health Sciences Center;USA;Higher educ.
+337;498;National University of Defense Technology;CHN;Higher educ.
+338;501;Hiroshima University *;JPN;Higher educ.
+339;502;Bar-Ilan University;ISR;Higher educ.
+340;503;Georgia State University;USA;Higher educ.
+340;503;Universite de Fribourg;CHE;Higher educ.
+341;504;Universitat Konstanz;DEU;Higher educ.
+341;504;Universidade Nova de Lisboa;PRT;Higher educ.
+342;505;National University of Malaysia *;MYS;Higher educ.
+342;505;Harbin Medical University *;CHN;Higher educ.
+343;506;Swedish University of Agricultural Sciences;SWE;Higher educ.
+343;506;Medizinische Universitat Graz *;AUT;Higher educ.
+343;506;Okayama University *;JPN;Higher educ.
+343;506;Universite du Luxembourg;LUX;Higher educ.
+344;507;Cairo University;EGY;Higher educ.
+345;508;Loughborough University;GBR;Higher educ.
+346;509;Universita degli Studi di Salerno;ITA;Higher educ.
+346;509;AgroParisTech, Institut des Sciences et Industries du Vivant et de l'Environnement *;FRA;Higher educ.
+347;510;Tokyo Medical and Dental University;JPN;Higher educ.
+348;511;National Chung Hsing University;TWN;Higher educ.
+348;511;Universidade de Santiago de Compostela *;ESP;Higher educ.
+349;512;Chonbuk National University *;KOR;Higher educ.
+349;512;University of Guelph;CAN;Higher educ.
+350;513;Tallinn University of Technology;EST;Higher educ.
+350;513;Northeastern University, China;CHN;Higher educ.
+351;514;University of Eastern Finland;FIN;Higher educ.
+351;514;Southwest University *;CHN;Higher educ.
+351;514;The University of Reading;GBR;Higher educ.
+352;515;Universita Vita-Salute San Raffaele;ITA;Higher educ.
+353;516;Indian Institute of Science;IND;Higher educ.
+353;516;Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris *;FRA;Higher educ.
+354;517;Universita degli Studi di Trento;ITA;Higher educ.
+354;517;Tokyo University of Pharmacy and Life Science;JPN;Higher educ.
+355;518;Ngee Ann Polytechnic;SGP;Higher educ.
+355;518;Wuhan University of Technology;CHN;Higher educ.
+355;518;University of Connecticut Health Center;USA;Higher educ.
+355;518;Universidade de Aveiro;PRT;Higher educ.
+355;518;Kobe University *;JPN;Higher educ.
+356;519;Fuzhou University;CHN;Higher educ.
+356;519;Texas A&M University, Health Science Center;USA;Higher educ.
+357;521;Virginia-Maryland Regional College of Veterinary Medicine;USA;Higher educ.
+357;521;Shenzhen University;CHN;Higher educ.
+357;521;University of Victoria;CAN;Higher educ.
+358;522;College de France *;FRA;Higher educ.
+358;522;Universite de Rennes 1;FRA;Higher educ.
+358;522;Stellenbosch University;ZAF;Higher educ.
+358;522;Karl Franzens Universitat Graz;AUT;Higher educ.
+358;522;Nanjing University of Technology;CHN;Higher educ.
+358;522;Mahidol University;THA;Higher educ.
+359;523;University of Warsaw;POL;Higher educ.
+359;523;Universidad de Oviedo *;ESP;Higher educ.
+360;524;Chungnam National University;KOR;Higher educ.
+360;524;University of Mississippi *;USA;Higher educ.
+361;525;Universita degli Studi di Ferrara;ITA;Higher educ.
+362;526;Ajou University;KOR;Higher educ.
+362;526;Wenzhou Medical College *;CHN;Higher educ.
+362;526;Singapore University of Technology and Design;SGP;Higher educ.
+362;526;Universita degli Studi di Siena;ITA;Higher educ.
+362;526;University of Tartu;EST;Higher educ.
+363;527;Universita degli Studi di Modena e Reggio Emilia;ITA;Higher educ.
+363;527;University of Oregon;USA;Higher educ.
+363;527;North China Electric Power University;CHN;Higher educ.
+364;528;University of Tasmania;AUS;Higher educ.
+364;528;Bilkent University;TUR;Higher educ.
+364;528;Gwangju Institute of Science and Technology;KOR;Higher educ.
+365;529;University of Arkansas, Medical Sciences;USA;Higher educ.
+365;529;Brandeis University;USA;Higher educ.
+365;529;National University of Ireland, Galway;IRL;Higher educ.
+365;529;St Georges University of London;GBR;Higher educ.
+365;529;Chung-Ang University *;KOR;Higher educ.
+366;530;Korea University of Science and Technology;KOR;Higher educ.
+366;530;Okinawa Institute of Science and Technology Graduate University;JPN;Higher educ.
+366;530;Flinders University;AUS;Higher educ.
+366;530;Zhejiang University of Technology;CHN;Higher educ.
+367;531;State University of New York, Albany;USA;Higher educ.
+367;531;La Trobe University;AUS;Higher educ.
+367;531;Universita degli Studi della Campania Luigi Vanvitelli;ITA;Higher educ.
+368;532;Juntendo University *;JPN;Higher educ.
+368;532;Universitat Rostock *;DEU;Higher educ.
+368;532;Universite de Versailles Saint Quentin en Yvelines *;FRA;Higher educ.
+368;532;George Mason University;USA;Higher educ.
+369;533;Semmelweis University;HUN;Higher educ.
+369;533;Telecom ParisTech *;FRA;Higher educ.
+370;534;Chulalongkorn University;THA;Higher educ.
+370;534;Brigham Young University;USA;Higher educ.
+371;535;Waseda University;JPN;Higher educ.
+371;535;Gifu Pharmaceutical University;JPN;Higher educ.
+372;536;Universita degli Studi di Verona;ITA;Higher educ.
+372;536;Universitas Sumatera Utara;IDN;Higher educ.
+372;536;Nanchang University *;CHN;Higher educ.
+373;537;Ecole Normale Superieure de Lyon;FRA;Higher educ.
+374;538;Universitat Innsbruck;AUT;Higher educ.
+374;538;Beijing Jiaotong University;CHN;Higher educ.
+374;538;West Virginia University *;USA;Higher educ.
+374;538;Masaryk University;CZE;Higher educ.
+375;539;Martin-Luther-Universitat Halle-Wittenberg *;DEU;Higher educ.
+375;539;Universidade Federal de Santa Catarina;BRA;Higher educ.
+375;539;Saint Louis University, Saint Louis *;USA;Higher educ.
+376;540;York University;CAN;Higher educ.
+376;540;Veterinarmedizinische Universitat Wien *;AUT;Higher educ.
+376;540;Kanazawa University *;JPN;Higher educ.
+376;540;Universitat Bielefeld;DEU;Higher educ.
+376;540;Yeungnam University;KOR;Higher educ.
+377;541;University of Tampere;FIN;Higher educ.
+378;542;London School of Economics and Political Science;GBR;Higher educ.
+378;542;Kumamoto University *;JPN;Higher educ.
+378;542;Jawaharlal Nehru Centre for Advanced Scientific Research;IND;Higher educ.
+378;542;Cag University;TUR;Higher educ.
+378;542;University of KwaZulu-Natal *;ZAF;Higher educ.
+378;542;China Medical University, Shenyang *;CHN;Higher educ.
+378;542;Kaohsiung Medical University;TWN;Higher educ.
+378;542;Gottfried Wilhelm Leibniz Universitat Hannover;DEU;Higher educ.
+379;543;Beijing University of Technology;CHN;Higher educ.
+379;543;The University of Kent;GBR;Higher educ.
+379;543;Universitat Jaume I *;ESP;Higher educ.
+379;543;Universidad de Salamanca *;ESP;Higher educ.
+380;544;Universita degli Studi di Trieste;ITA;Higher educ.
+380;544;Texas Tech University;USA;Higher educ.
+380;544;Kangwon National University *;KOR;Higher educ.
+380;544;Sherbrooke University;CAN;Higher educ.
+380;544;Clemson University;USA;Higher educ.
+380;544;Tampere University of Technology;FIN;Higher educ.
+380;544;Universite Clermont-Auvergne *;FRA;Higher educ.
+381;545;University of Tromso;NOR;Higher educ.
+381;545;Hohai University;CHN;Higher educ.
+381;545;University of Iceland;ISL;Higher educ.
+382;546;Chongqing Medical University *;CHN;Higher educ.
+382;546;National Institute of Pharmaceutical Education and Research;IND;Higher educ.
+383;547;Harbin Engineering University;CHN;Higher educ.
+384;549;Universidade Federal do Parana;BRA;Higher educ.
+385;550;Universidad Nacional de Colombia *;COL;Higher educ.
+385;550;Universidad de Murcia *;ESP;Higher educ.
+385;550;James Cook University *;AUS;Higher educ.
+385;550;Universitat zu Lubeck;DEU;Higher educ.
+386;551;Technische Universitat Dortmund *;DEU;Higher educ.
+387;554;Boston College;USA;Higher educ.
+388;555;Universite du Quebec in Quebec *;CAN;Higher educ.
+388;555;China University of Petroleum;CHN;Higher educ.
+389;556;Shanghai University of Traditional Chinese Medicine *;CHN;Higher educ.
+389;556;Technische Universitat Braunschweig;DEU;Higher educ.
+390;557;Aston University;GBR;Higher educ.
+391;558;Inha University;KOR;Higher educ.
+391;558;Oxford University Clinical Research Unit;VNM;Higher educ.
+392;559;University of Crete;GRC;Higher educ.
+392;559;Donghua University;CHN;Higher educ.
+393;560;Hefei University of Technology;CHN;Higher educ.
+393;560;Dongguk University *;KOR;Higher educ.
+393;560;Ernst-Moritz-Arndt-Universitat Greifswald *;DEU;Higher educ.
+394;561;Ecole Polytechnique *;FRA;Higher educ.
+395;562;Dankook University;KOR;Higher educ.
+395;562;Louisiana State University, Health Sciences Center;USA;Higher educ.
+395;562;Institut National Polytechnique de Toulouse *;FRA;Higher educ.
+395;562;Universitat Potsdam;DEU;Higher educ.
+395;562;Utah State University *;USA;Higher educ.
+396;563;Universita Politecnica delle Marche;ITA;Higher educ.
+397;564;University of California, Merced;USA;Higher educ.
+397;564;Nagoya City University *;JPN;Higher educ.
+397;564;Brunel University;GBR;Higher educ.
+397;564;Royal Veterinary College, University of London;GBR;Higher educ.
+398;565;Universidad de Puerto Rico, Ciencias Medicas;PRI;Higher educ.
+398;565;New York Medical College;USA;Higher educ.
+398;565;Universita degli Studi Magna Graecia di Catanzaro;ITA;Higher educ.
+398;565;Universita della Svizzera Italiana;CHE;Higher educ.
+398;565;Universitat Bremen *;DEU;Higher educ.
+399;566;Universitat Rovira i Virgili *;ESP;Higher educ.
+399;566;San Diego State University;USA;Higher educ.
+399;566;Auburn University;USA;Higher educ.
+399;566;Loyola University of Chicago *;USA;Higher educ.
+400;567;Qingdao University *;CHN;Higher educ.
+400;567;Uniformed Services University of the Health Sciences;USA;Higher educ.
+400;567;Universita degli Studi Gabriele d'Annunzio di Chieti e Pescara;ITA;Higher educ.
+400;567;Universidad Carlos III de Madrid *;ESP;Higher educ.
+400;567;Universita degli Studi di Brescia;ITA;Higher educ.
+401;568;Swansea University;GBR;Higher educ.
+401;568;Universitat Bayreuth;DEU;Higher educ.
+401;568;Hong Kong Baptist University;HKG;Higher educ.
+401;568;Liverpool School of Tropical Medicine;GBR;Higher educ.
+401;568;City University of New York, City College;USA;Higher educ.
+402;569;Shahid Beheshti University of Medical Sciences and Health Services;IRN;Higher educ.
+402;569;University of Western Sydney;AUS;Higher educ.
+403;571;National Central University;TWN;Higher educ.
+403;571;Royal Holloway, University of London;GBR;Higher educ.
+403;571;New Jersey Institute of Technology;USA;Higher educ.
+403;571;Albany Medical College;USA;Higher educ.
+403;571;Carleton University;CAN;Higher educ.
+403;571;Scuola Superiore S. Anna di Studi Universitari e di Perfezionamento;ITA;Higher educ.
+403;571;Vilnius University;LTU;Higher educ.
+404;572;Weill Cornell Medical College in Qatar;QAT;Higher educ.
+404;572;Hallym University *;KOR;Higher educ.
+404;572;Illinois Institute of Technology;USA;Higher educ.
+405;573;University of Delhi *;IND;Higher educ.
+405;573;City University London;GBR;Higher educ.
+405;573;Southwest Jiaotong University;CHN;Higher educ.
+405;573;Montana State University, Bozeman;USA;Higher educ.
+406;574;AGH University of Science and Technology;POL;Higher educ.
+406;574;Yokohama City University *;JPN;Higher educ.
+407;575;Abo Academy University;FIN;Higher educ.
+407;575;Universita degli Studi di Messina;ITA;Higher educ.
+407;575;Palacky University;CZE;Higher educ.
+407;575;Universita della Calabria;ITA;Higher educ.
+407;575;Ningbo University;CHN;Higher educ.
+408;576;Universite de Bourgogne *;FRA;Higher educ.
+409;577;Medical University of Warsaw;POL;Higher educ.
+409;577;University of Texas, Arlington;USA;Higher educ.
+409;577;All India Institute of Medical Sciences;IND;Higher educ.
+409;577;University of Szeged;HUN;Higher educ.
+409;577;Johannes Kepler Universitat Linz;AUT;Higher educ.
+409;577;Universita degli Studi del Piemonte Orientale Amedeo Avogadro;ITA;Higher educ.
+410;578;Universitat d'Alacant *;ESP;Higher educ.
+410;578;Yangzhou University;CHN;Higher educ.
+410;578;University of Mississippi Medical Center;USA;Higher educ.
+410;578;Universidad de Malaga *;ESP;Higher educ.
+410;578;Norwegian University of Life Sciences;NOR;Higher educ.
+410;578;University of Tokushima *;JPN;Higher educ.
+411;579;Kindai University *;JPN;Higher educ.
+411;579;Gyeongsang National University *;KOR;Higher educ.
+411;579;Royal College of Surgeons;IRL;Higher educ.
+411;579;Tokyo University of Science;JPN;Higher educ.
+411;579;Universidad de Puerto Rico *;PRI;Higher educ.
+411;579;University of Jinan;CHN;Higher educ.
+411;579;University of Debrecen;HUN;Higher educ.
+412;580;Texas Tech University Health Sciences Center;USA;Higher educ.
+412;580;Indian Institute of Technology, Kharagpur;IND;Higher educ.
+412;580;South China Normal University;CHN;Higher educ.
+412;580;University of Essex;GBR;Higher educ.
+413;581;University of Alabama, Tuscaloosa;USA;Higher educ.
+413;581;University of Bradford;GBR;Higher educ.
+413;581;University of Macau;MAC;Higher educ.
+414;582;University of Wisconsin, Milwaukee;USA;Higher educ.
+414;582;Laureate International Universities *;MUL;Higher educ.
+414;582;Universidade de Brasilia;BRA;Higher educ.
+414;582;Tabriz University of Medical Sciences;IRN;Higher educ.
+414;582;Heriot-Watt University;GBR;Higher educ.
+415;583;University of Jyvaskyla;FIN;Higher educ.
+415;583;Warsaw University of Technology;POL;Higher educ.
+415;583;Jacobs University Bremen *;DEU;Higher educ.
+415;583;Kyoto Prefectural University of Medicine;JPN;Higher educ.
+415;583;Nagasaki University *;JPN;Higher educ.
+415;583;Universita degli Studi di Cagliari;ITA;Higher educ.
+415;583;University of Maryland, Baltimore County;USA;Higher educ.
+415;583;King Fahd University of Petroleum and Minerals;SAU;Higher educ.
+416;584;Northeast Normal University;CHN;Higher educ.
+416;584;Swinburne University of Technology *;AUS;Higher educ.
+417;585;Macau University of Science and Technology;MAC;Higher educ.
+417;585;Academy of Scientific and Innovative Research;IND;Higher educ.
+417;585;Institute of Tropical Medicine Antwerp;BEL;Higher educ.
+418;586;Gachon University;KOR;Higher educ.
+419;587;Ecole Superieure d'Ingenieurs en Electrotechnique et Electronique de Paris *;FRA;Higher educ.
+419;587;City University of New York, Graduate School & University Center;USA;Higher educ.
+419;587;Anhui Medical University *;CHN;Higher educ.
+419;587;Medical University of Gdansk;POL;Higher educ.
+419;587;University of Missouri, Kansas City;USA;Higher educ.
+420;588;Dublin City University;IRL;Higher educ.
+420;588;University of Texas, San Antonio;USA;Higher educ.
+420;588;Indian Institute of Technology, Bombay;IND;Higher educ.
+420;588;Huazhong Normal University;CHN;Higher educ.
+420;588;Hasselt University;BEL;Higher educ.
+420;588;Yeshiva University;USA;Higher educ.
+420;588;National Sun Yat-sen University;TWN;Higher educ.
+420;588;Universita degli Studi dell Aquila;ITA;Higher educ.
+420;588;Murdoch University;AUS;Higher educ.
+421;589;Medical University of Lodz;POL;Higher educ.
+421;589;Institut National de la Recherche Scientifique;CAN;Higher educ.
+421;589;University of Ioannina;GRC;Higher educ.
+421;589;Scuola Internazionale Superiore di Studi Avanzati;ITA;Higher educ.
+421;589;Technische Universitat Kaiserslautern;DEU;Higher educ.
+422;590;Zhejiang Sci-Tech University;CHN;Higher educ.
+422;590;Sogang University;KOR;Higher educ.
+422;590;Otto-von-Guericke-Universitat Magdeburg *;DEU;Higher educ.
+423;591;Saint Petersburg State University;RUS;Higher educ.
+423;591;University of Akron;USA;Higher educ.
+423;591;Budapest University of Technology and Economics;HUN;Higher educ.
+424;592;Nara Institute of Science and Technology;JPN;Higher educ.
+424;592;Colorado School of Mines;USA;Higher educ.
+424;592;Plymouth University;GBR;Higher educ.
+424;592;Ocean University of China;CHN;Higher educ.
+424;592;Institut National des Sciences Appliquees de Rennes;FRA;Higher educ.
+425;593;Universite de Caen Basse-Normandie *;FRA;Higher educ.
+425;593;Nanjing University of Posts and Telecommunications;CHN;Higher educ.
+426;594;South China Agricultural University;CHN;Higher educ.
+426;594;Mashhad University of Medical Sciences;IRN;Higher educ.
+427;595;Myongji University;KOR;Higher educ.
+427;595;Tokyo University of Agriculture and Technology;JPN;Higher educ.
+428;596;Universidad de Castilla-La Mancha *;ESP;Higher educ.
+428;596;University of Stirling;GBR;Higher educ.
+428;596;Wonkwang University *;KOR;Higher educ.
+428;596;Worcester Polytechnic Institute;USA;Higher educ.
+428;596;University of North Texas;USA;Higher educ.
+428;596;Sunchon National University;KOR;Higher educ.
+428;596;Chung Shan Medical University;TWN;Higher educ.
+429;597;National Taiwan University of Science and Technology;TWN;Higher educ.
+429;597;Czech Technical University in Prague;CZE;Higher educ.
+429;597;Massey University;NZL;Higher educ.
+429;597;Chungbuk National University;KOR;Higher educ.
+429;597;The Open University;GBR;Higher educ.
+429;597;Kyoto Pharmaceutical University;JPN;Higher educ.
+429;597;VIT University;IND;Higher educ.
+429;597;Istanbul University *;TUR;Higher educ.
+429;597;Universidad de Cantabria *;ESP;Higher educ.
+430;598;Kunming University of Science and Technology;CHN;Higher educ.
+430;598;Universidad de Cordoba *;ESP;Higher educ.
+430;598;Centro de Investigacion y de Estudios Avanzados del IPN *;MEX;Higher educ.
+431;599;University of Patras;GRC;Higher educ.
+431;599;Montpellier SupAgro, Centre International d'Etudes Superieures en Sciences Agronomiques *;FRA;Higher educ.
+431;599;Concordia University;CAN;Higher educ.
+432;600;Ecole Nationale Superieure de Chimie de Paris *;FRA;Higher educ.
+432;600;University of Quebec in Montreal;CAN;Higher educ.
+432;600;Universite Savoie Mont Blanc *;FRA;Higher educ.
+432;600;Dalian Medical University *;CHN;Higher educ.
+433;601;Shinshu University *;JPN;Higher educ.
+433;601;University of Toledo *;USA;Higher educ.
+433;601;Poznan University of Medical Sciences;POL;Higher educ.
+433;601;Universidade Federal de Vicosa;BRA;Higher educ.
+433;601;Universite Paris-Est Creteil *;FRA;Higher educ.
+434;602;The University of Hull;GBR;Higher educ.
+434;602;Universite de Haute-Alsace Mulhouse-Colmar *;FRA;Higher educ.
+434;602;Tarbiat Modares University;IRN;Higher educ.
+435;603;University of Mons;BEL;Higher educ.
+435;603;University of Canterbury;NZL;Higher educ.
+435;603;University of North Carolina, Charlotte;USA;Higher educ.
+435;603;Sejong University;KOR;Higher educ.
+435;603;Quaid-i-Azam University;PAK;Higher educ.
+435;603;University of Toyama *;JPN;Higher educ.
+435;603;Universite Francois Rabelais de Tours *;FRA;Higher educ.
+435;603;Paracelsus Medizinische Privatuniversitat;AUT;Higher educ.
+436;604;Oklahoma State University, Stillwater;USA;Higher educ.
+436;604;National Technical University of Athens;GRC;Higher educ.
+436;604;Hacettepe University;TUR;Higher educ.
+436;604;Keele University;GBR;Higher educ.
+436;604;Eastern Virginia Medical School;USA;Higher educ.
+436;604;ShanghaiTech University;CHN;Higher educ.
+437;605;Liverpool John Moores University;GBR;Higher educ.
+437;605;Universite de Rouen *;FRA;Higher educ.
+437;605;Shantou University Medical College;CHN;Higher educ.
+437;605;Indian Institute of Technology, Delhi;IND;Higher educ.
+437;605;Ecole Nationale Veterinaire de Toulouse *;FRA;Higher educ.
+437;605;Ain Shams University *;EGY;Higher educ.
+437;605;Kitasato University *;JPN;Higher educ.
+438;606;Universidade Federal de Santa Maria;BRA;Higher educ.
+438;606;Universite d'Evry-Val d'Essonne *;FRA;Higher educ.
+438;606;Guangdong University of Technology;CHN;Higher educ.
+438;606;Universitat de les Illes Balears *;ESP;Higher educ.
+439;607;Pomeranian Medical University;POL;Higher educ.
+439;607;Kent State University;USA;Higher educ.
+439;607;SUNY Downstate Medical Center;USA;Higher educ.
+440;608;AlbaNova University Center;SWE;Higher educ.
+440;608;Universita degli Studi di Udine;ITA;Higher educ.
+440;608;Ecole Polytechnique de Montreal;CAN;Higher educ.
+440;608;Nanjing Normal University;CHN;Higher educ.
+441;609;Scuola Normale Superiore Pisa;ITA;Higher educ.
+441;609;Sichuan Agricultural University;CHN;Higher educ.
+441;609;University of South Dakota;USA;Higher educ.
+441;609;Universidad Nacional de La Plata *;ARG;Higher educ.
+441;609;University of Rhode Island;USA;Higher educ.
+442;610;Universitat Salzburg;AUT;Higher educ.
+442;610;Fachhochschule Munster;DEU;Higher educ.
+442;610;Instituto Politecnico de Braganca;PRT;Higher educ.
+442;610;Guangxi Medical University *;CHN;Higher educ.
+443;611;Michigan Technological University;USA;Higher educ.
+443;611;Centrale Supelec *;FRA;Higher educ.
+444;612;University of Ulster;GBR;Higher educ.
+444;612;Amirkabir University of Technology;IRN;Higher educ.
+444;612;Universite de Picardie Jules Verne, Amiens *;FRA;Higher educ.
+444;612;Nantong University *;CHN;Higher educ.
+444;612;Singapore Management University;SGP;Higher educ.
+444;612;Kurume University *;JPN;Higher educ.
+444;612;University of the Sciences in Philadelphia;USA;Higher educ.
+444;612;Ecole Normale Superieure de Cachan *;FRA;Higher educ.
+444;612;Universita Campus Bio-Medico di Roma;ITA;Higher educ.
+445;613;Medical University of Bialystok;POL;Higher educ.
+445;613;Institut d'Optique Graduate School *;FRA;Higher educ.
+445;613;Institut National des Sciences Appliquees de Toulouse *;FRA;Higher educ.
+445;613;North Dakota State University;USA;Higher educ.
+445;613;Beijing Forestry University;CHN;Higher educ.
+445;613;Guangxi University;CHN;Higher educ.
+445;613;Universidad Andres Bello, Chile;CHL;Higher educ.
+446;614;Institut Polytechnique de Bordeaux *;FRA;Higher educ.
+446;614;Xinxiang Medical University;CHN;Higher educ.
+446;614;South Dakota State University;USA;Higher educ.
+446;614;Niigata University *;JPN;Higher educ.
+446;614;University of Shizuoka;JPN;Higher educ.
+446;614;Hasso Plattner Institute;DEU;Higher educ.
+447;615;Northwest University, Xi'an;CHN;Higher educ.
+447;615;Universite de Neuchatel;CHE;Higher educ.
+447;615;Wenzhou University;CHN;Higher educ.
+447;615;Universitat de Girona;ESP;Higher educ.
+447;615;Inje University *;KOR;Higher educ.
+447;615;University of Arkansas, Fayetteville;USA;Higher educ.
+447;615;Nihon University *;JPN;Higher educ.
+447;615;University of Wyoming;USA;Higher educ.
+448;616;Shandong Agricultural University;CHN;Higher educ.
+448;616;Universidade Federal de Pernambuco;BRA;Higher educ.
+448;616;Southern University of Science and Technology;CHN;Higher educ.
+448;616;Universidade do Estado do Rio de Janeiro;BRA;Higher educ.
+449;617;State University of New York, Binghamton;USA;Higher educ.
+449;617;Novosibirsk State University;RUS;Higher educ.
+449;617;Nanjing University of Information Science and Technology;CHN;Higher educ.
+449;617;Hangzhou Normal University *;CHN;Higher educ.
+449;617;Universite d'Orleans *;FRA;Higher educ.
+449;617;Syracuse University;USA;Higher educ.
+449;617;The Florida A&M University and The Florida State University College of Engineering;USA;Higher educ.
+449;617;Wrocław University of Science and Technology;POL;Higher educ.
+449;617;Universidade de Vigo *;ESP;Higher educ.
+449;617;Memorial University of Newfoundland;CAN;Higher educ.
+450;618;Northumbria University;GBR;Higher educ.
+450;618;The Nottingham Trent University;GBR;Higher educ.
+451;619;Technische Universitat Ilmenau;DEU;Higher educ.
+451;619;University of Limerick;IRL;Higher educ.
+451;619;Universidade Federal de Sao Carlos;BRA;Higher educ.
+451;619;Zhejiang Normal University;CHN;Higher educ.
+451;619;COMSATS Institute of Information Technology *;PAK;Higher educ.
+451;619;Tokyo Womens Medical University *;JPN;Higher educ.
+451;619;Universidad de Valladolid *;ESP;Higher educ.
+452;620;Qingdao University of Science and Technology;CHN;Higher educ.
+452;620;Comenius University in Bratislava;SVK;Higher educ.
+452;620;Moscow State University of Civil Engineering;RUS;Higher educ.
+452;620;Jichi Medical University *;JPN;Higher educ.
+452;620;Sharif University of Technology;IRN;Higher educ.
+452;620;Bangor University;GBR;Higher educ.
+452;620;Universita del Salento;ITA;Higher educ.
+452;620;Alexandria University *;EGY;Higher educ.
+452;620;Isfahan University of Medical Sciences;IRN;Higher educ.
+453;621;University of Cyprus;CYP;Higher educ.
+453;621;Wroclaw Medical University;POL;Higher educ.
+453;621;Gunma University *;JPN;Higher educ.
+453;621;Universidad Miguel Hernandez *;ESP;Higher educ.
+453;621;Kagoshima University *;JPN;Higher educ.
+453;621;Medical University of Lublin;POL;Higher educ.
+453;621;Osaka Prefecture University;JPN;Higher educ.
+454;622;Universidad de La Laguna;ESP;Higher educ.
+454;622;University of Nevada-Reno;USA;Higher educ.
+454;622;Indian Institute of Technology, Madras;IND;Higher educ.
+454;622;Xiangtan University;CHN;Higher educ.
+455;623;Universita degli Studi dell'Insubria;ITA;Higher educ.
+455;623;Missouri University of Science & Technology;USA;Higher educ.
+455;623;University of Central Lancashire;GBR;Higher educ.
+455;623;Tzu Chi University;TWN;Higher educ.
+455;623;American University of Beirut *;LBN;Higher educ.
+455;623;Shantou University *;CHN;Higher educ.
+455;623;Hamamatsu University School of Medicine *;JPN;Higher educ.
+455;623;Birkbeck, University of London;GBR;Higher educ.
+455;623;Universidade Federal Fluminense;BRA;Higher educ.
+456;624;Universidad Pablo de Olavide *;ESP;Higher educ.
+456;624;Eotvos Lorand University;HUN;Higher educ.
+456;624;Asahikawa Medical University;JPN;Higher educ.
+456;624;Adam Mickiewicz University;POL;Higher educ.
+456;624;Middle East Technical University;TUR;Higher educ.
+457;625;New Mexico Institute of Mining and Technology;USA;Higher educ.
+457;625;Shaanxi Normal University;CHN;Higher educ.
+457;625;National University of Ireland, Maynooth;IRL;Higher educ.
+458;626;Mackay Medical College;TWN;Higher educ.
+458;626;Izmir Institute of Technology;TUR;Higher educ.
+458;626;Universitat Hohenheim;DEU;Higher educ.
+458;626;University of Wolverhampton;GBR;Higher educ.
+458;626;Universita degli Studi di Camerino;ITA;Higher educ.
+459;627;Hyogo College of Medicine *;JPN;Higher educ.
+459;627;Universita degli Studi di Roma Foro Italico;ITA;Higher educ.
+459;627;Changzhou University;CHN;Higher educ.
+459;627;Poznan University of Technology;POL;Higher educ.
+459;627;University of Namur;BEL;Higher educ.
+459;627;MCPHS University;USA;Higher educ.
+459;627;Kwangwoon University;KOR;Higher educ.
+460;628;Universidad de Puerto Rico, Rio Piedras;PRI;Higher educ.
+460;628;Tokai University *;JPN;Higher educ.
+460;628;Shiraz University of Medical Sciences;IRN;Higher educ.
+460;628;Victoria University of Wellington;NZL;Higher educ.
+460;628;Mississippi State University;USA;Higher educ.
+461;629;Postgraduate Institute of Medical Education and Research;IND;Higher educ.
+461;629;Tokyo Medical University *;JPN;Higher educ.
+461;629;Ryerson University;CAN;Higher educ.
+461;629;Universitat Siegen;DEU;Higher educ.
+462;630;VetAgro Sup, Institut d'Enseignement Superieur et de Recherche en Alimentation, Sante Animale, Sciences Agronomiques et de l'Environnement *;FRA;Higher educ.
+462;630;Chang Gung University of Science and Technology;TWN;Higher educ.
+462;630;Institut National des Sciences Appliquees de Lyon;FRA;Higher educ.
+462;630;Universidade Federal da Bahia;BRA;Higher educ.
+462;630;Universidade Federal de Pelotas;BRA;Higher educ.
+462;630;Yamaguchi University *;JPN;Higher educ.
+463;631;Istanbul Technical University;TUR;Higher educ.
+463;631;Universidade Federal do Rio Grande do Norte;BRA;Higher educ.
+463;631;National Taipei University of Technology;TWN;Higher educ.
+463;631;Fujian Agriculture and Forestry University;CHN;Higher educ.
+463;631;Universidad de los Andes, Chile;CHL;Higher educ.
+463;631;Cranfield University;GBR;Higher educ.
+463;631;Universidade Federal do Ceara;BRA;Higher educ.
+463;631;Mansoura University;EGY;Higher educ.
+463;631;Universidad de Antioquia *;COL;Higher educ.
+463;631;Sapporo Medical University *;JPN;Higher educ.
+464;632;National Taiwan Normal University;TWN;Higher educ.
+464;632;University of South Alabama *;USA;Higher educ.
+464;632;Institute of Chemical Technology in Prague;CZE;Higher educ.
+464;632;Universitat de Lleida;ESP;Higher educ.
+464;632;Universita degli Studi di Sassari;ITA;Higher educ.
+464;632;University of the West of England;GBR;Higher educ.
+464;632;Universidad Nacional de Rosario *;ARG;Higher educ.
+465;633;The Jikei University School of Medicine *;JPN;Higher educ.
+465;633;Politecnico di Bari;ITA;Higher educ.
+465;633;Koc University;TUR;Higher educ.
+465;633;Ecole Nationale Superieure de Chimie de Lille *;FRA;Higher educ.
+465;633;Tata Institute of Fundamental Research;IND;Higher educ.
+465;633;Stiftung Tierarztliche Hochschule Hannover;DEU;Higher educ.
+465;633;Universidade Federal de Goias;BRA;Higher educ.
+466;634;Universidad de Concepcion *;CHL;Higher educ.
+466;634;Isfahan University of Technology;IRN;Higher educ.
+466;634;City University of New York, Hunter College;USA;Higher educ.
+466;634;Ecole Nationale Superieure d'Ingenieurs de Caen et Centre de Recherche *;FRA;Higher educ.
+466;634;Ecole Centrale Marseille *;FRA;Higher educ.
+466;634;Loma Linda University *;USA;Higher educ.
+466;634;Orebro Universitet;SWE;Higher educ.
+467;635;Cleveland State University;USA;Higher educ.
+467;635;Universidad de Alcala *;ESP;Higher educ.
+467;635;Dong-A University;KOR;Higher educ.
+467;635;Ecole des Mines de Nantes *;FRA;Higher educ.
+467;635;University of Brighton;GBR;Higher educ.
+468;636;Banaras Hindu University;IND;Higher educ.
+468;636;Universite de Poitiers *;FRA;Higher educ.
+468;636;Lappeenranta University of Technology;FIN;Higher educ.
+468;636;University of Occupational and Environmental Health;JPN;Higher educ.
+468;636;Taiyuan University of Technology;CHN;Higher educ.
+468;636;Tianjin University of Science and Technology;CHN;Higher educ.
+468;636;North Carolina Central University;USA;Higher educ.
+468;636;Creighton University;USA;Higher educ.
+469;637;Universita degli Studi Roma Tre;ITA;Higher educ.
+469;637;Northwest Normal University;CHN;Higher educ.
+469;637;Masdar Institute of Science and Technology ;ARE;Higher educ.
+469;637;Medical University of Silesia;POL;Higher educ.
+470;638;Tomsk Polytechnic University;RUS;Higher educ.
+470;638;University of Texas, El Paso;USA;Higher educ.
+470;638;Instituto Politecnico Nacional;MEX;Higher educ.
+470;638;Fukushima Medical University *;JPN;Higher educ.
+470;638;State University of New York Upstate Medical University *;USA;Higher educ.
+471;639;Nicolaus Copernicus University;POL;Higher educ.
+471;639;University of Wroclaw;POL;Higher educ.
+471;639;Carl von Ossietzky Universitat Oldenburg;DEU;Higher educ.
+471;639;Imam Hossein University;IRN;Higher educ.
+471;639;Moscow Engineering Physics Institute;RUS;Higher educ.
+471;639;Kagawa University *;JPN;Higher educ.
+471;639;University of Montana, Missoula;USA;Higher educ.
+471;639;University of Novi Sad;SRB;Higher educ.
+471;639;Indian Institute of Technology, Kanpur;IND;Higher educ.
+471;639;Soon Chun Hyang University;KOR;Higher educ.
+471;639;Alfaisal University;SAU;Higher educ.
+472;640;Brno University of Technology;CZE;Higher educ.
+472;640;Technische Universitat Chemnitz;DEU;Higher educ.
+472;640;Ankara University;TUR;Higher educ.
+473;641;Marquette University;USA;Higher educ.
+473;641;Instituto Tecnologico y de Estudios Superiores de Monterrey;MEX;Higher educ.
+473;641;Universidade Estadual de Maringa;BRA;Higher educ.
+473;641;Iwate Medical University *;JPN;Higher educ.
+473;641;Hubei University;CHN;Higher educ.
+473;641;Universite Jean Monnet;FRA;Higher educ.
+473;641;Meharry Medical College;USA;Higher educ.
+473;641;University of Portsmouth;GBR;Higher educ.
+473;641;Shaanxi University of Science and Technology;CHN;Higher educ.
+473;641;Chinese Academy of Tropical Agricultural Sciences;CHN;Higher educ.
+473;641;Hunan Normal University;CHN;Higher educ.
+474;642;Binzhou Medical University;CHN;Higher educ.
+474;642;Universidade Estadual de Londrina;BRA;Higher educ.
+474;642;Tohoku Medical and Pharmaceutical University;JPN;Higher educ.
+474;642;United Arab Emirates University;ARE;Higher educ.
+475;643;Tilburg University;NLD;Higher educ.
+475;643;Nanjing University of Traditional Chinese Medicine *;CHN;Higher educ.
+475;643;Aberystwyth University;GBR;Higher educ.
+475;643;Universidad de la Republica *;URY;Higher educ.
+476;644;University of Haifa;ISR;Higher educ.
+476;644;Fujita Health University *;JPN;Higher educ.
+476;644;Anhui University;CHN;Higher educ.
+476;644;Midwestern University;USA;Higher educ.
+476;644;Telecom SudParis *;FRA;Higher educ.
+476;644;Monash University Malaysia;MYS;Higher educ.
+476;644;University of Johannesburg;ZAF;Higher educ.
+476;644;China University of Petroleum, Beijing;CHN;Higher educ.
+476;644;Silesian University of Technology;POL;Higher educ.
+476;644;Dublin Institute of Technology;IRL;Higher educ.
+477;645;Southern Illinois University, Carbondale *;USA;Higher educ.
+477;645;Ecole des Hautes Etudes en Sante Publique;FRA;Higher educ.
+477;645;Nova Southeastern University, Estados Unidos;USA;Higher educ.
+477;645;Ehime University *;JPN;Higher educ.
+477;645;University of Nevada-Las Vegas;USA;Higher educ.
+478;646;College of William and Mary;USA;Higher educ.
+478;646;National Dong Hwa University;TWN;Higher educ.
+478;646;University of Yamanashi *;JPN;Higher educ.
+478;646;Portland State University;USA;Higher educ.
+478;646;Makerere University *;UGA;Higher educ.
+478;646;University of Huddersfield;GBR;Higher educ.
+478;646;Universite de Technologie de Compiegne *;FRA;Higher educ.
+478;646;Gifu University *;JPN;Higher educ.
+478;646;Saga University *;JPN;Higher educ.
+479;647;Northeast Agricultural University;CHN;Higher educ.
+479;647;Malmo University;SWE;Higher educ.
+479;647;Keimyung University;KOR;Higher educ.
+479;647;University of New Hampshire;USA;Higher educ.
+479;647;Universidad Catolica de Valencia San Vicente Martir;ESP;Higher educ.
+479;647;Bogazici University;TUR;Higher educ.
+479;647;Henan Normal University;CHN;Higher educ.
+479;647;Western University of Health Sciences;USA;Higher educ.
+479;647;Riga Stradins University;LVA;Higher educ.
+479;647;Universite de Bretagne Occidentale;FRA;Higher educ.
+479;647;Lulea University of Technology;SWE;Higher educ.
+479;647;Kookmin University;KOR;Higher educ.
+480;648;Shahrekord University of Medical Sciences;IRN;Higher educ.
+480;648;Shiga University of Medical Science *;JPN;Higher educ.
+480;648;University of Qatar;QAT;Higher educ.
+480;648;Universidade Catolica de Brasilia;BRA;Higher educ.
+480;648;Anna University;IND;Higher educ.
+480;648;Rochester Institute of Technology;USA;Higher educ.
+480;648;Universite Paris-Nord 13 *;FRA;Higher educ.
+481;649;Hochschule Reutlingen;DEU;Higher educ.
+481;649;Edith Cowan University;AUS;Higher educ.
+481;649;St. Petersburg State Polytechnic University;RUS;Higher educ.
+481;649;Delaware State University;USA;Higher educ.
+481;649;Universitat Osnabruck;DEU;Higher educ.
+481;649;City University of New York, Brooklyn College;USA;Higher educ.
+481;649;Anhui Agricultural University;CHN;Higher educ.
+481;649;Universite de Franche-Comte *;FRA;Higher educ.
+482;650;North-West University, Noordwes-Universiteit;ZAF;Higher educ.
+482;650;Universidad de Santiago de Chile;CHL;Higher educ.
+482;650;University of Shanghai for Science and Technology;CHN;Higher educ.
+482;650;Universite d'Avignon *;FRA;Higher educ.
+482;650;Norwegian School of Sport Sciences;NOR;Higher educ.
+482;650;Manipal University;IND;Higher educ.
+482;650;Jamia Hamdard University;IND;Higher educ.
+482;650;Jeju National University *;KOR;Higher educ.
+482;650;Chosun University *;KOR;Higher educ.
+483;651;Rosalind Franklin University of Medicine and Science;USA;Higher educ.
+483;651;Yamagata University *;JPN;Higher educ.
+483;651;Mie University *;JPN;Higher educ.
+483;651;Catholic University of Daegu;KOR;Higher educ.
+483;651;Nippon Medical School *;JPN;Higher educ.
+483;651;Kazan Federal University;RUS;Higher educ.
+483;651;Babol Noshirvani University of Technology;IRN;Higher educ.
+483;651;Hebei Medical University *;CHN;Higher educ.
+484;652;Swarthmore College;USA;Higher educ.
+484;652;University of Illinois, College of Medicine at Peoria;USA;Higher educ.
+484;652;Pontificia Universidad Javeriana *;COL;Higher educ.
+484;652;Rowan University;USA;Higher educ.
+484;652;Sookmyung Womens University;KOR;Higher educ.
+484;652;Lehigh University;USA;Higher educ.
+485;653;Universidad Publica de Navarra *;ESP;Higher educ.
+485;653;Pukyong National University;KOR;Higher educ.
+485;653;Universidad de los Andes, Colombia *;COL;Higher educ.
+485;653;Pontificia Universidade Catolica do Rio Grande do Sul;BRA;Higher educ.
+485;653;Universidad Nacional de Cordoba *;ARG;Higher educ.
+485;653;Tokyo University of Agriculture;JPN;Higher educ.
+485;653;University of Thessaly;GRC;Higher educ.
+485;653;Sheffield Hallam University;GBR;Higher educ.
+485;653;Sangji University;KOR;Higher educ.
+485;653;Incheon National University;KOR;Higher educ.
+485;653;Asia University, Taiwan;TWN;Higher educ.
+486;654;Chia Nan University of Pharmacy and Science;TWN;Higher educ.
+486;654;Kyoto Prefectural University;JPN;Higher educ.
+486;654;Universitat Paderborn;DEU;Higher educ.
+486;654;University of Lodz;POL;Higher educ.
+486;654;Nagoya Institute of Technology;JPN;Higher educ.
+487;655;Bournemouth University;GBR;Higher educ.
+487;655;Yanshan University;CHN;Higher educ.
+487;655;University of Lincoln;GBR;Higher educ.
+487;655;Yanbian University *;CHN;Higher educ.
+487;655;University of New Brunswick;CAN;Higher educ.
+487;655;Jiangxi Normal University;CHN;Higher educ.
+487;655;Universidade Federal do Espirito Santo;BRA;Higher educ.
+487;655;University of Miyazaki *;JPN;Higher educ.
+487;655;Indian Institute of Technology, Roorkee;IND;Higher educ.
+487;655;University of North Dakota;USA;Higher educ.
+488;656;University of Boras;SWE;Higher educ.
+488;656;Baylor University;USA;Higher educ.
+488;656;University of Hertfordshire;GBR;Higher educ.
+488;656;Donau Universitat Krems;AUT;Higher educ.
+488;656;Ecole Nationale Superieure des Mines de Paris *;FRA;Higher educ.
+488;656;Universiti Teknologi MARA;MYS;Higher educ.
+488;656;New York University Abu Dhabi;ARE;Higher educ.
+488;656;Tianjin Normal University;CHN;Higher educ.
+488;656;University of Seoul;KOR;Higher educ.
+488;656;University of Idaho;USA;Higher educ.
+488;656;Mazandaran University of Medical Sciences;IRN;Higher educ.
+488;656;Fujian Medical University *;CHN;Higher educ.
+488;656;Khon Kaen University;THA;Higher educ.
+488;656;Zhejiang Chinese Medical University *;CHN;Higher educ.
+488;656;Institute of Chemical Technology, Mumbai;IND;Higher educ.
+489;657;Saitama Medical University *;JPN;Higher educ.
+489;657;Politehnica University of Bucharest;ROU;Higher educ.
+489;657;Universita degli Studi della Basilicata;ITA;Higher educ.
+490;658;Universidad Rey Juan Carlos *;ESP;Higher educ.
+490;658;Ege University;TUR;Higher educ.
+490;658;Victoria University;AUS;Higher educ.
+490;658;Universidad de la Frontera;CHL;Higher educ.
+490;658;Stevens Institute of Technology;USA;Higher educ.
+490;658;North Carolina A&T State University;USA;Higher educ.
+490;658;San Francisco State University;USA;Higher educ.
+491;659;Universidade Federal de Lavras;BRA;Higher educ.
+491;659;University of Westminster;GBR;Higher educ.
+491;659;Universidad de Extremadura *;ESP;Higher educ.
+491;659;Ozyegin University;TUR;Higher educ.
+491;659;Tottori University *;JPN;Higher educ.
+491;659;University of Greenwich;GBR;Higher educ.
+491;659;Guangdong Pharmaceutical University;CHN;Higher educ.
+492;660;University of Split;HRV;Higher educ.
+492;660;Gdansk University of Technology;POL;Higher educ.
+492;660;Ohio University;USA;Higher educ.
+492;660;Nara Medical University *;JPN;Higher educ.
+492;660;Kansai Medical University *;JPN;Higher educ.
+492;660;Southern Illinois University School of Medicine;USA;Higher educ.
+492;660;Moscow Institute of Physics and Technology;RUS;Higher educ.
+492;660;The Manchester Metropolitan University;GBR;Higher educ.
+492;660;Universidad Peruana Cayetano Heredia;PER;Higher educ.
+492;660;Fujian University of Traditional Chinese Medicine;CHN;Higher educ.
+493;661;Universitat Mannheim;DEU;Higher educ.
+493;661;Universitat Ramon Llull *;ESP;Higher educ.
+493;661;The University of Salford;GBR;Higher educ.
+493;661;University of the Western Cape;ZAF;Higher educ.
+493;661;Universite de Pau et des Pays de l'Adour *;FRA;Higher educ.
+493;661;Anhui Normal University;CHN;Higher educ.
+493;661;Universita degli Studi di Urbino Carlo Bo;ITA;Higher educ.
+494;662;University of Hyderabad;IND;Higher educ.
+494;662;Texas A&M University at Qatar;QAT;Higher educ.
+494;662;Universidade Federal da Paraiba;BRA;Higher educ.
+494;662;National Defense Medical College *;JPN;Higher educ.
+494;662;Toyota Technological Institute;MUL;Higher educ.
+494;662;University of Malawi;MWI;Higher educ.
+494;662;Universite d'Angers *;FRA;Higher educ.
+494;662;Kasetsart University;THA;Higher educ.
+494;662;Henan University of Science and Technology *;CHN;Higher educ.
+494;662;Chiang Mai University;THA;Higher educ.
+495;663;Universite de Limoges *;FRA;Higher educ.
+495;663;Obihiro University of Agriculture and Veterinary Medicine;JPN;Higher educ.
+495;663;Ritsumeikan University;JPN;Higher educ.
+495;663;University of North Carolina, Greensboro;USA;Higher educ.
+495;663;Universidad San Pablo CEU ;ESP;Higher educ.
+495;663;Universidad de las Palmas de Gran Canaria *;ESP;Higher educ.
+495;663;Hanbat National University;KOR;Higher educ.
+495;663;Osaka City University *;JPN;Higher educ.
+495;663;Universitat Passau;DEU;Higher educ.
+496;664;Williams College;USA;Higher educ.
+496;664;Agrocampus Ouest;FRA;Higher educ.
+496;664;Gazi University;TUR;Higher educ.
+496;664;Oxford Brookes University;GBR;Higher educ.
+496;664;Escola Nacional de Saude Publica Sergio Arouca;BRA;Higher educ.
+496;664;Universidad Antonio Narino;COL;Higher educ.
+496;664;Jadavpur University;IND;Higher educ.
+496;664;Private Universitat fur Gesundheitswissenschaften, Medizinische Informatik und Technik;AUT;Higher educ.
+496;664;Nizam's Institute of Medical Sciences;IND;Higher educ.
+496;664;East Carolina University;USA;Higher educ.
+497;665;University of Arkansas, Little Rock;USA;Higher educ.
+497;665;Ecole Centrale de Lille *;FRA;Higher educ.
+497;665;University of Denver;USA;Higher educ.
+497;665;Teikyo University *;JPN;Higher educ.
+497;665;Universite Paris-Est Marne-la-Vallee *;FRA;Higher educ.
+497;665;Universita degli Studi di Foggia;ITA;Higher educ.
+497;665;Old Dominion University;USA;Higher educ.
+497;665;Ecole des Ponts ParisTech *;FRA;Higher educ.
+497;665;Tallinn University;EST;Higher educ.
+497;665;Northeast Forestry University;CHN;Higher educ.
+497;665;Hubei University of Arts and Science;CHN;Higher educ.
+498;666;Vel Tech University;IND;Higher educ.
+498;666;Wright State University;USA;Higher educ.
+498;666;Panjab University;IND;Higher educ.
+498;666;University of Gondar;ETH;Higher educ.
+498;666;Showa University *;JPN;Higher educ.
+498;666;Heilongjiang University;CHN;Higher educ.
+498;666;Universidad Nacional de Educacion a Distancia *;ESP;Higher educ.
+498;666;Universidad Austral de Chile *;CHL;Higher educ.
+498;666;Wannan Medical College *;CHN;Higher educ.
+498;666;Warsaw University of Life Sciences;POL;Higher educ.
+498;666;Kingston University;GBR;Higher educ.
+498;666;University of Rijeka;HRV;Higher educ.
+498;666;Khalifa University of Science, Technology and Research;ARE;Higher educ.
+499;667;Glasgow Caledonian University;GBR;Higher educ.
+499;667;Universidade Catolica Portuguesa;PRT;Higher educ.
+499;667;Universita degli Studi Mediterranea di Reggio Calabria;ITA;Higher educ.
+499;667;China Jiliang University;CHN;Higher educ.
+499;667;Iran University of Science and Technology;IRN;Higher educ.
+499;667;Conservatoire National des Arts et Metiers *;FRA;Higher educ.
+500;668;National Taiwan Ocean University;TWN;Higher educ.
+500;668;Iran University of Medical Sciences;IRN;Higher educ.
+500;668;Islamic Azad University, Science and Research;IRN;Higher educ.
+500;668;Kermanshah University of Medical Sciences;IRN;Higher educ.
+500;668;Universiti Perubatan Antarabangsa;MYS;Higher educ.
+500;668;Aichi Gakuin University;JPN;Higher educ.
+500;668;Wroclaw University of Environmental and Life Sciences;POL;Higher educ.
+500;668;Aichi Medical University *;JPN;Higher educ.
+500;668;Indian Institute of Technology, Guwahati;IND;Higher educ.
+500;668;Graduate University for Advanced Studies;JPN;Higher educ.
+501;669;Shanghai Normal University;CHN;Higher educ.
+501;669;Bergische Universitat Wuppertal;DEU;Higher educ.
+501;669;University of Zambia;ZMB;Higher educ.
+501;669;Toho University *;JPN;Higher educ.
+501;669;Tianjin University of Traditional Chinese Medicine *;CHN;Higher educ.
+501;669;Universite d'Artois *;FRA;Higher educ.
+501;669;Yunnan University;CHN;Higher educ.
+501;669;Democritus University Of Thrace;GRC;Higher educ.
+501;669;Chengdu University of Traditional Chinese Medicine;CHN;Higher educ.
+501;669;Hoshi University;JPN;Higher educ.
+501;669;Shanxi University;CHN;Higher educ.
+502;670;University of Memphis;USA;Higher educ.
+502;670;University of Indonesia;IDN;Higher educ.
+502;670;Universidade Federal de Uberlandia;BRA;Higher educ.
+502;670;Barnard College;USA;Higher educ.
+502;670;Institut d'Etudes Politiques de Paris-Sciences Po *;FRA;Higher educ.
+502;670;Henan University *;CHN;Higher educ.
+502;670;Malardalen University College;SWE;Higher educ.
+502;670;Bharath University;IND;Higher educ.
+502;670;Tianjin Polytechnic University;CHN;Higher educ.
+503;671;Universidade do Extremo Sul Catarinense;BRA;Higher educ.
+503;671;Hubei University of Medicine;CHN;Higher educ.
+503;671;Babes-Bolyai University;ROU;Higher educ.
+503;671;AgroSup Dijon, Institut National Superieur des Sciences Agronomiques, de l'Alimentation et de l'Environnement *;FRA;Higher educ.
+503;671;Universidad de Antofagasta;CHL;Higher educ.
+503;671;University of New Haven;USA;Higher educ.
+504;672;Northern Arizona University;USA;Higher educ.
+504;672;Prince of Songkla University;THA;Higher educ.
+504;672;Christian Medical College, Vellore;IND;Higher educ.
+504;672;Oakland University;USA;Higher educ.
+504;672;Faculdade de Medicina de Sao Jose do Rio Preto;BRA;Higher educ.
+504;672;Hangzhou Dianzi University;CHN;Higher educ.
+504;672;Morehouse School of Medicine;USA;Higher educ.
+504;672;Guizhou University;CHN;Higher educ.
+504;672;Tomsk State University;RUS;Higher educ.
+504;672;Eulji University *;KOR;Higher educ.
+504;672;University of Missouri, Saint Louis;USA;Higher educ.
+504;672;Ecole Nationale de Formation Agronomique de Toulouse-Auzeville *;FRA;Higher educ.
+504;672;Kanazawa Medical University *;JPN;Higher educ.
+504;672;Southern Methodist University;USA;Higher educ.
+504;672;Mokpo National University;KOR;Higher educ.
+504;672;University of Maine, Orono;USA;Higher educ.
+504;672;University of Alaska, Fairbanks;USA;Higher educ.
+505;673;University of Prince Edward Island;CAN;Higher educ.
+505;673;National Chung Cheng University;TWN;Higher educ.
+505;673;Jackson State University;USA;Higher educ.
+505;673;Tatung University;TWN;Higher educ.
+505;673;Universidad de Talca *;CHL;Higher educ.
+505;673;Universidad de Toulouse-Jean Jaures *;FRA;Higher educ.
+505;673;Soongsil University;KOR;Higher educ.
+505;673;Erciyes University;TUR;Higher educ.
+505;673;University of Pecs;HUN;Higher educ.
+505;673;Universidade da Beira Interior;PRT;Higher educ.
+506;674;New Mexico State University;USA;Higher educ.
+506;674;Northern Illinois University;USA;Higher educ.
+506;674;Hirosaki University *;JPN;Higher educ.
+506;674;Azabu University;JPN;Higher educ.
+506;674;Universidad de Jaen *;ESP;Higher educ.
+506;674;Al-Azhar University;EGY;Higher educ.
+507;675;Renmin University of China;CHN;Higher educ.
+507;675;Fukuoka University *;JPN;Higher educ.
+507;675;Wakayama Medical University *;JPN;Higher educ.
+507;675;Universidade Federal do Para;BRA;Higher educ.
+507;675;Nagaoka University of Technology;JPN;Higher educ.
+507;675;Ecole Nationale Superieure des Mines de Saint-Etienne;FRA;Higher educ.
+507;675;Universidade de Tras-os-Montes e Alto Douro;PRT;Higher educ.
+507;675;University of Massachusetts, Lowell;USA;Higher educ.
+507;675;Technische Universitat Hamburg-Harburg;DEU;Higher educ.
+507;675;University of Veterinary and Pharmaceutical Sciences Brno;CZE;Higher educ.
+507;675;University of Tabriz;IRN;Higher educ.
+507;675;Ahvaz Jundishapur University of Medical Sciences;IRN;Higher educ.
+507;675;Kawasaki Medical School *;JPN;Higher educ.
+507;675;Howard University *;USA;Higher educ.
+508;676;Chung Yuan Christian University;TWN;Higher educ.
+508;676;University of Malaysia, Pahang;MYS;Higher educ.
+508;676;Tokyo Metropolitan University;JPN;Higher educ.
+508;676;Australian Catholic University;AUS;Higher educ.
+508;676;Bushehr University of Medical Sciences;IRN;Higher educ.
+508;676;Universidad del Rosario *;COL;Higher educ.
+508;676;Zagazig University;EGY;Higher educ.
+508;676;Universidad de Leon, Spain *;ESP;Higher educ.
+509;677;Universite Paul Valery, Montpellier III *;FRA;Higher educ.
+509;677;University of Massachusetts, Boston;USA;Higher educ.
+509;677;Medical University of Sofia *;BGR;Higher educ.
+509;677;Shahid Sadoughi University of Medical Sciences;IRN;Higher educ.
+509;677;Duquesne University;USA;Higher educ.
+509;677;Ataturk University;TUR;Higher educ.
+509;677;Ferdowsi University of Mashhad;IRN;Higher educ.
+509;677;Universita degli Studi Ca Foscari di Venezia;ITA;Higher educ.
+509;677;Wellesley College;USA;Higher educ.
+509;677;Capital Normal University *;CHN;Higher educ.
+509;677;Universite de Kinshasa;COD;Higher educ.
+509;677;South Dakota School of Mines and Technology;USA;Higher educ.
+509;677;Naval Postgraduate School;USA;Higher educ.
+509;677;Universidade Federal da Grande Dourados;BRA;Higher educ.
+510;678;University of Waikato;NZL;Higher educ.
+510;678;Universidade Federal da Fronteira Sul;BRA;Higher educ.
+510;678;The University of Bolton;GBR;Higher educ.
+510;678;Shaoxing University;CHN;Higher educ.
+510;678;Universidad Industrial de Santander *;COL;Higher educ.
+510;678;Marmara University *;TUR;Higher educ.
+510;678;Cooperativa de Ensino Superior, Politecnico e Universitario;PRT;Higher educ.
+510;678;Saint John's University;USA;Higher educ.
+510;678;Waterford Institute of Technology;IRL;Higher educ.
+510;678;Universite Capitole, Toulouse I *;FRA;Higher educ.
+510;678;Shiraz University;IRN;Higher educ.
+510;678;Universidad Tecnica Federico Santa Maria;CHL;Higher educ.
+510;678;Universitat Witten, Herdecke;DEU;Higher educ.
+511;679;Muhimbili University of Health and Allied Sciences;TZA;Higher educ.
+511;679;University of Latvia;LVA;Higher educ.
+511;679;University of the Ryukyus *;JPN;Higher educ.
+511;679;University of Hawaii, Hilo;USA;Higher educ.
+511;679;Beijing University of Chinese Medicine *;CHN;Higher educ.
+511;679;Semyung University;KOR;Higher educ.
+511;679;Universidad de Cadiz *;ESP;Higher educ.
+511;679;Shandong University of Science and Technology;CHN;Higher educ.
+511;679;Florida Atlantic University;USA;Higher educ.
+512;680;Madurai Kamaraj University;IND;Higher educ.
+512;680;Instituto Politecnico de Lisboa;PRT;Higher educ.
+512;680;Pontificia Universidad Catolica de Valparaiso;CHL;Higher educ.
+512;680;Instituto Politecnico do Porto;PRT;Higher educ.
+512;680;Linnaeus University;SWE;Higher educ.
+512;680;Kakatiya University;IND;Higher educ.
+512;680;Clarkson University;USA;Higher educ.
+512;680;Jiangsu Normal University;CHN;Higher educ.
+512;680;Beni Suef University;EGY;Higher educ.
+512;680;Institut National des Sciences Appliquees de Rouen *;FRA;Higher educ.
+512;680;International Islamic University Malaysia;MYS;Higher educ.
+512;680;Universidad de Guadalajara;MEX;Higher educ.
+512;680;Universite de Reims Champagne-Ardenne *;FRA;Higher educ.
+512;680;Universidade Federal de Juiz de Fora;BRA;Higher educ.
+512;680;Shihezi University;CHN;Higher educ.
+512;680;Institut Superieur de l'Electronique et du Numerique;FRA;Higher educ.
+512;680;Auckland University of Technology;NZL;Higher educ.
+513;681;Universite de Sfax;TUN;Higher educ.
+513;681;St. Marianna University School of Medicine *;JPN;Higher educ.
+513;681;Catholic Kwandong University;KOR;Higher educ.
+513;681;Universite de Cergy-Pontoise *;FRA;Higher educ.
+513;681;Universita degli Studi del Molise;ITA;Higher educ.
+513;681;China Three Gorges University;CHN;Higher educ.
+513;681;Florida Agricultural & Mechanical University;USA;Higher educ.
+513;681;Universidad de Valparaiso;CHL;Higher educ.
+513;681;Czech University of Life Sciences Prague;CZE;Higher educ.
+513;681;Universite Mohammed-V;MAR;Higher educ.
+513;681;Universidade do Algarve;PRT;Higher educ.
+513;681;University of Pune;IND;Higher educ.
+513;681;Universidad de Almeria;ESP;Higher educ.
+513;681;Bordeaux Sciences Agro *;FRA;Higher educ.
+513;681;Makerere University College of Health Sciences;UGA;Higher educ.
+513;681;Ecole Nationale Superieure de l'Electronique et de ses Applications *;FRA;Higher educ.
+513;681;Faculdade de Medicina do ABC;BRA;Higher educ.
+513;681;Fu Jen Catholic University;TWN;Higher educ.
+513;681;Birla Institute of Technology and Science;IND;Higher educ.
+513;681;Ecole Centrale de Lyon;FRA;Higher educ.
+514;682;Kochi University *;JPN;Higher educ.
+514;682;Meiji University;JPN;Higher educ.
+514;682;Southwest Petroleum University;CHN;Higher educ.
+514;682;Assiut University;EGY;Higher educ.
+514;682;Armed Forces Medical College;IND;Higher educ.
+514;682;Middlesex University;GBR;Higher educ.
+514;682;Baqiyatallah Medical Sciences University;IRN;Higher educ.
+514;682;Guangxi Normal University;CHN;Higher educ.
+514;682;City University of New York, Queens College;USA;Higher educ.
+515;683;Wesleyan University, Middletown;USA;Higher educ.
+515;683;Universidad Autonoma de Nuevo Leon *;MEX;Higher educ.
+515;683;Meiji Pharmaceutical University;JPN;Higher educ.
+515;683;Universidad del Tolima *;COL;Higher educ.
+515;683;Leeds Beckett University;GBR;Higher educ.
+515;683;Nanjing Forestry University;CHN;Higher educ.
+515;683;Universidade da Coruna;ESP;Higher educ.
+515;683;Kongju National University;KOR;Higher educ.
+515;683;University of Gdansk;POL;Higher educ.
+515;683;Universitat Oberta de Catalunya;ESP;Higher educ.
+515;683;Bogor Agricultural University;IDN;Higher educ.
+515;683;ITMO University;RUS;Higher educ.
+516;684;China West Normal University;CHN;Higher educ.
+516;684;Kyushu Institute of Technology;JPN;Higher educ.
+516;684;Robert Gordon University;GBR;Higher educ.
+516;684;Ecole Nationale Superieure d'Arts et Metiers *;FRA;Higher educ.
+516;684;Petronas University of Technology;MYS;Higher educ.
+516;684;Kyorin University *;JPN;Higher educ.
+516;684;Universita degli Studi di Cassino;ITA;Higher educ.
+516;684;Ecole Nationale Superieure de Ceramique Industrielle *;FRA;Higher educ.
+516;684;Belarusian State University;BLR;Higher educ.
+516;684;Bohai University;CHN;Higher educ.
+516;684;Sungshin Womens University;KOR;Higher educ.
+516;684;University of Veterinary Medicine and Pharmacy;SVK;Higher educ.
+516;684;Seoul National University of Science & Technology;KOR;Higher educ.
+516;684;National University of Science and Technology, Islamabad;PAK;Higher educ.
+516;684;Miami University of Ohio;USA;Higher educ.
+516;684;Fachhochschule Nordwestschweiz;CHE;Higher educ.
+517;685;Kyungsung University;KOR;Higher educ.
+517;685;University of Karachi;PAK;Higher educ.
+517;685;State University - Higher School of Economics;RUS;Higher educ.
+517;685;Technical University of Lodz;POL;Higher educ.
+517;685;Universite de Bretagne-Sud;FRA;Higher educ.
+518;686;Yeditepe University *;TUR;Higher educ.
+518;686;Universidad del Valle, Colombia *;COL;Higher educ.
+518;686;Universidad de Cuenca;ECU;Higher educ.
+518;686;Kyoto University of Education;JPN;Higher educ.
+518;686;Nazarbayev University;KAZ;Higher educ.
+518;686;University of Canberra;AUS;Higher educ.
+519;687;Vilnius Gediminas Technical University;LTU;Higher educ.
+519;687;Doshisha University;JPN;Higher educ.
+519;687;Universidade Federal do ABC;BRA;Higher educ.
+519;687;Saitama University;JPN;Higher educ.
+519;687;Goldsmiths, University of London;GBR;Higher educ.
+519;687;University of Moncton;CAN;Higher educ.
+519;687;Xinyang Normal University;CHN;Higher educ.
+519;687;Universidad de Costa Rica;CRI;Higher educ.
+519;687;Sonoma State University;USA;Higher educ.
+519;687;UNESCO-IHE Institute for Water Education;NLD;Higher educ.
+519;687;Fayoum University;EGY;Higher educ.
+519;687;Oslo and Akershus University College;NOR;Higher educ.
+519;687;Hunan Agricultural University;CHN;Higher educ.
+519;687;St Petersburg Academic University;RUS;Higher educ.
+519;687;Benemerita Universidad Autonoma de Puebla *;MEX;Higher educ.
+520;688;Yasouj University;IRN;Higher educ.
+520;688;Brock University;CAN;Higher educ.
+520;688;Leuphana Universitat Luneburg;DEU;Higher educ.
+520;688;Universidade Federal de Mato Grosso do Sul;BRA;Higher educ.
+520;688;Anglia Ruskin University;GBR;Higher educ.
+520;688;Hogskola i Skovde;SWE;Higher educ.
+520;688;Kaunas University of Technology ;LTU;Higher educ.
+520;688;Shanmugha Arts, Science, Technology and Research Academy;IND;Higher educ.
+520;688;Jozef Stefan International Postgraduate School;SVN;Higher educ.
+520;688;California State University, Fresno;USA;Higher educ.
+520;688;Annamalai University;IND;Higher educ.
+520;688;Abdul Wali Khan University;PAK;Higher educ.
+520;688;University of Maribor;SVN;Higher educ.
+521;689;Coventry University;GBR;Higher educ.
+521;689;Aligarh Muslim University;IND;Higher educ.
+521;689;Universidad Peruana de Ciencias Aplicadas;PER;Higher educ.
+521;689;ISCTE Instituto Universitario de Lisboa;PRT;Higher educ.
+521;689;University of Nis;SRB;Higher educ.
+521;689;Universite Mohammed Premier;MAR;Higher educ.
+521;689;Lorestan University of Medical Sciences;IRN;Higher educ.
+521;689;Universidade Federal de Mato Grosso;BRA;Higher educ.
+521;689;University of Agriculture, Faisalabad;PAK;Higher educ.
+521;689;Universidad Iberoamericana, Mexico;MEX;Higher educ.
+521;689;Addis Ababa University;ETH;Higher educ.
+522;690;Chang'an University ;CHN;Higher educ.
+522;690;Srinakharinwirot University;THA;Higher educ.
+522;690;West Pomeranian University of Technology;POL;Higher educ.
+522;690;I-Shou University;TWN;Higher educ.
+522;690;Zurich University of Applied Sciences;CHE;Higher educ.
+522;690;Universite du Littoral Cote d'Opale *;FRA;Higher educ.
+522;690;Sofia University;BGR;Higher educ.
+522;690;Universita degli Studi della Tuscia;ITA;Higher educ.
+522;690;Universidade de Passo Fundo;BRA;Higher educ.
+522;690;Wirtschaftsuniversitat Wien;AUT;Higher educ.
+523;691;University of Life Sciences in Poznan;POL;Higher educ.
+523;691;Boise State University;USA;Higher educ.
+523;691;Tokyo Dental College *;JPN;Higher educ.
+523;691;Blekinge Tekniska Hogskola;SWE;Higher educ.
+523;691;Konan University;JPN;Higher educ.
+523;691;University of the West of Scotland;GBR;Higher educ.
+523;691;Riga Technical University;LVA;Higher educ.
+523;691;Kuwait University *;KWT;Higher educ.
+523;691;Universidade Luterana do Brasil;BRA;Higher educ.
+523;691;Universidade Federal Rural de Pernambuco;BRA;Higher educ.
+523;691;University of Bialystok;POL;Higher educ.
+524;692;Ochanomizu University;JPN;Higher educ.
+524;692;Ningxia Medical University;CHN;Higher educ.
+524;692;University of Windsor;CAN;Higher educ.
+524;692;Universidade Fernando Pessoa;PRT;Higher educ.
+524;692;Rakuno Gakuen University;JPN;Higher educ.
+524;692;Menzies School of Health Research;AUS;Higher educ.
+524;692;Faculdade de Ciencias Medicas da Santa Casa de Sao Paulo;BRA;Higher educ.
+524;692;Qingdao Agricultural University;CHN;Higher educ.
+524;692;Universidade de Evora;PRT;Higher educ.
+524;692;Oita University *;JPN;Higher educ.
+524;692;King Saud bin Abdulaziz University for Health Sciences;SAU;Higher educ.
+524;692;Universita degli Studi di Bergamo;ITA;Higher educ.
+525;693;Bharati Vidyapeeth Deemed University;IND;Higher educ.
+525;693;Gadjah Mada University;IDN;Higher educ.
+525;693;Tianjin University of Technology;CHN;Higher educ.
+525;693;Universidad Autonoma Metropolitana;MEX;Higher educ.
+525;693;Free University of Bozen;ITA;Higher educ.
+525;693;Sangmyung University;KOR;Higher educ.
+525;693;Iuliu Hatieganu University of Medicine and Pharmacy Cluj Napoca;ROU;Higher educ.
+525;693;Japan Advanced Institute of Science and Technology;JPN;Higher educ.
+525;693;Universidad de Huelva *;ESP;Higher educ.
+525;693;Shanxi Datong University;CHN;Higher educ.
+525;693;Texas Christian University;USA;Higher educ.
+525;693;Wuhan University of Science and Technology;CHN;Higher educ.
+525;693;University of Kragujevac;SRB;Higher educ.
+525;693;University of Stavanger;NOR;Higher educ.
+526;694;Cardiff Metropolitan University;GBR;Higher educ.
+526;694;Hainan University;CHN;Higher educ.
+526;694;Uludag University;TUR;Higher educ.
+526;694;Akdeniz University;TUR;Higher educ.
+526;694;Bryn Mawr College;USA;Higher educ.
+526;694;Sabanci University;TUR;Higher educ.
+526;694;Interdisciplinary Center Herzliya;ISR;Higher educ.
+526;694;Universite de Perpignan Via Domitia *;FRA;Higher educ.
+526;694;An-Najah National University;PSE;Higher educ.
+526;694;Umm Al-Qura University;SAU;Higher educ.
+526;694;Duksung Women's University;KOR;Higher educ.
+526;694;Zhejiang Ocean University;CHN;Higher educ.
+526;694;Minia University;EGY;Higher educ.
+526;694;University of Warmia and Mazury;POL;Higher educ.
+527;695;Universitat Augsburg;DEU;Higher educ.
+527;695;Tun Hussein Onn University of Malaysia;MYS;Higher educ.
+527;695;Washington State University, Spokane Campus;USA;Higher educ.
+527;695;Universidad Nacional del Litoral *;ARG;Higher educ.
+527;695;Mbarara University of Science and Technology;UGA;Higher educ.
+527;695;Universidade Federal de Sergipe;BRA;Higher educ.
+527;695;Qufu Normal University;CHN;Higher educ.
+527;695;University of Tulsa;USA;Higher educ.
+527;695;Universidad Autonoma de San Luis Potosi;MEX;Higher educ.
+527;695;Aegean University;GRC;Higher educ.
+527;695;Copenhagen Business School;DNK;Higher educ.
+527;695;Jiangxi Science and Technology Normal University;CHN;Higher educ.
+527;695;Yuan-Ze University;TWN;Higher educ.
+527;695;Universite de Toulon *;FRA;Higher educ.
+527;695;Universidade Federal de Sao Joao del Rei;BRA;Higher educ.
+527;695;Universite Sorbonne Nouvelle, Paris 3 *;FRA;Higher educ.
+527;695;Henan Agricultural University;CHN;Higher educ.
+527;695;Mendel University in Brno;CZE;Higher educ.
+528;696;Agricultural University of Athens;GRC;Higher educ.
+528;696;Jawaharlal Nehru Technological University, Hyderabad;IND;Higher educ.
+528;696;University of Malta;MLT;Higher educ.
+528;696;Seoul Womens University;KOR;Higher educ.
+528;696;University of the Free State;ZAF;Higher educ.
+528;696;Bharathiar University;IND;Higher educ.
+528;696;Sultan Qaboos University;OMN;Higher educ.
+528;696;Walailak University;THA;Higher educ.
+528;696;Hannam University;KOR;Higher educ.
+528;696;Open University Netherlands;NLD;Higher educ.
+528;696;Universidade Estadual de Ponta Grossa;BRA;Higher educ.
+528;696;Universita degli Studi Guglielmo Marconi;ITA;Higher educ.
+528;696;University of Nizwa;OMN;Higher educ.
+529;697;University of the West Indies *;JAM;Higher educ.
+529;697;Ming Chi University of Technology;TWN;Higher educ.
+529;697;University of New England, Australia;AUS;Higher educ.
+529;697;FH Oberosterreich;AUT;Higher educ.
+529;697;Universidade Federal Rural do Rio de Janeiro;BRA;Higher educ.
+529;697;Ilam University of Medical Sciences;IRN;Higher educ.
+529;697;University of New England, United States;USA;Higher educ.
+529;697;Suranaree University of Technology;THA;Higher educ.
+529;697;Sri Ramaswamy Memorial University;IND;Higher educ.
+529;697;Athens University of Economics and Business;GRC;Higher educ.
+529;697;University of South Bohemia;CZE;Higher educ.
+529;697;Hung Kuang University;TWN;Higher educ.
+529;697;Universidade Federal de Alagoas;BRA;Higher educ.
+529;697;Universidade Federal do Piaui;BRA;Higher educ.
+529;697;De Montfort University;GBR;Higher educ.
+530;698;Akita University *;JPN;Higher educ.
+530;698;Universidade Federal do Vale do Sao Francisco;BRA;Higher educ.
+530;698;Russian State Social University;RUS;Higher educ.
+530;698;Universitat Klagenfurt;AUT;Higher educ.
+530;698;City University of New York, College of Staten Island;USA;Higher educ.
+530;698;University of Jordan;JOR;Higher educ.
+530;698;Kwame Nkrumah University of Science and Technology;GHA;Higher educ.
+530;698;Northern Ontario School of Medicine;CAN;Higher educ.
+530;698;John Paul II Catholic University of Lublin;POL;Higher educ.
+530;698;Universidade Lusofona de Humanidades e Tecnologias;PRT;Higher educ.
+530;698;Vasyl Stefanyk Precarpathian National University;UKR;Higher educ.
+530;698;Universidad Mayor;CHL;Higher educ.
+531;699;City University of New York, Lehman College;USA;Higher educ.
+531;699;Universidad del Desarrollo;CHL;Higher educ.
+531;699;Josai University;JPN;Higher educ.
+531;699;Universitat der Bundeswehr Munchen;DEU;Higher educ.
+531;699;University of Madras;IND;Higher educ.
+531;699;Suez Canal University;EGY;Higher educ.
+531;699;Universidad de La Sabana;COL;Higher educ.
+531;699;San Jose State University;USA;Higher educ.
+531;699;Shandong Normal University;CHN;Higher educ.
+531;699;Universidad de La Rioja *;ESP;Higher educ.
+531;699;Huzhou Teachers College;CHN;Higher educ.
+531;699;University of Applied Sciences and Arts Western Switzerland;CHE;Higher educ.
+532;700;Mae Fah Luang University;THA;Higher educ.
+532;700;Anhui University of Technology;CHN;Higher educ.
+532;700;Lithuanian University of Health Sciences;LTU;Higher educ.
+532;700;University of the Punjab, Lahore;PAK;Higher educ.
+532;700;Liaocheng University *;CHN;Higher educ.
+532;700;Universidade Estadual do Centro-Oeste;BRA;Higher educ.
+532;700;Louisiana Tech University;USA;Higher educ.
+532;700;Harper Adams University College;GBR;Higher educ.
+532;700;University of New Orleans;USA;Higher educ.
+532;700;The Korea National University of Transportation;KOR;Higher educ.
+532;700;National Formosa University;TWN;Higher educ.
+532;700;Charles Sturt University;AUS;Higher educ.
+533;701;Guru Nanak Dev University;IND;Higher educ.
+533;701;Brandenburgische Technische Universitat Cottbus;DEU;Higher educ.
+533;701;Gandhigram Rural Institute;IND;Higher educ.
+533;701;University of Piraeus;GRC;Higher educ.
+533;701;Universidade Estadual do Sudoeste da Bahia;BRA;Higher educ.
+533;701;University of Electro-Communications;JPN;Higher educ.
+533;701;Open University of Israel;ISR;Higher educ.
+533;701;Pondicherry University;IND;Higher educ.
+533;701;Dokuz Eylul University *;TUR;Higher educ.
+533;701;Bandung Institute of Technology;IDN;Higher educ.
+533;701;Universidade Estadual do Ceara;BRA;Higher educ.
+534;702;University of Calcutta;IND;Higher educ.
+534;702;Liaoning University of Traditional Chinese Medicine *;CHN;Higher educ.
+534;702;University of East London;GBR;Higher educ.
+534;702;Sun Moon University;KOR;Higher educ.
+534;702;University of Defence *;SRB;Higher educ.
+534;702;Doctor Harisingh Gour University;IND;Higher educ.
+534;702;King Mongkut's University of Technology Thonburi;THA;Higher educ.
+534;702;Universita degli Studi di Napoli Parthenope;ITA;Higher educ.
+534;702;University of Worcester;GBR;Higher educ.
+534;702;Xi'an Jiaotong-Liverpool University;CHN;Higher educ.
+534;702;Huaqiao University;CHN;Higher educ.
+534;702;University of Bridgeport;USA;Higher educ.
+534;702;Chubu University;JPN;Higher educ.
+534;702;Pontificia Universidade Catolica do Rio de Janeiro;BRA;Higher educ.
+534;702;Hampton University;USA;Higher educ.
+535;703;Universitas Jenderal Soedirman;IDN;Higher educ.
+535;703;Tuskegee University;USA;Higher educ.
+535;703;South Central University for Nationalities;CHN;Higher educ.
+535;703;Erzincan University;TUR;Higher educ.
+535;703;Harbin University of Science and Technology;CHN;Higher educ.
+535;703;Universidad Autonoma del Estado de Mexico;MEX;Higher educ.
+535;703;Harokopio University;GRC;Higher educ.
+535;703;Sanjay Gandhi Postgraduate Institute of Medical Sciences;IND;Higher educ.
+535;703;East Tennessee State University;USA;Higher educ.
+535;703;University of Ghana;GHA;Higher educ.
+535;703;Taizhou University;CHN;Higher educ.
+535;703;Universidad de Ciencias Médicas de La Habana *;CUB;Higher educ.
+535;703;Yokohama National University;JPN;Higher educ.
+536;704;Universidad El Bosque;COL;Higher educ.
+536;704;Universidad Pedagogica y Tecnologica de Colombia;COL;Higher educ.
+536;704;Chuo University;JPN;Higher educ.
+536;704;Jimma University *;ETH;Higher educ.
+536;704;University of South Africa;ZAF;Higher educ.
+536;704;Heilongjiang University of Chinese Medicine;CHN;Higher educ.
+536;704;International Islamic University;PAK;Higher educ.
+536;704;Nippon Dental University *;JPN;Higher educ.
+536;704;Hoseo University;KOR;Higher educ.
+536;704;Cukurova University;TUR;Higher educ.
+536;704;Pontificia Universidade Catolica de Minas Gerais;BRA;Higher educ.
+536;704;Universidade Federal de Ciencias da Saude de Porto Alegre;BRA;Higher educ.
+536;704;University of Southern Queensland;AUS;Higher educ.
+536;704;Universidad Nacional de San Martin, Argentina *;ARG;Higher educ.
+536;704;Rikkyo University;JPN;Higher educ.
+536;704;New York City College of Technology;USA;Higher educ.
+536;704;Hebei University of Technology;CHN;Higher educ.
+536;704;Universitat de Vic;ESP;Higher educ.
+536;704;Chapman University;USA;Higher educ.
+537;705;Universidad de Puerto Rico, Mayaguez;PRI;Higher educ.
+537;705;Silpakorn University;THA;Higher educ.
+537;705;IT University of Copenhagen;DNK;Higher educ.
+537;705;Egypt-Japan University of Science and Technology;EGY;Higher educ.
+537;705;Toyama Prefectural University;JPN;Higher educ.
+537;705;Universidad Diego Portales;CHL;Higher educ.
+537;705;University of Silesia in Katowice;POL;Higher educ.
+537;705;Shanxi Medical University *;CHN;Higher educ.
+537;705;Kyoto Sangyo University;JPN;Higher educ.
+537;705;Acadia University;CAN;Higher educ.
+537;705;Kuvempu University;IND;Higher educ.
+537;705;New York Institute of Technology;USA;Higher educ.
+537;705;Ecole de Technologie Superieure;CAN;Higher educ.
+537;705;Henan University of Traditional Chinese Medicine *;CHN;Higher educ.
+538;706;Shanghai Ocean University;CHN;Higher educ.
+538;706;International University of Health and Welfare *;JPN;Higher educ.
+538;706;Universidad Nacional Mayor de San Marcos;PER;Higher educ.
+538;706;Iwate University;JPN;Higher educ.
+538;706;Technische Universitat Bergakademie Freiberg;DEU;Higher educ.
+538;706;Universidad Anahuac;MEX;Higher educ.
+538;706;Shahid Beheshti University;IRN;Higher educ.
+538;706;University of Bucharest;ROU;Higher educ.
+538;706;Cork Institute of Technology;IRL;Higher educ.
+538;706;University of Alabama, Huntsville;USA;Higher educ.
+538;706;Aga Khan University *;PAK;Higher educ.
+538;706;Maria Curie Sklodowska University;POL;Higher educ.
+538;706;Gebze Technical University;TUR;Higher educ.
+538;706;Tezpur University;IND;Higher educ.
+538;706;Alagappa University;IND;Higher educ.
+538;706;Marshall University;USA;Higher educ.
+538;706;Shimane University *;JPN;Higher educ.
+539;707;Universidade Estadual de Montes Claros;BRA;Higher educ.
+539;707;University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca;ROU;Higher educ.
+539;707;Sri Ramachandra University;IND;Higher educ.
+539;707;Universidade Estadual da Paraiba;BRA;Higher educ.
+539;707;National Institute of Technology Rourkela;IND;Higher educ.
+539;707;Shandong University of Technology;CHN;Higher educ.
+539;707;Xinjiang Medical University *;CHN;Higher educ.
+539;707;Chongqing University of Post and Telecommunications;CHN;Higher educ.
+539;707;Huaibei Normal University;CHN;Higher educ.
+539;707;Ecole Nationale Veterinaire, Agroalimentaire et de l'Alimentation de Nantes-Atlantique *;FRA;Higher educ.
+539;707;Tanta University;EGY;Higher educ.
+539;707;Universitat Kassel;DEU;Higher educ.
+539;707;Wuhan Institute of Technology;CHN;Higher educ.
+539;707;University of Dayton;USA;Higher educ.
+540;708;Universidade Federal do Maranhao;BRA;Higher educ.
+540;708;Universidad Bernardo O'Higgins;CHL;Higher educ.
+540;708;Dong-Eui University;KOR;Higher educ.
+540;708;University of Dhaka;BGD;Higher educ.
+540;708;Fujian Normal University;CHN;Higher educ.
+540;708;Jiangxi Agricultural University;CHN;Higher educ.
+540;708;Universite de La Rochelle *;FRA;Higher educ.
+540;708;Dalian University *;CHN;Higher educ.
+540;708;Medical University of Kerman;IRN;Higher educ.
+540;708;Bharathidasan University;IND;Higher educ.
+540;708;Universite de Technologie de Belfort-Montbeliard *;FRA;Higher educ.
+540;708;Institute for Advanced Studies in Basic Sciences;IRN;Higher educ.
+541;709;Universidad de Burgos;ESP;Higher educ.
+541;709;Aja University of Medical Sciences;IRN;Higher educ.
+541;709;Firat University;TUR;Higher educ.
+541;709;Universidad Catolica del Maule;CHL;Higher educ.
+541;709;Universidad Autonoma de Coahuila *;MEX;Higher educ.
+541;709;Oberlin College;USA;Higher educ.
+541;709;Yantai University;CHN;Higher educ.
+541;709;Universidade de Franca;BRA;Higher educ.
+541;709;Universidade de Caxias do Sul;BRA;Higher educ.
+541;709;Universidade do Estado de Santa Catarina;BRA;Higher educ.
+541;709;University of Colorado, Colorado Springs;USA;Higher educ.
+542;710;Yildiz Technical University;TUR;Higher educ.
+542;710;The Islamia University of Bahawalpur;PAK;Higher educ.
+542;710;American University;USA;Higher educ.
+542;710;Slovak University of Agriculture in Nitra;SVK;Higher educ.
+542;710;Halmstad University College;SWE;Higher educ.
+542;710;Universidad Catolica del Norte;CHL;Higher educ.
+542;710;National Institute of Mental Health and Neuro Sciences;IND;Higher educ.
+542;710;Universidad Catolica de Temuco;CHL;Higher educ.
+542;710;Universidade Estadual do Norte Fluminense Darcy Ribeiro;BRA;Higher educ.
+542;710;Gorgan University of Agriculture and Natural Resources;IRN;Higher educ.
+542;710;University of Sarajevo;BIH;Higher educ.
+542;710;Visva-Bharati University;IND;Higher educ.
+542;710;Universidad de Cartagena;COL;Higher educ.
+542;710;Universidade Ceuma;BRA;Higher educ.
+542;710;Tunghai University;TWN;Higher educ.
+542;710;Suez University;EGY;Higher educ.
+542;710;Universidad de Caldas;COL;Higher educ.
+542;710;Guangzhou University of Traditional Chinese Medicine *;CHN;Higher educ.
+542;710;University of Minnesota, Duluth;USA;Higher educ.
+543;711;Universita degli Studi del Sannio;ITA;Higher educ.
+543;711;Menoufia University;EGY;Higher educ.
+543;711;Jiangsu University of Science and Technology;CHN;Higher educ.
+543;711;Universidad Autonoma de Queretaro;MEX;Higher educ.
+543;711;Amrita University;IND;Higher educ.
+543;711;Sahmyook University;KOR;Higher educ.
+543;711;Deutsche Sporthochschule Koln;DEU;Higher educ.
+543;711;Jamia Millia Islamia Central University;IND;Higher educ.
+543;711;Hubei Normal University;CHN;Higher educ.
+543;711;Florida Institute of Technology;USA;Higher educ.
+543;711;Universidad Nacional de Cuyo *;ARG;Higher educ.
+543;711;Royal Military College of Canada;CAN;Higher educ.
+543;711;Mid Sweden University;SWE;Higher educ.
+543;711;Bauhaus-Universitat Weimar;DEU;Higher educ.
+543;711;Shandong University of Traditional Chinese Medicine *;CHN;Higher educ.
+543;711;Universidad Autonoma de Chihuahua;MEX;Higher educ.
+543;711;Anhui University of Science and Technology;CHN;Higher educ.
+543;711;Villanova University;USA;Higher educ.
+543;711;Hochschule Munchen;DEU;Higher educ.
+543;711;University of Mosul;IRQ;Higher educ.
+544;712;University of Isfahan;IRN;Higher educ.
+544;712;University of San Diego;USA;Higher educ.
+544;712;Lakehead University;CAN;Higher educ.
+544;712;Jiamusi University *;CHN;Higher educ.
+544;712;Cankaya University;TUR;Higher educ.
+544;712;Syiah Kuala University;IDN;Higher educ.
+544;712;University of Agder;NOR;Higher educ.
+544;712;Jawaharlal Nehru University;IND;Higher educ.
+544;712;Universita Commerciale Luigi Bocconi;ITA;Higher educ.
+544;712;Hongik University;KOR;Higher educ.
+544;712;Universidade Federal do Amapa;BRA;Higher educ.
+544;712;Tokyo University of Technology;JPN;Higher educ.
+544;712;Kumoh National Institute of Technology;KOR;Higher educ.
+544;712;Anadolu University;TUR;Higher educ.
+544;712;University of Venda;ZAF;Higher educ.
+544;712;Kashan University of Medical Sciences and Health Services;IRN;Higher educ.
+545;713;Indian Institute of Technology, Indore;IND;Higher educ.
+545;713;Universidad Nacional de Quilmes;ARG;Higher educ.
+545;713;Rhodes University;ZAF;Higher educ.
+545;713;Istanbul Medipol University *;TUR;Higher educ.
+545;713;Universite de Yaounde I;CMR;Higher educ.
+545;713;Indian Institute of Technology, Varanasi;IND;Higher educ.
+545;713;Universidade Federal do Triangulo Mineiro;BRA;Higher educ.
+545;713;University of the Sunshine Coast;AUS;Higher educ.
+545;713;Fundacao Universidade Federal do Rio Grande;BRA;Higher educ.
+545;713;Haverford College in Pennsylvania;USA;Higher educ.
+545;713;University of Baghdad;IRQ;Higher educ.
+545;713;Dublin Institute For Advanced Studies;IRL;Higher educ.
+545;713;Universidade Federal dos Vales do Jequitinhonha e Mucuri;BRA;Higher educ.
+546;714;Jilin Agricultural University;CHN;Higher educ.
+546;714;University of Arid Agriculture;PAK;Higher educ.
+546;714;Universidade Federal de Campina Grande;BRA;Higher educ.
+546;714;University of Bedfordshire;GBR;Higher educ.
+546;714;Ecole Centrale de Nantes *;FRA;Higher educ.
+546;714;University of Nottingham Malaysia Campus;MYS;Higher educ.
+546;714;Universidad del Atlantico;COL;Higher educ.
+546;714;Integral University;IND;Higher educ.
+546;714;Universidad Alberto Hurtado;CHL;Higher educ.
+546;714;Ilia State University;GEO;Higher educ.
+546;714;Damascus University;SYR;Higher educ.
+546;714;Universidade Tecnologica Federal do Parana;BRA;Higher educ.
+547;715;Instituto Superior de Psicologia Aplicada;PRT;Higher educ.
+547;715;Military University of Technology;POL;Higher educ.
+547;715;Taibah University;SAU;Higher educ.
+547;715;Showa Pharmaceutical University;JPN;Higher educ.
+547;715;Ural Federal University;RUS;Higher educ.
+547;715;University of South Florida-Saint Petersburg;USA;Higher educ.
+547;715;Universidad Autonoma de Guerrero;MEX;Higher educ.
+547;715;Pontificia Universidade Catolica de Sao Paulo;BRA;Higher educ.
+547;715;Universidad Autonoma de Tamaulipas;MEX;Higher educ.
+547;715;Lincoln University, Lincoln;NZL;Higher educ.
+547;715;University of Nova Gorica;SVN;Higher educ.
+547;715;University of Malaysia, Perlis;MYS;Higher educ.
+547;715;University of Michigan, Dearborn;USA;Higher educ.
+547;715;University of North Bengal;IND;Higher educ.
+547;715;Qom University;IRN;Higher educ.
+547;715;Brawijaya University;IDN;Higher educ.
+547;715;Technical University of Kosice;SVK;Higher educ.
+547;715;Benha University;EGY;Higher educ.
+548;716;Zanjan University of Medical Sciences;IRN;Higher educ.
+548;716;University of the Pacific;USA;Higher educ.
+548;716;University of Fukui *;JPN;Higher educ.
+548;716;Beijing Technology and Business University;CHN;Higher educ.
+548;716;Technical University of Malaysia, Melaka;MYS;Higher educ.
+548;716;Universite Polytechnique des Hauts-de-France *;FRA;Higher educ.
+548;716;Vietnam National University, Hanoi;VNM;Higher educ.
+548;716;St. Francis Xavier University;CAN;Higher educ.
+548;716;Universidade Estadual de Santa Cruz;BRA;Higher educ.
+548;716;United States Naval Academy;USA;Higher educ.
+548;716;Kyoto Institute of Technology;JPN;Higher educ.
+548;716;Roskilde University;DNK;Higher educ.
+548;716;Josip Juraj Strossmayer University of Osijek;HRV;Higher educ.
+548;716;University of Nottingham China Campus;CHN;Higher educ.
+548;716;Amherst College;USA;Higher educ.
+548;716;University of Khartoum *;SDN;Higher educ.
+548;716;Constantine the Philosopher University in Nitra;SVK;Higher educ.
+548;716;Government College University, Faisalabad;PAK;Higher educ.
+548;716;Qom University of Medical Sciences;IRN;Higher educ.
+548;716;King Faisal University;SAU;Higher educ.
+549;717;Pontificia Universidad Catolica del Ecuador;ECU;Higher educ.
+549;717;Universidad Nacional de Mar del Plata *;ARG;Higher educ.
+549;717;University Centre in Svalbard;NOR;Higher educ.
+549;717;Bergen University College;NOR;Higher educ.
+549;717;Hokkaido University of Health Sciences;JPN;Higher educ.
+549;717;Universidad Politecnica de Cartagena *;ESP;Higher educ.
+549;717;Mount Allison University;CAN;Higher educ.
+549;717;University of Montenegro;MNE;Higher educ.
+549;717;London Business School;GBR;Higher educ.
+549;717;University of Shiga Prefecture;JPN;Higher educ.
+549;717;Wichita State University;USA;Higher educ.
+549;717;Slovak University of Technology;SVK;Higher educ.
+549;717;University of Louisiana, Lafayette;USA;Higher educ.
+549;717;University of Ibadan;NGA;Higher educ.
+549;717;Islamic Azad University, Khomeinishahr;IRN;Higher educ.
+549;717;Istituto Universitario di Studi Superiori Pavia;ITA;Higher educ.
+549;717;Universidade Estacio de Sa;BRA;Higher educ.
+549;717;Universidade Federal Rural do Semi-Arido;BRA;Higher educ.
+549;717;Universidad de Sonora;MEX;Higher educ.
+549;717;Okayama University of Science;JPN;Higher educ.
+549;717;Osaka Medical College *;JPN;Higher educ.
+549;717;Hamadan University of Medical Sciences and Health Services;IRN;Higher educ.
+549;717;Santa Clara University;USA;Higher educ.
+549;717;University of Richmond;USA;Higher educ.
+549;717;Universidade Estadual do Oeste do Parana;BRA;Higher educ.
+549;717;University of Ontario Institute of Technology;CAN;Higher educ.
+549;717;Pedagogical University of Kielce;POL;Higher educ.
+549;717;Universidade do Estado da Bahia;BRA;Higher educ.
+549;717;Jordan University of Science and Technology;JOR;Higher educ.
+549;717;Zhejiang Gongshang University;CHN;Higher educ.
+549;717;Estonian University of Life Sciences;EST;Higher educ.
+550;718;Sant Gadge Baba Amravati University;IND;Higher educ.
+550;718;Southern Taiwan University of Science and Technology;TWN;Higher educ.
+550;718;The Catholic University of America;USA;Higher educ.
+550;718;Dumlupinar University;TUR;Higher educ.
+550;718;University of Sulaimani;IRQ;Higher educ.
+550;718;Mount Holyoke College;USA;Higher educ.
+550;718;Slovak Medical University in Bratislava;SVK;Higher educ.
+550;718;Pontificia Universidad Catolica del Peru;PER;Higher educ.
+550;718;Dokkyo Medical University *;JPN;Higher educ.
+550;718;Yunnan Agricultural University;CHN;Higher educ.
+550;718;University of Babylon;IRQ;Higher educ.
+550;718;Ecole Nationale Superieur de Mecaniques et des MicroTechniques *;FRA;Higher educ.
+551;719;Pace University;USA;Higher educ.
+551;719;University of Nairobi;KEN;Higher educ.
+551;719;Moi University;KEN;Higher educ.
+551;719;Trent University;CAN;Higher educ.
+551;719;Jomo Kenyatta University of Agriculture and Technology;KEN;Higher educ.
+551;719;London Metropolitan University;GBR;Higher educ.
+551;719;King Georges Medical University;IND;Higher educ.
+551;719;Universidad Autonoma de Yucatan;MEX;Higher educ.
+551;719;Universidade da Regiao de Joinville;BRA;Higher educ.
+551;719;University of Nebraska, Omaha;USA;Higher educ.
+551;719;Tokushima Bunri University;JPN;Higher educ.
+551;719;Toyohashi University of Technology;JPN;Higher educ.
+551;719;Bond University;AUS;Higher educ.
+551;719;Urmia University of Medical Sciences;IRN;Higher educ.
+551;719;Tribhuvan University *;NPL;Higher educ.
+551;719;Jilin Normal University;CHN;Higher educ.
+551;719;Egerton University;KEN;Higher educ.
+551;719;Providence University;TWN;Higher educ.
+551;719;Fairfield University;USA;Higher educ.
+551;719;Universitat Internacional de Catalunya ;ESP;Higher educ.
+551;719;Tabuk University;SAU;Higher educ.
+551;719;National Pingtung University of Science and Technology;TWN;Higher educ.
+551;719;Technische Universitat Clausthal;DEU;Higher educ.
+551;719;Central European University;HUN;Higher educ.
+551;719;Deustuko Unibertsitatea;ESP;Higher educ.
+551;719;Mahatma Gandhi University;IND;Higher educ.
+551;719;National Ilan University;TWN;Higher educ.
+552;720;Indian Statistical Institute;IND;Higher educ.
+552;720;Ondokuz Mayis University *;TUR;Higher educ.
+552;720;Setsunan University;JPN;Higher educ.
+552;720;National Chi Nan University;TWN;Higher educ.
+552;720;Central Queensland University;AUS;Higher educ.
+552;720;Selcuk University *;TUR;Higher educ.
+552;720;Purdue University North Central;USA;Higher educ.
+552;720;University of Agriculture in Krakow;POL;Higher educ.
+552;720;Payame Noor University;IRN;Higher educ.
+552;720;University of Science and Technology of Suzhou;CHN;Higher educ.
+552;720;Universidad Autonoma de Chile;CHL;Higher educ.
+552;720;Nirma University;IND;Higher educ.
+552;720;University of Malakand;PAK;Higher educ.
+552;720;The New School;USA;Higher educ.
+552;720;Universidad Nacional de San Luis *;ARG;Higher educ.
+552;720;University of Pardubice;CZE;Higher educ.
+552;720;Universidade do Oeste Paulista;BRA;Higher educ.
+552;720;Universita degli Studi di Teramo;ITA;Higher educ.
+552;720;Sanaa University;YEM;Higher educ.
+553;721;Tadeusz Kosciuszko Cracow University of Technology;POL;Higher educ.
+553;721;Centro Universitario de la Defensa;ESP;Higher educ.
+553;721;Imam Khomeini International University;IRN;Higher educ.
+553;721;University of Colombo;LKA;Higher educ.
+553;721;Universite de la Reunion;REU;Higher educ.
+553;721;University of Mysore;IND;Higher educ.
+553;721;California State University, Northridge;USA;Higher educ.
+553;721;University of Defence;CZE;Higher educ.
+553;721;Institut Francais de Mecanique Avancee *;FRA;Higher educ.
+553;721;National Changhua University of Education;TWN;Higher educ.
+553;721;Universidade Federal de Ouro Preto;BRA;Higher educ.
+553;721;Thammasat University;THA;Higher educ.
+553;721;Meijo University;JPN;Higher educ.
+553;721;Universidade Federal de Rondonia;BRA;Higher educ.
+553;721;Helwan University Cairo;EGY;Higher educ.
+553;721;The University of Suwon;KOR;Higher educ.
+553;721;Universitat Trier;DEU;Higher educ.
+553;721;VSB-Technical University of Ostrava;CZE;Higher educ.
+553;721;University of Massachusetts, Dartmouth;USA;Higher educ.
+553;721;Henan Polytechnic University;CHN;Higher educ.
+553;721;Khulna University;BGD;Higher educ.
+554;722;Daegu University;KOR;Higher educ.
+554;722;Texas State University, San Marcos;USA;Higher educ.
+554;722;Balamand University;LBN;Higher educ.
+554;722;Karlstad University;SWE;Higher educ.
+554;722;Carol Davila University of Medicine and Pharmacy;ROU;Higher educ.
+554;722;University College of Medical Sciences;IND;Higher educ.
+554;722;Indira Gandhi Medical College;IND;Higher educ.
+554;722;Universidad Central de Venezuela;VEN;Higher educ.
+554;722;Tinbergen Institute;NLD;Higher educ.
+554;722;University of Limpopo;ZAF;Higher educ.
+554;722;Napier University;GBR;Higher educ.
+554;722;Universidad CES *;COL;Higher educ.
+554;722;Universiti Sultan Zainal Abidin;MYS;Higher educ.
+554;722;Razi University;IRN;Higher educ.
+555;723;Charles Darwin University;AUS;Higher educ.
+555;723;Hanseo University;KOR;Higher educ.
+555;723;Islamic Science University of Malaysia;MYS;Higher educ.
+555;723;Staffordshire University;GBR;Higher educ.
+555;723;Najran University;SAU;Higher educ.
+555;723;Dicle University *;TUR;Higher educ.
+555;723;Hanoi University of Science and Technology;VNM;Higher educ.
+555;723;University of Agriculture;PAK;Higher educ.
+555;723;Reed College;USA;Higher educ.
+555;723;Bahauddin Zakariya University;PAK;Higher educ.
+555;723;Celal Bayar University *;TUR;Higher educ.
+555;723;Feng Chia University;TWN;Higher educ.
+555;723;Ardabil University of Medical Sciences;IRN;Higher educ.
+555;723;Universidade do Vale do Rio dos Sinos;BRA;Higher educ.
+555;723;University of Pannonia;HUN;Higher educ.
+556;724;Shahed University;IRN;Higher educ.
+556;724;University of Fort Hare;ZAF;Higher educ.
+556;724;Prince Mohammad Bin Fahd University;SAU;Higher educ.
+556;724;University of Regina;CAN;Higher educ.
+556;724;Dalarna University College;SWE;Higher educ.
+556;724;Kansai University;JPN;Higher educ.
+556;724;University of Szczecin;POL;Higher educ.
+556;724;Kocaeli University *;TUR;Higher educ.
+556;724;Western Washington University;USA;Higher educ.
+556;724;University of Chemical Technology and Metallurgy;BGR;Higher educ.
+556;724;University of Kashan;IRN;Higher educ.
+556;724;Southern Cross University;AUS;Higher educ.
+556;724;Airlangga university;IDN;Higher educ.
+556;724;Tokyo University of Marine Science and Technology;JPN;Higher educ.
+556;724;Universidad Autonoma de Ciudad Juarez;MEX;Higher educ.
+556;724;Bahcesehir University *;TUR;Higher educ.
+556;724;Xinjiang University;CHN;Higher educ.
+556;724;North Maharashtra University;IND;Higher educ.
+556;724;Reykjavik University;ISL;Higher educ.
+557;725;Technological Educational Institute of Crete;GRC;Higher educ.
+557;725;King Khalid University;SAU;Higher educ.
+557;725;Universitas Negeri Sebelas Maret;IDN;Higher educ.
+557;725;Gaziantep University *;TUR;Higher educ.
+557;725;University of Hyogo;JPN;Higher educ.
+557;725;Universidad Autonoma del Estado de Morelos;MEX;Higher educ.
+557;725;Bangalore University;IND;Higher educ.
+557;725;Loyola College;IND;Higher educ.
+557;725;Sohag University;EGY;Higher educ.
+557;725;Universidad Santo Tomas, Chile;CHL;Higher educ.
+557;725;Universita IUAV di Venezia;ITA;Higher educ.
+557;725;Guilin University of Technology;CHN;Higher educ.
+557;725;University of Malaysia, Sabah;MYS;Higher educ.
+557;725;Jianghan University;CHN;Higher educ.
+557;725;Sokoine University of Agriculture;TZA;Higher educ.
+557;725;Clark University;USA;Higher educ.
+557;725;Universite de Tunis El Manar;TUN;Higher educ.
+557;725;University at Texas Rio Grande Valley;USA;Higher educ.
+557;725;University of Prishtina, Prishtina;XKX;Higher educ.
+557;725;Samara University;RUS;Higher educ.
+557;725;Universidade Estadual de Goias;BRA;Higher educ.
+558;726;North University of China;CHN;Higher educ.
+558;726;University of Guilan;IRN;Higher educ.
+558;726;Jawaharlal Institute of Postgraduate Medical Education and Research;IND;Higher educ.
+558;726;Universidade de Pernambuco;BRA;Higher educ.
+558;726;Universitat St. Gallen;CHE;Higher educ.
+558;726;Bowling Green State University;USA;Higher educ.
+558;726;Kwansei Gakuin University;JPN;Higher educ.
+558;726;Bard College;USA;Higher educ.
+558;726;University of Malaysia, Sarawak;MYS;Higher educ.
+558;726;Ecole des Hautes Etudes en Sciences Sociales *;FRA;Higher educ.
+558;726;Universidade da Madeira;PRT;Higher educ.
+558;726;Universidad del Bio-Bio;CHL;Higher educ.
+558;726;Norwegian School of Economics;NOR;Higher educ.
+558;726;University of Derby;GBR;Higher educ.
+558;726;Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences;IND;Higher educ.
+558;726;Sri Venkateswara University;IND;Higher educ.
+558;726;Technical University of Crete;GRC;Higher educ.
+558;726;Stockholm School of Economics;SWE;Higher educ.
+558;726;Universidad Cooperativa de Colombia;COL;Higher educ.
+558;726;Universidade do Vale do Itajai;BRA;Higher educ.
+558;726;Universitat Koblenz-Landau;DEU;Higher educ.
+558;726;Arkansas State University;USA;Higher educ.
+558;726;Claremont McKenna College;USA;Higher educ.
+558;726;Universiti Brunei Darussalam;BRN;Higher educ.
+558;726;Sichuan Normal University;CHN;Higher educ.
+559;727;Sardar Patel University;IND;Higher educ.
+559;727;TOBB Economics and Technology University *;TUR;Higher educ.
+559;727;Bahir Dar University;ETH;Higher educ.
+559;727;Guru Gobind Singh Indraprastha University;IND;Higher educ.
+559;727;Hainan Medical University *;CHN;Higher educ.
+559;727;Hebei University;CHN;Higher educ.
+559;727;Fordham University;USA;Higher educ.
+559;727;Universidade do Estado do Amazonas;BRA;Higher educ.
+559;727;Taras Shevchenko National University of Kyiv;UKR;Higher educ.
+559;727;Wilfrid Laurier University;CAN;Higher educ.
+559;727;International Institute of Information Technology, Hyderabad;IND;Higher educ.
+559;727;Anhui University of Traditional Chinese Medicine;CHN;Higher educ.
+559;727;Czestochowa University of Technology;POL;Higher educ.
+559;727;Graphic Era University;IND;Higher educ.
+559;727;Prairie View A&M University;USA;Higher educ.
+559;727;Mekelle University;ETH;Higher educ.
+559;727;Sam Houston State University;USA;Higher educ.
+559;727;University of Teesside;GBR;Higher educ.
+559;727;University of Sargodha;PAK;Higher educ.
+559;727;Pontificia Universidade Catolica do Parana;BRA;Higher educ.
+559;727;Universidad del Norte, Barranquilla *;COL;Higher educ.
+560;728;Yuzuncu Yil University *;TUR;Higher educ.
+560;728;Szent Istvan University;HUN;Higher educ.
+560;728;Universidad Europea de Madrid;ESP;Higher educ.
+560;728;Anyang Normal University;CHN;Higher educ.
+560;728;Universidad Michoacana de San Nicolas de Hidalgo;MEX;Higher educ.
+560;728;Sepuluh Nopember Institute of Technology;IDN;Higher educ.
+560;728;DePaul University;USA;Higher educ.
+560;728;Universidade Federal do Reconcavo da Bahia;BRA;Higher educ.
+560;728;Baskent University *;TUR;Higher educ.
+560;728;German University in Cairo;EGY;Higher educ.
+560;728;Inner Mongolia University;CHN;Higher educ.
+560;728;Federal Urdu University of Arts, Science and Technology;PAK;Higher educ.
+560;728;Universidad de Carabobo;VEN;Higher educ.
+560;728;Universidad Cardenal Herrera CEU;ESP;Higher educ.
+560;728;Sunway University College;MYS;Higher educ.
+560;728;Alexandru Ioan Cuza University;ROU;Higher educ.
+560;728;Universidade Federal do Amazonas;BRA;Higher educ.
+560;728;Universite de Buea;CMR;Higher educ.
+560;728;Universite de Ngaoundere;CMR;Higher educ.
+560;728;Indiana University/Purdue University at Fort Wayne;USA;Higher educ.
+560;728;University of Lethbridge;CAN;Higher educ.
+560;728;University of Primorska;SVN;Higher educ.
+561;729;Universidad de San Martin de Porres;PER;Higher educ.
+561;729;Southwest University of Science and Technology;CHN;Higher educ.
+561;729;Maharishi Markandeshwar University;IOT;Higher educ.
+561;729;Periyar University;IND;Higher educ.
+561;729;Gaziosmanpasa University;TUR;Higher educ.
+561;729;University of Macedonia;GRC;Higher educ.
+561;729;Universidade Federal do Tocantins;BRA;Higher educ.
+561;729;Vietnam National University, Ho Chi Minh City;VNM;Higher educ.
+561;729;Universidade Eduardo Mondlane;MOZ;Higher educ.
+561;729;Fundacao Getulio Vargas;BRA;Higher educ.
+561;729;Universidad Nacional del Sur *;ARG;Higher educ.
+561;729;Mersin University;TUR;Higher educ.
+561;729;Punjabi University;IND;Higher educ.
+561;729;Aichi Institute of Technology;JPN;Higher educ.
+561;729;Ivane Javakhishvili Tbilisi State University;GEO;Higher educ.
+561;729;Universite du Maine *;FRA;Higher educ.
+561;729;Indian Institute of Technology, Ropar;IND;Higher educ.
+561;729;Instituto Politecnico de Coimbra;PRT;Higher educ.
+561;729;Kielce University of Technology;POL;Higher educ.
+562;730;Universidad Autonoma del Estado de Hidalgo;MEX;Higher educ.
+562;730;Rzeszow University of Technology;POL;Higher educ.
+562;730;Kirikkale University *;TUR;Higher educ.
+562;730;Karadeniz Technical University;TUR;Higher educ.
+562;730;State University of New York, College of Environmental Science and Forestry;USA;Higher educ.
+562;730;Gannan Normal University;CHN;Higher educ.
+562;730;Zanjan University;IRN;Higher educ.
+562;730;University of Hail;SAU;Higher educ.
+562;730;Universite Paris Dauphine *;FRA;Higher educ.
+562;730;Hengyang Normal University;CHN;Higher educ.
+562;730;Prince Sattam Bin Abdulaziz University;SAU;Higher educ.
+562;730;Durban University of Technology;ZAF;Higher educ.
+562;730;Tumkur University;IND;Higher educ.
+562;730;Princess Sumaya University of Technology;JOR;Higher educ.
+562;730;Universidade Estadual de Mato Grosso do Sul;BRA;Higher educ.
+562;730;Guru Jambheshwar University of Science and Technology;IND;Higher educ.
+562;730;Youngstown State University;USA;Higher educ.
+562;730;Sree Chitra Tirunal Institute for Medical Sciences and Technology;IND;Higher educ.
+562;730;Diponegoro University;IDN;Higher educ.
+562;730;Zewail City of Science and Technology;EGY;Higher educ.
+562;730;Universite Hassan II;MAR;Higher educ.
+562;730;Hainan Normal University;CHN;Higher educ.
+562;730;Indian Veterinary Research Institute;IND;Higher educ.
+563;731;University of Peradeniya;LKA;Higher educ.
+563;731;Universidad de La Serena;CHL;Higher educ.
+563;731;Universidade Nove de Julho;BRA;Higher educ.
+563;731;St Petersburg Pavlov State Medical University;RUS;Higher educ.
+563;731;University of Veterinary and Animal Sciences;PAK;Higher educ.
+563;731;Shenyang Agricultural University;CHN;Higher educ.
+563;731;Western Michigan University;USA;Higher educ.
+563;731;Qazvin University of Medical Sciences;IRN;Higher educ.
+563;731;National Kaohsiung Normal University;TWN;Higher educ.
+563;731;University of Life Sciences in Lublin;POL;Higher educ.
+563;731;Montanuniversitat Leoben;AUT;Higher educ.
+563;731;University Tunku Abdul Rahman;MYS;Higher educ.
+563;731;Universidade Estadual do Maranhao;BRA;Higher educ.
+563;731;Seton Hall University;USA;Higher educ.
+564;732;Universidad Veracruzana;MEX;Higher educ.
+564;732;Udayana University;IDN;Higher educ.
+564;732;Georgia Southern University;USA;Higher educ.
+564;732;Universite Saint-Joseph;LBN;Higher educ.
+564;732;Universitat Luzern;CHE;Higher educ.
+564;732;Zahedan University of Medical Sciences;IRN;Higher educ.
+564;732;Ariel University;ISR;Higher educ.
+564;732;Acharya Nagarjuna University;IND;Higher educ.
+564;732;Universidad de los Andes, Venezuela;VEN;Higher educ.
+564;732;Pakistan Institute of Engineering and Applied Sciences;PAK;Higher educ.
+564;732;University of Kelaniya;LKA;Higher educ.
+564;732;Henan University of Technology;CHN;Higher educ.
+564;732;Cheongju University;KOR;Higher educ.
+564;732;Universidad Adolfo Ibanez;CHL;Higher educ.
+564;732;Trinity University;USA;Higher educ.
+564;732;Thapar University;IND;Higher educ.
+564;732;Akita Prefectural University;JPN;Higher educ.
+564;732;Tianjin University of Commerce China;CHN;Higher educ.
+564;732;Yangtze University;CHN;Higher educ.
+564;732;University of Kitakyushu;JPN;Higher educ.
+565;733;Kafkas University;TUR;Higher educ.
+565;733;Universidade Federal do Pampa;BRA;Higher educ.
+565;733;Universidad de Guanajuato;MEX;Higher educ.
+565;733;Bangladesh Agricultural University;BGD;Higher educ.
+565;733;Universidad Nacional de Costa Rica;CRI;Higher educ.
+565;733;Skidmore College;USA;Higher educ.
+565;733;Beirut Arab University;LBN;Higher educ.
+565;733;Universidad de Tarapaca;CHL;Higher educ.
+565;733;University of Ruhuna;LKA;Higher educ.
+565;733;Universidade Tiradentes;BRA;Higher educ.
+565;733;Indian Institute of Technology, Bhubaneswar;IND;Higher educ.
+565;733;Guilan University of Medical Sciences;IRN;Higher educ.
+565;733;Balikesir University;TUR;Higher educ.
+565;733;University of Rwanda;RWA;Higher educ.
+565;733;Universidade Regional do Cariri;BRA;Higher educ.
+565;733;Universidade Presbiteriana Mackenzie;BRA;Higher educ.
+565;733;Islamic Azad University of Lahijan;IRN;Higher educ.
+565;733;Shibaura Institute of Technology;JPN;Higher educ.
+565;733;University of South China;CHN;Higher educ.
+565;733;Osmania University;IND;Higher educ.
+566;734;University of Southern Mississippi;USA;Higher educ.
+566;734;Andong National University;KOR;Higher educ.
+566;734;California Polytechnic State University, San Luis Obispo;USA;Higher educ.
+566;734;Universidad Catolica San Antonio de Murcia;ESP;Higher educ.
+566;734;Shivaji University;IND;Higher educ.
+566;734;Universite de Technologie de Troyes *;FRA;Higher educ.
+566;734;University of North Florida;USA;Higher educ.
+566;734;Universidade Federal Rural da Amazonia;BRA;Higher educ.
+566;734;Tshwane University of Technology;ZAF;Higher educ.
+566;734;Universidad Santo Tomas, Colombia;COL;Higher educ.
+566;734;Kurdistan University of Medical Sciences;IRN;Higher educ.
+566;734;Sakarya University *;TUR;Higher educ.
+566;734;Pavol Jozef Safarik University in Kosice;SVK;Higher educ.
+566;734;Hochschule fur Angewandte Wissenschaften Hamburg;DEU;Higher educ.
+566;734;European University Institute;ITA;Higher educ.
+566;734;Colegio de Postgraduados;MEX;Higher educ.
+566;734;California State University, Long Beach;USA;Higher educ.
+566;734;Qilu University of Technology;CHN;Higher educ.
+566;734;Opole University of Technology;POL;Higher educ.
+566;734;University of Western Macedonia;GRC;Higher educ.
+566;734;Islamic Azad University, Tabriz;IRN;Higher educ.
+566;734;Birla Institute of Technology;IND;Higher educ.
+566;734;Ss. Cyril and Methodius University of Skopje;MKD;Higher educ.
+566;734;National Chiayi University;TWN;Higher educ.
+566;734;North West Frontier Province University of Engineering and Technology;PAK;Higher educ.
+566;734;Universite Cadi Ayyad;MAR;Higher educ.
+566;734;Pazmany Peter Catholic University;HUN;Higher educ.
+566;734;Universidade do Estado de Mato Grosso;BRA;Higher educ.
+567;735;University of Zilina;SVK;Higher educ.
+567;735;Hubei University of Technology;CHN;Higher educ.
+567;735;East China Institute of Technology;CHN;Higher educ.
+567;735;Universidad Central del Ecuador;ECU;Higher educ.
+567;735;Korea Polytechnic University;KOR;Higher educ.
+567;735;Izmir Katip Celebi University *;TUR;Higher educ.
+567;735;University of Quebec at Chicoutimi;CAN;Higher educ.
+567;735;Universidad Juarez del Estado de Durango;MEX;Higher educ.
+567;735;The Maharaja Sayajirao University of Baroda;IND;Higher educ.
+567;735;Changwon National University;KOR;Higher educ.
+567;735;Universidad Nacional de Tucuman *;ARG;Higher educ.
+567;735;Islamic Azad University, Najafabad Branch;IRN;Higher educ.
+567;735;Universidade dos Acores;PRT;Higher educ.
+567;735;Campbell University;USA;Higher educ.
+567;735;University of Quebec at Rimouski;CAN;Higher educ.
+567;735;Naresuan University;THA;Higher educ.
+567;735;Edge Hill University;GBR;Higher educ.
+567;735;Universidad ICESI;COL;Higher educ.
+567;735;Sriwijaya University;IDN;Higher educ.
+568;736;Technical University of Cluj-Napoca;ROU;Higher educ.
+568;736;Kazimierz Wielki University;POL;Higher educ.
+568;736;Idaho State University;USA;Higher educ.
+568;736;Indian Institute of Technology;IND;Higher educ.
+568;736;Hofstra University *;USA;Higher educ.
+568;736;University of Aizu;JPN;Higher educ.
+568;736;Abant Izzet Baysal University *;TUR;Higher educ.
+568;736;Kochi University of Technology;JPN;Higher educ.
+568;736;Henan Institute of Science and Technology;CHN;Higher educ.
+568;736;Jaypee University of Information Technology;IND;Higher educ.
+568;736;Jonkoping University;SWE;Higher educ.
+568;736;University of Medicine and Pharmacy of Targu Mures;ROU;Higher educ.
+568;736;Harbin Normal University;CHN;Higher educ.
+568;736;Pontificia Universidade Catolica de Campinas;BRA;Higher educ.
+568;736;Imam Abdulrahman Bin Faisal University;SAU;Higher educ.
+568;736;Universidad de Colima;MEX;Higher educ.
+568;736;University of Rzeszow;POL;Higher educ.
+569;737;Universidad San Sebastian;CHL;Higher educ.
+569;737;The American University in Cairo;EGY;Higher educ.
+569;737;Bangabandhu Sheikh Mujibur Rahman Agricultural University;BGD;Higher educ.
+569;737;Instituto Politecnico de Leiria;PRT;Higher educ.
+569;737;Politehnica University of Timisoara;ROU;Higher educ.
+569;737;Liaoning University;CHN;Higher educ.
+569;737;Mustafa Kemal University *;TUR;Higher educ.
+569;737;Xi'an University of Technology;CHN;Higher educ.
+569;737;Urmia University;IRN;Higher educ.
+569;737;Universidad de Atacama;CHL;Higher educ.
+569;737;N.I. Lobachevsky State University of Nizhni Novgorod;RUS;Higher educ.
+569;737;Universidade Federal do Estado do Rio de Janeiro;BRA;Higher educ.
+569;737;Sophia University;JPN;Higher educ.
+569;737;National Kaohsiung University of Applied Sciences;TWN;Higher educ.
+569;737;Maharshi Dayanand University;IND;Higher educ.
+569;737;European University of Cyprus;CYP;Higher educ.
+569;737;Sathyabama Institute of Science and Technology;IND;Higher educ.
+569;737;Teachers College, Columbia University;USA;Higher educ.
+569;737;Aswan University;EGY;Higher educ.
+569;737;Al-Anbar University;IRQ;Higher educ.
+570;738;Universite d Abomey Calavi;BEN;Higher educ.
+570;738;Lebanese University;LBN;Higher educ.
+570;738;K.N.Toosi University of Technology;IRN;Higher educ.
+570;738;Gakushuin University;JPN;Higher educ.
+570;738;Jishou University;CHN;Higher educ.
+570;738;Suleyman Demirel University, Isparta;TUR;Higher educ.
+570;738;University of Mazandaran;IRN;Higher educ.
+570;738;Trinity College, Hartford;USA;Higher educ.
+570;738;Kharazmi University;IRN;Higher educ.
+570;738;Universidad Autonoma de Tlaxcala;MEX;Higher educ.
+570;738;University of Malaysia, Terengganu;MYS;Higher educ.
+570;738;Jiwaji University;IND;Higher educ.
+570;738;University of South Wales;GBR;Higher educ.
+570;738;Tamkang University;TWN;Higher educ.
+571;739;Harran University;TUR;Higher educ.
+571;739;California State University, Fullerton;USA;Higher educ.
+571;739;Universitas Negeri Semarang;IDN;Higher educ.
+571;739;Kyonggi University;KOR;Higher educ.
+571;739;Zhejiang University of Science and Technology;CHN;Higher educ.
+571;739;Taif University;SAU;Higher educ.
+571;739;The University of Winnipeg;CAN;Higher educ.
+571;739;Tomas Bata University in Zlin;CZE;Higher educ.
+571;739;Universidad Nacional de Rio Cuarto;ARG;Higher educ.
+571;739;Universidad Tecnologica de Pereira *;COL;Higher educ.
+571;739;Osaka Institute of Technology;JPN;Higher educ.
+572;740;Haute Ecole Specialisee Bernoise;CHE;Higher educ.
+572;740;Vyatka State University;RUS;Higher educ.
+572;740;Ton Duc Thang University;VNM;Higher educ.
+572;740;Shanghai University of Sport;CHN;Higher educ.
+572;740;Eskisehir Osmangazi University *;TUR;Higher educ.
+572;740;Hanze University of Applied Sciences, Groningen;NLD;Higher educ.
+572;740;National Kaohsiung Marine University;TWN;Higher educ.
+572;740;Universidad Autonoma de Sinaloa;MEX;Higher educ.
+572;740;Babol University of Medical Sciences;IRN;Higher educ.
+572;740;Rajshahi University;BGD;Higher educ.
+572;740;Central Michigan University;USA;Higher educ.
+572;740;Yunnan Normal University;CHN;Higher educ.
+572;740;University of Zielona Gora;POL;Higher educ.
+572;740;University of Zimbabwe;ZWE;Higher educ.
+572;740;Cyprus University of Technology;CYP;Higher educ.
+572;740;University of West Bohemia;CZE;Higher educ.
+572;740;University of Rajasthan;IND;Higher educ.
+572;740;Middlebury College;USA;Higher educ.
+572;740;University of Gavle;SWE;Higher educ.
+573;741;University of Chester;GBR;Higher educ.
+573;741;Universite Djillali Liabes de Sidi Bel Abbes;DZA;Higher educ.
+573;741;Hebei Normal University;CHN;Higher educ.
+573;741;University of Social Welfare and Rehabilitation Sciences;IRN;Higher educ.
+573;741;Universidad Nacional de Salta *;ARG;Higher educ.
+573;741;Walter Sisulu University;ZAF;Higher educ.
+573;741;Universite de Dschang;CMR;Higher educ.
+573;741;The University of Northampton;GBR;Higher educ.
+573;741;Muroran Institute of Technology;JPN;Higher educ.
+573;741;Can Tho University;VNM;Higher educ.
+573;741;Hebei Agricultural University;CHN;Higher educ.
+573;741;Sri Krishnadevaraya University;IND;Higher educ.
+573;741;Pontificia Universidad Catolica Argentina Santa Maria de los Buenos Aires;ARG;Higher educ.
+573;741;Nelson Mandela Metropolitan University;ZAF;Higher educ.
+573;741;Shanghai Maritime University;CHN;Higher educ.
+573;741;Wuhan Polytechnic University;CHN;Higher educ.
+573;741;University of Social Sciences and Humanities;POL;Higher educ.
+573;741;University of Kurdistan, Sanandaj;IRN;Higher educ.
+573;741;Haramaya University;ETH;Higher educ.
+573;741;Nagasaki Institute of Applied Science;JPN;Higher educ.
+573;741;University of Malaysia, Kelantan;MYS;Higher educ.
+573;741;Al-Mustansiriya University;IRQ;Higher educ.
+573;741;Jiaxing University;CHN;Higher educ.
+574;742;Liaoning University of Technology;CHN;Higher educ.
+574;742;Carleton College;USA;Higher educ.
+574;742;Chittagong University of Engineering and Technology;BGD;Higher educ.
+574;742;Universidad Pontificia Bolivariana *;COL;Higher educ.
+574;742;Zhengzhou University of Light Industry;CHN;Higher educ.
+574;742;Laurentian University;CAN;Higher educ.
+574;742;Universidad Autonoma Chapingo;MEX;Higher educ.
+574;742;Universidad de La Habana;CUB;Higher educ.
+574;742;University of Maragheh;IRN;Higher educ.
+574;742;Federal University of Technology Akure;NGA;Higher educ.
+574;742;Opole University;POL;Higher educ.
+574;742;National Taipei University;TWN;Higher educ.
+574;742;Universidade Estadual de Feira de Santana;BRA;Higher educ.
+574;742;Missouri State University;USA;Higher educ.
+574;742;Federation University;AUS;Higher educ.
+574;742;Fundacao Universidade Regional de Blumenau;BRA;Higher educ.
+574;742;Hunan University of Science and Technology;CHN;Higher educ.
+574;742;Universidade Federal do Acre;BRA;Higher educ.
+575;743;University of Vaasa;FIN;Higher educ.
+575;743;Lanzhou University of Technology;CHN;Higher educ.
+575;743;Fasa University of Medical Sciences;IRN;Higher educ.
+575;743;Birmingham City University;GBR;Higher educ.
+575;743;Beijing University of Agriculture;CHN;Higher educ.
+575;743;Shahroud University of Medical Sciences;IRN;Higher educ.
+575;743;University of Sri Jayewardenepura;LKA;Higher educ.
+575;743;Universidade de Fortaleza;BRA;Higher educ.
+575;743;Indian Institute of Technology, Hyderabad;IND;Higher educ.
+575;743;National Center for Theoretical Sciences;TWN;Higher educ.
+575;743;Chongqing University of Arts and Sciences;CHN;Higher educ.
+575;743;Towson University;USA;Higher educ.
+575;743;Islamic Azad University of Kermanshah;IRN;Higher educ.
+575;743;Manhattan College;USA;Higher educ.
+575;743;Guilin University of Electronic Technology;CHN;Higher educ.
+575;743;Loyola Marymount University;USA;Higher educ.
+575;743;Universidad Nacional del Centro de la Provincia de Buenos Aires *;ARG;Higher educ.
+575;743;University of Oradea;ROU;Higher educ.
+575;743;British University in Egypt;EGY;Higher educ.
+575;743;Qiqihar University;CHN;Higher educ.
+575;743;Shanghai University of Engineering Science;CHN;Higher educ.
+575;743;Hanken School of Economics;FIN;Higher educ.
+575;743;Pamukkale University;TUR;Higher educ.
+575;743;Islamic Azad University, Rasht;IRN;Higher educ.
+575;743;Kenyatta University;KEN;Higher educ.
+575;743;Saint Mary's University;CAN;Higher educ.
+575;743;Tomsk State Pedagogical University;RUS;Higher educ.
+576;744;A.T. Still University;USA;Higher educ.
+576;744;Pontificia Universidade Catolica de Goias;BRA;Higher educ.
+576;744;Hawassa University;ETH;Higher educ.
+576;744;Universite de Carthage;TUN;Higher educ.
+576;744;University of Nigeria;NGA;Higher educ.
+576;744;Adiyaman University;TUR;Higher educ.
+576;744;National Institute of Technology Jamshedpur;IND;Higher educ.
+576;744;University of Azad Jammu and Kashmir;PAK;Higher educ.
+576;744;Universidad Pontificia Comillas;ESP;Higher educ.
+576;744;Amity University;IND;Higher educ.
+576;744;Universidade Paulista;BRA;Higher educ.
+576;744;Birjand University of Medical Sciences;IRN;Higher educ.
+576;744;Andalas University;IDN;Higher educ.
+576;744;High Point University;USA;Higher educ.
+576;744;Western Kentucky University;USA;Higher educ.
+576;744;Tyumen Industrial University;RUS;Higher educ.
+576;744;Bu-Ali Sina University;IRN;Higher educ.
+576;744;Alzahra University;IRN;Higher educ.
+576;744;Toyo University;JPN;Higher educ.
+576;744;Toyota Technological Institute, Japan;JPN;Higher educ.
+576;744;Assam University;IND;Higher educ.
+577;745;Arak University of Medical Sciences;IRN;Higher educ.
+577;745;Jiangxi University of Traditional Chinese Medicine;CHN;Higher educ.
+577;745;Jazan University;SAU;Higher educ.
+577;745;Babasaheb Bhimrao Ambedkar University;IND;Higher educ.
+577;745;Cumhuriyet University *;TUR;Higher educ.
+577;745;Padjadjaran University;IDN;Higher educ.
+577;745;Islamic Azad University, Qaemshahr;IRN;Higher educ.
+577;745;Facultad Latinoamericana de Ciencias Sociales *;MUL;Higher educ.
+577;745;Universite Cheikh Anta Diop de Dakar;SEN;Higher educ.
+577;745;Shahid Chamran University;IRN;Higher educ.
+577;745;Hiroshima Institute of Technology;JPN;Higher educ.
+577;745;Shahrekord University;IRN;Higher educ.
+577;745;Karunya University;IND;Higher educ.
+577;745;Bialystok University of Technology;POL;Higher educ.
+577;745;James Madison University;USA;Higher educ.
+577;745;Hong Kong Institute of Education;HKG;Higher educ.
+577;745;Shenyang University of Chemical Technology;CHN;Higher educ.
+577;745;Indian Institute of Technology, Patna;IND;Higher educ.
+577;745;Plekhanov Russian University of Economics;RUS;Higher educ.
+577;745;Islamic Azad University, Shahrekord Branch;IRN;Higher educ.
+577;745;Kafr El-Sheikh University;EGY;Higher educ.
+577;745;Universite de Monastir;TUN;Higher educ.
+578;746;KL University;IND;Higher educ.
+578;746;Indiana State University;USA;Higher educ.
+578;746;University of Taipei;TWN;Higher educ.
+578;746;Morgan State University;USA;Higher educ.
+578;746;Banasthali University;IND;Higher educ.
+578;746;University of West London;GBR;Higher educ.
+578;746;Chang Jung Christian University;TWN;Higher educ.
+578;746;Bucknell University;USA;Higher educ.
+578;746;Siberian State Medical University;RUS;Higher educ.
+578;746;Instituto Tecnologico Metropolitano;COL;Higher educ.
+578;746;Universidad San Francisco de Quito;ECU;Higher educ.
+578;746;University of Alaska, Anchorage;USA;Higher educ.
+578;746;Tenaga National University;MYS;Higher educ.
+578;746;Hunan University of Technology;CHN;Higher educ.
+578;746;Zabol University of Medical Sciences;IRN;Higher educ.
+578;746;Guangxi University for Nationalities;CHN;Higher educ.
+578;746;Middle Tennessee State University;USA;Higher educ.
+578;746;Universidad Juarez Autonoma de Tabasco;MEX;Higher educ.
+578;746;Ludong University;CHN;Higher educ.
+579;747;Mimar Sinan Guzel Sanatlar Universitesi;TUR;Higher educ.
+579;747;Universidad Militar Nueva Granada;COL;Higher educ.
+579;747;University of Kalyani;IND;Higher educ.
+579;747;Universidad del Cauca *;COL;Higher educ.
+579;747;Guangxi Teacher Education University;CHN;Higher educ.
+579;747;National Institute of Technology Karnataka;IND;Higher educ.
+579;747;Inner Mongolia University for Nationalities;CHN;Higher educ.
+579;747;University of Engineering and Technology, Lahore;PAK;Higher educ.
+579;747;University of Notre Dame Australia;AUS;Higher educ.
+579;747;Prince Sultan University;SAU;Higher educ.
+579;747;Bowdoin College;USA;Higher educ.
+579;747;Trakia University;BGR;Higher educ.
+579;747;University of Mohaghegh Ardabili;IRN;Higher educ.
+580;748;Mizoram University;IND;Higher educ.
+580;748;Kennesaw State University;USA;Higher educ.
+580;748;University of Technology Baghdad;IRQ;Higher educ.
+580;748;University of Jammu;IND;Higher educ.
+580;748;Liaoning Normal University;CHN;Higher educ.
+580;748;University of North Carolina, Wilmington;USA;Higher educ.
+580;748;University of the Philippines Diliman;PHL;Higher educ.
+580;748;California State Polytechnic University, Pomona;USA;Higher educ.
+580;748;Lebanese American University;LBN;Higher educ.
+580;748;Rafsanjan University of Medical Sciences;IRN;Higher educ.
+580;748;Universite Lumiere Lyon 2;FRA;Higher educ.
+580;748;Don State Technical University;RUS;Higher educ.
+581;749;Damanhour University;EGY;Higher educ.
+581;749;National Chin-Yi University of Technology;TWN;Higher educ.
+581;749;Ochsner Clinical School;USA;Higher educ.
+581;749;Cardinal Stefan Wyszynski University in Warsaw;POL;Higher educ.
+581;749;Universidad Nacional de Rio Negro;ARG;Higher educ.
+581;749;St. Georges University;GRD;Higher educ.
+581;749;Piri Reis University;TUR;Higher educ.
+581;749;University of Quebec at Trois-Rivieres;CAN;Higher educ.
+581;749;Silla University;KOR;Higher educ.
+581;749;Universidade Cruzeiro do Sul;BRA;Higher educ.
+581;749;Indonesia University of Education;IDN;Higher educ.
+581;749;Prefectural University of Hiroshima;JPN;Higher educ.
+581;749;University of Peshawar;PAK;Higher educ.
+581;749;Changshu Institute of Technology;CHN;Higher educ.
+581;749;University of the Philippines Manila;PHL;Higher educ.
+581;749;Poznan University of Economics;POL;Higher educ.
+581;749;Hosei University;JPN;Higher educ.
+581;749;Kogakuin University;JPN;Higher educ.
+581;749;Universidad de las Fuerzas Armadas;ECU;Higher educ.
+582;750;Inonu University;TUR;Higher educ.
+582;750;National University of Tainan;TWN;Higher educ.
+582;750;Semnan University;IRN;Higher educ.
+582;750;Allahabad University;IND;Higher educ.
+582;750;Changchun University of Science and Technology;CHN;Higher educ.
+582;750;Chaudhary Charan Singh University;IND;Higher educ.
+582;750;University of Nicosia;CYP;Higher educ.
+582;750;Shangqiu Normal University;CHN;Higher educ.
+582;750;Universite d'Antananarivo;MDG;Higher educ.
+582;750;The Petroleum Institute;ARE;Higher educ.
+582;750;Universidad Francisco de Vitoria *;ESP;Higher educ.
+582;750;Transilvania University of Brasov;ROU;Higher educ.
+582;750;Bozok University *;TUR;Higher educ.
+582;750;West University of Timisoara;ROU;Higher educ.
+583;751;Universite de Douala;CMR;Higher educ.
+583;751;Kunsan National University;KOR;Higher educ.
+583;751;Universite Sidi Mohamed Ben Abdellah;MAR;Higher educ.
+583;751;Shahid Bahonar University of Kerman;IRN;Higher educ.
+583;751;Universidad del Zulia;VEN;Higher educ.
+583;751;The College of New Jersey;USA;Higher educ.
+583;751;Adnan Menderes University;TUR;Higher educ.
+583;751;National University of Computer and Emerging Sciences;PAK;Higher educ.
+583;751;Texas Southern University;USA;Higher educ.
+583;751;University of Wisconsin, LaCrosse;USA;Higher educ.
+583;751;Universidad Autonoma de Baja California;MEX;Higher educ.
+583;751;Trakya University;TUR;Higher educ.
+583;751;Sultan Idris University of Education;MYS;Higher educ.
+583;751;Obuda University;HUN;Higher educ.
+583;751;California State University, San Marcos;USA;Higher educ.
+583;751;Devi Ahilya University;IND;Higher educ.
+583;751;Utah Valley University;USA;Higher educ.
+583;751;Universidade Federal de Itajuba;BRA;Higher educ.
+583;751;Chongqing Technology and Business University;CHN;Higher educ.
+583;751;Universidade do Sagrado Coracao;BRA;Higher educ.
+583;751;Korea Aerospace University;KOR;Higher educ.
+583;751;Canakkale Onsekiz Mart Universitesi *;TUR;Higher educ.
+583;751;Appalachian State University;USA;Higher educ.
+584;752;Kenyon College;USA;Higher educ.
+584;752;Istanbul Aydin University;TUR;Higher educ.
+584;752;Hebei University of Science and Technology;CHN;Higher educ.
+584;752;Universite de Bejaia;DZA;Higher educ.
+584;752;National University of Science and Technology MISIS;RUS;Higher educ.
+584;752;Lamar University;USA;Higher educ.
+584;752;University of Mumbai;IND;Higher educ.
+584;752;Texas A&M University, Kingsville;USA;Higher educ.
+584;752;National Kaohsiung First University of Science and Technology;TWN;Higher educ.
+584;752;University of Banja Luka;BIH;Higher educ.
+584;752;Illinois State University;USA;Higher educ.
+584;752;University of the West Indies, St. Augustine Campus;TTO;Higher educ.
+584;752;Dalian Nationalities University;CHN;Higher educ.
+584;752;Koszalin University of Technology;POL;Higher educ.
+584;752;Helmut Schmidt Universitat - Universitat der Bundeswehr Hamburg;DEU;Higher educ.
+585;753;Guangzhou University;CHN;Higher educ.
+585;753;Hasanuddin University;IDN;Higher educ.
+585;753;Kahramanmaras Sutcu Imam University;TUR;Higher educ.
+585;753;Dr. Babasaheb Ambedkar Marathwada University;IND;Higher educ.
+585;753;Saint Petersburg State University of Architecture and Civil Engineering;RUS;Higher educ.
+585;753;PLA University of Science and Technology;CHN;Higher educ.
+585;753;Al-Zaytoonah Private University of Jordan;JOR;Higher educ.
+585;753;BRAC University;BGD;Higher educ.
+585;753;University of Maiduguri;NGA;Higher educ.
+585;753;University of Namibia;NAM;Higher educ.
+585;753;Recep Tayyip Erdogan University;TUR;Higher educ.
+585;753;Humboldt State University;USA;Higher educ.
+585;753;Port Said University;EGY;Higher educ.
+585;753;Jimei University;CHN;Higher educ.
+585;753;Istanbul Bilgi University;TUR;Higher educ.
+586;754;Universidade Positivo;BRA;Higher educ.
+586;754;Hemwati Nandan Bahuguna Garhwal University;IND;Higher educ.
+586;754;Obafemi Awolowo University;NGA;Higher educ.
+586;754;Otto-Friedrich-Universitat Bamberg;DEU;Higher educ.
+586;754;Urmia University of Technology;IRN;Higher educ.
+586;754;Qassim University;SAU;Higher educ.
+586;754;Universidad de Los Lagos;CHL;Higher educ.
+586;754;Ahmadu Bello University *;NGA;Higher educ.
+586;754;London South Bank University;GBR;Higher educ.
+586;754;Tokyo Gakugei University;JPN;Higher educ.
+586;754;Indian Institute of Engineering Science and Technology, Shibpur;IND;Higher educ.
+586;754;Soochow University, Taipei;TWN;Higher educ.
+586;754;College of Charleston;USA;Higher educ.
+586;754;Seattle University;USA;Higher educ.
+586;754;Universidad Autonoma de Zacatecas;MEX;Higher educ.
+587;755;Southwest Forestry University;CHN;Higher educ.
+587;755;Universidad Tecnica Particular de Loja;ECU;Higher educ.
+587;755;Shanxi Normal University;CHN;Higher educ.
+587;755;Asian Institute of Technology;THA;Higher educ.
+587;755;Washington State University, Vancouver;USA;Higher educ.
+587;755;Eastern Mediterranean University;CYP;Higher educ.
+587;755;Universidad Central Marta Abreu de Las Villas *;CUB;Higher educ.
+587;755;University of Chittagong;BGD;Higher educ.
+587;755;German Jordanian University;JOR;Higher educ.
+587;755;Jan Dlugosz University;POL;Higher educ.
+587;755;Presidency College, Chennai;IND;Higher educ.
+587;755;Universite de Tunis;TUN;Higher educ.
+587;755;Universidade do Sul de Santa Catarina;BRA;Higher educ.
+587;755;Higher Colleges of Technology;ARE;Higher educ.
+587;755;Utsunomiya University;JPN;Higher educ.
+587;755;Queen Margaret University, Edinburgh;GBR;Higher educ.
+587;755;Mugla University;TUR;Higher educ.
+587;755;University of Sharjah;ARE;Higher educ.
+587;755;Universite Rennes 2;FRA;Higher educ.
+588;756;Escuela Superior Politecnica del Litoral;ECU;Higher educ.
+588;756;Gujarat University;IND;Higher educ.
+588;756;Visvesvaraya National Institute of Technology;IND;Higher educ.
+588;756;Zhoukou Normal University;CHN;Higher educ.
+588;756;Motilal Nehru National Institute of Technology;IND;Higher educ.
+588;756;University of Bielsko-Biala;POL;Higher educ.
+588;756;Universidade Federal de Alfenas;BRA;Higher educ.
+588;756;Universidad EAFIT;COL;Higher educ.
+588;756;Petroleum University of Technology;IRN;Higher educ.
+588;756;Technological Educational Institute of Athens;GRC;Higher educ.
+588;756;Afyon Kocatepe University *;TUR;Higher educ.
+588;756;Texas A&M University, Corpus Christi;USA;Higher educ.
+588;756;Tennessee State University;USA;Higher educ.
+588;756;Univerzita Mateja Bela v Banskej Bystrici;SVK;Higher educ.
+588;756;University of Kerala;IND;Higher educ.
+588;756;Bangladesh University of Engineering and Technology;BGD;Higher educ.
+588;756;University of Ilorin;NGA;Higher educ.
+588;756;Central Taiwan University of Science and Technology;TWN;Higher educ.
+588;756;Universidad de Las Americas, Ecuador;ECU;Higher educ.
+588;756;Lampung University;IDN;Higher educ.
+589;757;Dalian Maritime University;CHN;Higher educ.
+589;757;School of Oriental and African Studies;GBR;Higher educ.
+589;757;Da-Yeh University;TWN;Higher educ.
+589;757;Hamilton College;USA;Higher educ.
+589;757;University of Peloponnese;GRC;Higher educ.
+589;757;Universidad del Quindio *;COL;Higher educ.
+589;757;Montreal School of Higher Commercial Studies;CAN;Higher educ.
+589;757;Bahria University;PAK;Higher educ.
+589;757;Universidad de Magallanes;CHL;Higher educ.
+589;757;Nanyang Normal University;CHN;Higher educ.
+589;757;Yarmouk University;JOR;Higher educ.
+589;757;Pedagogical University of Cracow;POL;Higher educ.
+589;757;Islamic Azad University, Sanandaj;IRN;Higher educ.
+589;757;Universite Saad Dahlab de Blida;DZA;Higher educ.
+589;757;Huaihai Institute of Technology;CHN;Higher educ.
+589;757;Universitas Riau;IDN;Higher educ.
+589;757;University of Calabar;NGA;Higher educ.
+589;757;Mahasarakham University;THA;Higher educ.
+589;757;Chinese Culture University;TWN;Higher educ.
+590;758;Luoyang Normal University;CHN;Higher educ.
+590;758;Zhejiang University City College;CHN;Higher educ.
+590;758;North-Eastern Hill University;IND;Higher educ.
+590;758;Northern University of Malaysia;MYS;Higher educ.
+590;758;Eastern Kentucky University;USA;Higher educ.
+590;758;Hunan University of Traditional Chinese Medicine;CHN;Higher educ.
+590;758;Saurashtra University;IND;Higher educ.
+590;758;Shanghai University of Electric Power;CHN;Higher educ.
+590;758;Dow University of Health Sciences;PAK;Higher educ.
+590;758;University of San Francisco;USA;Higher educ.
+590;758;Islamic Azad University of Arak;IRN;Higher educ.
+590;758;Chongqing Normal University;CHN;Higher educ.
+590;758;King Mongkut's Institute of Technology North Bangkok;THA;Higher educ.
+590;758;Mahawithayalai Rangsit;THA;Higher educ.
+590;758;Saratov State University;RUS;Higher educ.
+590;758;University of Ostrava;CZE;Higher educ.
+590;758;University of Winchester;GBR;Higher educ.
+591;759;Manonmaniam Sundaranar University;IND;Higher educ.
+591;759;Universidad Tecnica de Ambato;ECU;Higher educ.
+591;759;Azarbaijan University of Tarbiat Moallem;IRN;Higher educ.
+591;759;Calvin College;USA;Higher educ.
+591;759;Ming Chuan University;TWN;Higher educ.
+591;759;Chengdu University;CHN;Higher educ.
+591;759;Sahand University of Technology;IRN;Higher educ.
+591;759;Loyola University Maryland;USA;Higher educ.
+591;759;Guangdong Ocean University;CHN;Higher educ.
+591;759;Ionian University;GRC;Higher educ.
+591;759;Nara Women's University;JPN;Higher educ.
+591;759;National Yunlin University of Science and Technology;TWN;Higher educ.
+591;759;Kun Shan University;TWN;Higher educ.
+592;760;Siberian Federal University;RUS;Higher educ.
+592;760;Mulawarman University;IDN;Higher educ.
+592;760;Universidade do Vale do Paraiba;BRA;Higher educ.
+592;760;Chongqing University of Technology;CHN;Higher educ.
+592;760;LNM Institute of Information Technology;IND;Higher educ.
+592;760;Vassar College;USA;Higher educ.
+592;760;Universite Pantheon Sorbonne, Paris1 *;FRA;Higher educ.
+592;760;University of Kashmir;IND;Higher educ.
+592;760;Anhui Polytechnic University;CHN;Higher educ.
+592;760;Universidad Nacional del Nordeste *;ARG;Higher educ.
+592;760;Changsha University of Science and Technology;CHN;Higher educ.
+592;760;Kurukshetra University;IND;Higher educ.
+592;760;Dalian Polytechnic University;CHN;Higher educ.
+592;760;Colgate University;USA;Higher educ.
+593;761;Southwest State University;RUS;Higher educ.
+593;761;Minzu University of China;CHN;Higher educ.
+593;761;Hormozgan University of Medical Sciences;IRN;Higher educ.
+593;761;West Chester University of Pennsylvania;USA;Higher educ.
+593;761;Lomonosov State Academy of Fine Chemical Technology;RUS;Higher educ.
+593;761;Ubon Ratchathani University;THA;Higher educ.
+593;761;South Asian University;IND;Higher educ.
+593;761;Universidad Catolica de la Santisima Concepcion;CHL;Higher educ.
+593;761;Colby College;USA;Higher educ.
+593;761;Philadelphia College of Osteopathic Medicine;USA;Higher educ.
+593;761;University of Abertay Dundee;GBR;Higher educ.
+593;761;Karnatak University;IND;Higher educ.
+593;761;Nanchang Hangkong University;CHN;Higher educ.
+593;761;Yasuj University of Medical Sciences;IRN;Higher educ.
+593;761;Huanggang Normal University;CHN;Higher educ.
+594;762;Korea Maritime University;KOR;Higher educ.
+594;762;Huangshan University;CHN;Higher educ.
+594;762;Universidade Federal do Oeste do Para;BRA;Higher educ.
+594;762;Southern Federal University;RUS;Higher educ.
+594;762;KIIT University;IND;Higher educ.
+594;762;Shanxi Agricultural University;CHN;Higher educ.
+594;762;Delhi Technological University;IND;Higher educ.
+594;762;Escola Superior d'Administracio i Direccio d'Empreses;ESP;Higher educ.
+594;762;University for Development Studies;GHA;Higher educ.
+594;762;Hogeschool van Arnhem en Nijmegen;NLD;Higher educ.
+594;762;Universidad Nacional de Asuncion;PRY;Higher educ.
+594;762;Dibrugarh University;IND;Higher educ.
+595;763;Siksha O Anusandhan University;IND;Higher educ.
+595;763;Saint Joseph's University;USA;Higher educ.
+595;763;Sao Leopoldo Mandic Faculdade de Odontologia;BRA;Higher educ.
+595;763;Canterbury Christ Church University;GBR;Higher educ.
+595;763;Butler University;USA;Higher educ.
+595;763;Jiangxi University of Science and Technology;CHN;Higher educ.
+595;763;University of Plovdiv Paisii Hilendarski;BGR;Higher educ.
+595;763;University of Hradec Kralove;CZE;Higher educ.
+595;763;University of Medicine and Pharmacy Victor Babes;ROU;Higher educ.
+595;763;Universidad Nacional de Misiones;ARG;Higher educ.
+595;763;Islamic Azad University, Sari Branch;IRN;Higher educ.
+595;763;Universidad Simon Bolivar, Caracas;VEN;Higher educ.
+596;764;Foshan University;CHN;Higher educ.
+596;764;Centro Nacional de Investigacion y Desarrollo Tecnologico;MEX;Higher educ.
+596;764;Tokyo City University;JPN;Higher educ.
+596;764;Australian Defence Force Academy;AUS;Higher educ.
+596;764;University of Northern Iowa;USA;Higher educ.
+596;764;Aoyama Gakuin University;JPN;Higher educ.
+596;764;California State University, Sacramento;USA;Higher educ.
+596;764;Instituto Tecnologico de Tijuana;MEX;Higher educ.
+596;764;Yazd University;IRN;Higher educ.
+596;764;Ningbo University of Technology;CHN;Higher educ.
+596;764;Southern Illinois University Edwardsville;USA;Higher educ.
+596;764;Universidad Internacional de La Rioja;ESP;Higher educ.
+596;764;Xuchang University;CHN;Higher educ.
+596;764;University of Gloucestershire;GBR;Higher educ.
+596;764;Gheorghe Asachi Technical University of Iasi;ROU;Higher educ.
+596;764;Pigorov Russian National Research Medical University;RUS;Higher educ.
+596;764;Near East University;CYP;Higher educ.
+596;764;Eastern Michigan University;USA;Higher educ.
+597;765;Himachal Pradesh University;IND;Higher educ.
+597;765;York St. John University;GBR;Higher educ.
+597;765;Universidad Nacional del Comahue *;ARG;Higher educ.
+597;765;Sabzevar University of Medical Sciences;IRN;Higher educ.
+597;765;Universidad Nacional de la Patagonia San Juan Bosco;ARG;Higher educ.
+597;765;Holon Institute of Technology;ISR;Higher educ.
+597;765;Dalian Ocean University;CHN;Higher educ.
+597;765;Hakim Sabzevari University;IRN;Higher educ.
+597;765;Hellenic Open University;GRC;Higher educ.
+597;765;Ryukoku University;JPN;Higher educ.
+597;765;National Institute of Technology Warangal;IND;Higher educ.
+597;765;Gansu Agricultural University;CHN;Higher educ.
+597;765;Ecole Nationale d'Ingenieurs de Metz *;FRA;Higher educ.
+597;765;Bradley University;USA;Higher educ.
+597;765;National University of Mongolia;MNG;Higher educ.
+597;765;University of Technology and Life Sciences;POL;Higher educ.
+597;765;Dongguan University of Technology;CHN;Higher educ.
+597;765;Necmettin Erbakan University;TUR;Higher educ.
+597;765;King Mongkut's Institute of Technology Ladkrabang;THA;Higher educ.
+597;765;Karpagam University;IND;Higher educ.
+597;765;Universitas Negeri Yogyakarta;IDN;Higher educ.
+598;766;Covenant University;NGA;Higher educ.
+598;766;University of Cape Coast;GHA;Higher educ.
+598;766;Pepperdine University;USA;Higher educ.
+598;766;Roehampton University;GBR;Higher educ.
+598;766;Centro Federal de Educacao Tecnologica de Minas Gerais;BRA;Higher educ.
+598;766;Changchun University of Traditional Chinese Medicine;CHN;Higher educ.
+598;766;Ibaraki University;JPN;Higher educ.
+598;766;National Institute of Technology, Tiruchirappalli;IND;Higher educ.
+598;766;Islamic Azad University, South Tehran branch;IRN;Higher educ.
+598;766;Peoples'Friendship University of Russia;RUS;Higher educ.
+598;766;National University of Kaohsiung;TWN;Higher educ.
+598;766;Southwest University for Nationalities;CHN;Higher educ.
+598;766;Shanghai University of Medicine and Health Sciences;CHN;Higher educ.
+598;766;South Valley University;EGY;Higher educ.
+598;766;Athabasca University;CAN;Higher educ.
+598;766;University of Northern British Columbia;CAN;Higher educ.
+599;767;University of Mauritius;MUS;Higher educ.
+599;767;Lorestan University;IRN;Higher educ.
+599;767;Weber State University;USA;Higher educ.
+599;767;Udmurt State University;RUS;Higher educ.
+599;767;Shri Mata Vaishno Devi University;IND;Higher educ.
+599;767;Smith College;USA;Higher educ.
+599;767;Macalester College;USA;Higher educ.
+599;767;Andhra University;IND;Higher educ.
+599;767;Ball State University;USA;Higher educ.
+599;767;Montclair State University;USA;Higher educ.
+599;767;Universidad Autonoma de Aguascalientes;MEX;Higher educ.
+599;767;Heilongjiang Bayi Agricultural University;CHN;Higher educ.
+599;767;University of Lagos;NGA;Higher educ.
+599;767;Cape Peninsula University of Technology;ZAF;Higher educ.
+599;767;Lviv National Medical University Danylo Halycky;UKR;Higher educ.
+599;767;Lanzhou Jiaotong University;CHN;Higher educ.
+599;767;Zhejiang Wanli University;CHN;Higher educ.
+599;767;Aurel Vlaicu University of Arad;ROU;Higher educ.
+599;767;University of Kuala Lumpur;MYS;Higher educ.
+600;768;College of the Holy Cross;USA;Higher educ.
+600;768;Xi'an University of Science and Technology;CHN;Higher educ.
+600;768;Lublin University of Technology;POL;Higher educ.
+600;768;Belgorod State University;RUS;Higher educ.
+600;768;Universite du Havre *;FRA;Higher educ.
+600;768;Pomona College;USA;Higher educ.
+600;768;Inner Mongolia Agricultural University;CHN;Higher educ.
+600;768;Atilim University;TUR;Higher educ.
+600;768;Damietta University;EGY;Higher educ.
+600;768;Islamic Azad University of Mashhad;IRN;Higher educ.
+600;768;Bauman Moscow State Technical University;RUS;Higher educ.
+601;769;National Defence University of Malaysia;MYS;Higher educ.
+601;769;Universite Jean Moulin Lyon 3;FRA;Higher educ.
+601;769;Qinghai University;CHN;Higher educ.
+601;769;Hitotsubashi University;JPN;Higher educ.
+601;769;Jingdezhen Ceramic Institute;CHN;Higher educ.
+601;769;Universite du Quebec en Outaouais;CAN;Higher educ.
+601;769;Ivan Franko National University of Lviv;UKR;Higher educ.
+601;769;Islamic Azad University, Karaj;IRN;Higher educ.
+601;769;Kuban State Technological University;RUS;Higher educ.
+601;769;Jiangxi University of Finance and Economics;CHN;Higher educ.
+601;769;Universidad Loyola Andalucia;ESP;Higher educ.
+601;769;Stefan Cel Mare University;ROU;Higher educ.
+601;769;Atal Birahi Vajpayee Indian Institute of Information Technology and Management;IND;Higher educ.
+601;769;University of Burdwan;IND;Higher educ.
+601;769;Tokyo Denki University;JPN;Higher educ.
+601;769;Nnamdi Azikiwe University;NGA;Higher educ.
+601;769;Long Island University;USA;Higher educ.
+601;769;Mangalore University;IND;Higher educ.
+601;769;Pakistan Institute of Nuclear Science and Technology;PAK;Higher educ.
+601;769;Tyumen State University;RUS;Higher educ.
+602;770;Universite Kasdi Merbah Ouargla;DZA;Higher educ.
+602;770;University of Zabol;IRN;Higher educ.
+602;770;Chengdu University of Technology;CHN;Higher educ.
+602;770;Hankuk University of Foreign Studies;KOR;Higher educ.
+602;770;Universidad Distrital Francisco Jose de Caldas;COL;Higher educ.
+602;770;Ladoke Akintola University of Technology;NGA;Higher educ.
+602;770;Anand Agricultural University;IND;Higher educ.
+602;770;Claremont Graduate University;USA;Higher educ.
+602;770;Zhongkai University of Agriculture and Engineering;CHN;Higher educ.
+602;770;Gettysburg College;USA;Higher educ.
+602;770;Jember University;IDN;Higher educ.
+602;770;Universidad Tecnologica Nacional *;ARG;Higher educ.
+602;770;Visvesvaraya Technological University;IND;Higher educ.
+602;770;Central South University of Forestry and Technology;CHN;Higher educ.
+602;770;Instituto Tecnologico de Aeronautica;BRA;Higher educ.
+602;770;Bayero University, Kano;NGA;Higher educ.
+602;770;East China Jiaotong University;CHN;Higher educ.
+602;770;National Institute of Technology Durgapur;IND;Higher educ.
+603;771;Corvinus University of Budapest;HUN;Higher educ.
+603;771;I.M. Sechenov First Moscow State Medical University;RUS;Higher educ.
+603;771;Islamic Azad University, Yazd;IRN;Higher educ.
+603;771;Vaal University of Technology;ZAF;Higher educ.
+603;771;Indian Institute of Information Technology;IND;Higher educ.
+603;771;Shiraz University of Technology;IRN;Higher educ.
+603;771;Technical University of Liberec;CZE;Higher educ.
+603;771;Cochin University of Science and Technology;IND;Higher educ.
+603;771;Technical University in Zvolen;SVK;Higher educ.
+603;771;Far Eastern Federal University;RUS;Higher educ.
+603;771;United States Military Academy at West Point;USA;Higher educ.
+603;771;University of Basrah;IRQ;Higher educ.
+603;771;Simmons College;USA;Higher educ.
+603;771;Universite Chouaib Doukkali;MAR;Higher educ.
+603;771;Fukuoka Institute of Technology;JPN;Higher educ.
+603;771;Mount Saint Vincent University;CAN;Higher educ.
+603;771;Klaipeda University;LTU;Higher educ.
+603;771;Izmir University of Economics;TUR;Higher educ.
+604;772;Xi'an University of Architecture and Technology;CHN;Higher educ.
+604;772;City University of New York, John Jay College of Criminal Justice;USA;Higher educ.
+604;772;Lovely Professional University;IND;Higher educ.
+604;772;Hebei North University;CHN;Higher educ.
+604;772;Zhejiang University of Finance and Economics;CHN;Higher educ.
+604;772;Libera Universita Maria Ss. Assunta;ITA;Higher educ.
+604;772;University of Birjand;IRN;Higher educ.
+604;772;University West;SWE;Higher educ.
+604;772;Moscow State Technological University Stankin;RUS;Higher educ.
+604;772;Universite Abdelhamid Ibn Badis de Mostaganem;DZA;Higher educ.
+604;772;Imam Muhammad ibn Saud Islamic University;SAU;Higher educ.
+605;773;American University of Sharjah;ARE;Higher educ.
+605;773;Southern Ural State University;RUS;Higher educ.
+605;773;Hazara University;PAK;Higher educ.
+605;773;Taylors University;MYS;Higher educ.
+605;773;Gauhati University;IND;Higher educ.
+605;773;Universidad de la Costa;COL;Higher educ.
+605;773;University of Tennessee, Chattanooga;USA;Higher educ.
+605;773;Kastamonu University;TUR;Higher educ.
+605;773;Georgian Technical University;GEO;Higher educ.
+605;773;Kumaun University;IND;Higher educ.
+605;773;Universite Constantine 1;DZA;Higher educ.
+605;773;National Defense Academy of Japan;JPN;Higher educ.
+605;773;Malek-Ashtar University of Technology;IRN;Higher educ.
+605;773;Kufa University;IRQ;Higher educ.
+605;773;Civil Aviation University of China;CHN;Higher educ.
+605;773;Nile University;EGY;Higher educ.
+605;773;Jaypee Institute of Information Technology;IND;Higher educ.
+606;774;Instituto Politecnico de Viseu;PRT;Higher educ.
+606;774;Universite Ibn Tofail;MAR;Higher educ.
+606;774;Duzce University;TUR;Higher educ.
+606;774;University of Health Sciences;TUR;Higher educ.
+606;774;Grand Valley State University;USA;Higher educ.
+606;774;Elon University;USA;Higher educ.
+606;774;Beijing Union University;CHN;Higher educ.
+607;775;Silesian University in Opava;CZE;Higher educ.
+607;775;Technological Educational Institute of Thessaloniki;GRC;Higher educ.
+607;775;Providence College;USA;Higher educ.
+607;775;Ateneo de Manila University;PHL;Higher educ.
+607;775;FernUniversitat in Hagen;DEU;Higher educ.
+607;775;Nevsehir University;TUR;Higher educ.
+607;775;Yanan University;CHN;Higher educ.
+607;775;Jining University;CHN;Higher educ.
+607;775;Universite Badji Mokhtar - Annaba;DZA;Higher educ.
+607;775;Taiyuan University of Science and Technology;CHN;Higher educ.
+607;775;Universidad Panamericana *;MEX;Higher educ.
+607;775;Sodertorn University;SWE;Higher educ.
+607;775;Government College University, Lahore;PAK;Higher educ.
+607;775;Jahangirnagar University;BGD;Higher educ.
+607;775;Sumy State University;UKR;Higher educ.
+607;775;Malaviya National Institute of Technology;IND;Higher educ.
+608;776;Grenoble Ecole de Management;FRA;Higher educ.
+608;776;Qingdao Technological University;CHN;Higher educ.
+608;776;PSG College of Technology;IND;Higher educ.
+608;776;Ufa State Aviation Technical University;RUS;Higher educ.
+608;776;University of Miskolc;HUN;Higher educ.
+608;776;University of the South Pacific, Fiji;FJI;Higher educ.
+608;776;Novosibirsk State Technical University;RUS;Higher educ.
+608;776;Universite Abdelmalek Essaadi Tetouan;MAR;Higher educ.
+608;776;Fairleigh Dickinson University;USA;Higher educ.
+608;776;Lviv Polytechnic National University;UKR;Higher educ.
+608;776;Palo Alto University;USA;Higher educ.
+608;776;Dhirubhai Ambani Institute of Information and Communication Technology;IND;Higher educ.
+608;776;Kazan National Research Technological University;RUS;Higher educ.
+608;776;University of Calicut;IND;Higher educ.
+609;777;GITAM University;IND;Higher educ.
+609;777;Tennessee Technological University;USA;Higher educ.
+609;777;Hubei University for Nationalities;CHN;Higher educ.
+609;777;De La Salle University;PHL;Higher educ.
+609;777;Mepco Schlenk Engineering College;IND;Higher educ.
+609;777;Iwate Prefectural University;JPN;Higher educ.
+609;777;Al-Balqa Applied University;JOR;Higher educ.
+609;777;Instituto Balseiro;ARG;Higher educ.
+609;777;National United University;TWN;Higher educ.
+609;777;Ilam University;IRN;Higher educ.
+609;777;Universite Moulay Ismail;MAR;Higher educ.
+610;778;L. N. Gumilov Eurasian National University;KAZ;Higher educ.
+610;778;Hashemite University;JOR;Higher educ.
+610;778;Shahjalal University of Science and Technology;BGD;Higher educ.
+610;778;N. P. Ogarev's Mordovian State University;RUS;Higher educ.
+610;778;Immanuel Kant Baltic Federal University;RUS;Higher educ.
+610;778;University of Quebec in Abitibi-Temiscamingue;CAN;Higher educ.
+610;778;Thompson Rivers University;CAN;Higher educ.
+610;778;Jan Evangelista Purkyne University;CZE;Higher educ.
+610;778;Escuela Politecnica Nacional;ECU;Higher educ.
+610;778;Liaoning Shihua University;CHN;Higher educ.
+610;778;University of Wisconsin, Eau Claire;USA;Higher educ.
+610;778;Chengdu University of Information Technology;CHN;Higher educ.
+610;778;Kumaraguru College of Technology;IND;Higher educ.
+610;778;Instituto Politecnico de Setubal;PRT;Higher educ.
+610;778;California State University, San Bernardino;USA;Higher educ.
+610;778;Instituto Tecnologico de Costa Rica;CRI;Higher educ.
+610;778;Indian Institute of Technology, Gandhinagar;IND;Higher educ.
+610;778;Lahore College for Women University;PAK;Higher educ.
+610;778;Universite Sultan Moulay Slimane;MAR;Higher educ.
+611;779;Al al-Bayt University;JOR;Higher educ.
+611;779;Universite des Sciences et de la Technologie Houari Boumediene;DZA;Higher educ.
+611;779;Lingnan University;HKG;Higher educ.
+611;779;Universite de Sousse;TUN;Higher educ.
+611;779;Shahrood University of Technology;IRN;Higher educ.
+611;779;Xiamen University of Technology;CHN;Higher educ.
+611;779;Changchun Normal University;CHN;Higher educ.
+611;779;Namseoul University;KOR;Higher educ.
+611;779;Changchun University of Technology;CHN;Higher educ.
+611;779;Burapha University;THA;Higher educ.
+612;780;Rajshahi University of Engineering and Technology;BGD;Higher educ.
+612;780;Vidyasagar University;IND;Higher educ.
+612;780;Maragheh University of Medical Sciences;IRN;Higher educ.
+612;780;Karbala University;IRQ;Higher educ.
+612;780;Shaanxi University of Technology;CHN;Higher educ.
+612;780;Kitami Institute of Technology;JPN;Higher educ.
+612;780;Hindustan University;IND;Higher educ.
+612;780;Universite de La Manouba;TUN;Higher educ.
+612;780;Universite Ferhat Abbas de Setif;DZA;Higher educ.
+612;780;Aleksandras Stulginskis University;LTU;Higher educ.
+612;780;Wuyi University;CHN;Higher educ.
+612;780;The University of Lahore;PAK;Higher educ.
+612;780;Nipissing University;CAN;Higher educ.
+612;780;Ecole Superieure des Sciences Economiques et Commerciales;FRA;Higher educ.
+612;780;Islamic Azad University, North Tehran Branch;IRN;Higher educ.
+612;780;Universite Ibn Zohr;MAR;Higher educ.
+613;781;Telkom University;IDN;Higher educ.
+613;781;Minjiang University;CHN;Higher educ.
+613;781;Gautam Buddha University;IND;Higher educ.
+613;781;University of Medicine and Pharmacy Craiova;ROU;Higher educ.
+613;781;University of Lucknow;IND;Higher educ.
+613;781;Bingol University;TUR;Higher educ.
+613;781;University of Sindh;PAK;Higher educ.
+614;782;Universite Paris Ouest Nanterre La Defense, Paris X *;FRA;Higher educ.
+614;782;University of Dar es Salaam;TZA;Higher educ.
+614;782;North China University of Technology;CHN;Higher educ.
+614;782;Xinjiang Normal University;CHN;Higher educ.
+614;782;Universite Abou Bekr Belkaid Tlemcen;DZA;Higher educ.
+614;782;Australian Maritime College;AUS;Higher educ.
+614;782;Fujian University of Technology;CHN;Higher educ.
+614;782;University of Zululand;ZAF;Higher educ.
+614;782;Nova School of Business and Economics;PRT;Higher educ.
+614;782;Birzeit University;PSE;Higher educ.
+614;782;University of St. Thomas;USA;Higher educ.
+614;782;Osaka Electro-Communication University;JPN;Higher educ.
+614;782;University of the West Indies, At Cave Hill Campus;BRB;Higher educ.
+614;782;Karabuk University;TUR;Higher educ.
+614;782;Bath Spa University;GBR;Higher educ.
+614;782;University of Uyo;NGA;Higher educ.
+614;782;National Institute of Technology Calicut;IND;Higher educ.
+614;782;Ahi Evran University *;TUR;Higher educ.
+615;783;University of Central Arkansas;USA;Higher educ.
+615;783;Odessa National I.I. Mechnikov University;UKR;Higher educ.
+615;783;Shahid Rajaee Teacher training University;IRN;Higher educ.
+615;783;Tarim University;CHN;Higher educ.
+615;783;Penza State University;RUS;Higher educ.
+615;783;Perm State University;RUS;Higher educ.
+615;783;University of Northern Colorado;USA;Higher educ.
+615;783;Liverpool Hope University;GBR;Higher educ.
+615;783;Universidad Nacional de San Juan *;ARG;Higher educ.
+615;783;California State University, East Bay;USA;Higher educ.
+615;783;Islamic Azad University, Shiraz;IRN;Higher educ.
+615;783;University of Tuzla;BIH;Higher educ.
+615;783;Korea University of Technology and Education;KOR;Higher educ.
+615;783;Hebei Normal University of Science and Technology;CHN;Higher educ.
+615;783;Islamic Azad University,Central Tehran branch;IRN;Higher educ.
+616;784;Unitec Institute of Technology;NZL;Higher educ.
+616;784;University of Tripoli;LBY;Higher educ.
+616;784;Mykolo Romerio Universitetas;LTU;Higher educ.
+616;784;Shenyang University of Technology *;CHN;Higher educ.
+616;784;Shanghai University of Finance and Economics;CHN;Higher educ.
+616;784;Chiba Institute of Technology;JPN;Higher educ.
+616;784;Oklahoma State University, Oklahoma City;USA;Higher educ.
+616;784;University of Lapland;FIN;Higher educ.
+616;784;Chernivtsi National University;UKR;Higher educ.
+616;784;University of Economics;CZE;Higher educ.
+617;785;Universite Yahia Fares Medea;DZA;Higher educ.
+617;785;Guizhou Normal University;CHN;Higher educ.
+617;785;Northeast Petroleum University;CHN;Higher educ.
+617;785;National University of Life and Environmental Sciences of Ukraine;UKR;Higher educ.
+617;785;Universite MHamed Bougara de Boumerdes;DZA;Higher educ.
+617;785;Murray State University;USA;Higher educ.
+617;785;Chongqing Jiaotong University;CHN;Higher educ.
+617;785;Embry-Riddle Aeronautical University *;USA;Higher educ.
+617;785;Guangdong Polytechnical Normal University;CHN;Higher educ.
+617;785;University of Zadar;HRV;Higher educ.
+617;785;North South University;BGD;Higher educ.
+617;785;Mount Royal CollegeCA;CAN;Higher educ.
+617;785;Semnan University of Medical Sciences;IRN;Higher educ.
+617;785;Seikei University;JPN;Higher educ.
+617;785;Baruch College, City University of New York;USA;Higher educ.
+618;786;National Institute of Technology Kurukshetra;IND;Higher educ.
+618;786;Universite de Jijel;DZA;Higher educ.
+618;786;Federal University of Technology, Minna;NGA;Higher educ.
+618;786;Universite Larbi Ben MHidi dOum El Bouaghi;DZA;Higher educ.
+618;786;Altai State University;RUS;Higher educ.
+618;786;Xihua University;CHN;Higher educ.
+618;786;Kanagawa University;JPN;Higher educ.
+618;786;Aksaray University;TUR;Higher educ.
+618;786;Persian Gulf University;IRN;Higher educ.
+618;786;NED University of Engineering and Technology;PAK;Higher educ.
+618;786;Hefei University;CHN;Higher educ.
+618;786;University of Botswana;BWA;Higher educ.
+618;786;Air Force Engineering University;CHN;Higher educ.
+618;786;Platov South-Russian State Polytechnic University;RUS;Higher educ.
+618;786;Allameh Tabatabai University;IRN;Higher educ.
+618;786;Punjab Agricultural University;IND;Higher educ.
+618;786;Saveetha University;IND;Higher educ.
+618;786;Islamic Azad University, Shahr-e-Ray;IRN;Higher educ.
+618;786;Central University of Technology, Free State;ZAF;Higher educ.
+619;787;Central University of Finance and Economics;CHN;Higher educ.
+619;787;Universite Mohamed Khider de Biskra;DZA;Higher educ.
+619;787;Ghulam Ishaq Khan Institute of Engineering Sciences and Technology;PAK;Higher educ.
+619;787;Universidad de Medellin;COL;Higher educ.
+619;787;Multimedia University;MYS;Higher educ.
+619;787;Pandit Deendayal Petroleum University;IND;Higher educ.
+619;787;Medical University, Plovdiv;BGR;Higher educ.
+619;787;Lagos State University, Ojo;NGA;Higher educ.
+619;787;Norfolk State University;USA;Higher educ.
+620;788;Shenyang Ligong University;CHN;Higher educ.
+620;788;California State University, Bakersfield;USA;Higher educ.
+620;788;University of Benin;NGA;Higher educ.
+620;788;University of Port Harcourt;NGA;Higher educ.
+620;788;North-Caucasus Federal University;RUS;Higher educ.
+620;788;National Chengchi University;TWN;Higher educ.
+620;788;Tamil Nadu Agricultural University;IND;Higher educ.
+620;788;M. S. Ramaiah Institute of Technology;IND;Higher educ.
+620;788;Shandong University of Finance;CHN;Higher educ.
+620;788;Zayed University;ARE;Higher educ.
+620;788;Instituto Tecnologico Autonomo de Mexico;MEX;Higher educ.
+620;788;Ithaca College;USA;Higher educ.
+620;788;Universite de Gafsa;TUN;Higher educ.
+621;789;California State University, Chico;USA;Higher educ.
+621;789;University of Sistan and Baluchestan;IRN;Higher educ.
+621;789;Southwestern University of Finance and Economics;CHN;Higher educ.
+621;789;Tula State University;RUS;Higher educ.
+621;789;State University of New York, New Paltz;USA;Higher educ.
+621;789;Eastern Illinois University;USA;Higher educ.
+621;789;Xi'an University of Post and Telecommunications;CHN;Higher educ.
+621;789;Bashkir State University;RUS;Higher educ.
+621;789;Al-Farabi Kazakh National University;KAZ;Higher educ.
+621;789;Islamic Azad University, Hamedan;IRN;Higher educ.
+621;789;State University of Novi Pazar;SRB;Higher educ.
+621;789;Islamia College Peshawar;PAK;Higher educ.
+622;790;Kermanshah University of Technology;IRN;Higher educ.
+622;790;University Mutah;JOR;Higher educ.
+622;790;Vali-e-Asr University;IRN;Higher educ.
+622;790;Sichuan University of Science and Engineering;CHN;Higher educ.
+622;790;Universite des Sciences et de la Technologie d'Oran-Mohamed Boudiaf;DZA;Higher educ.
+622;790;Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo;BRA;Higher educ.
+622;790;Binus University;IDN;Higher educ.
+622;790;University of St. Cyril and Methodius in Trnava;SVK;Higher educ.
+622;790;National Technical University of Ukraine - Kyiv Polytechnic Institute;UKR;Higher educ.
+622;790;Indiana University of Pennsylvania;USA;Higher educ.
+622;790;Beijing Institute of Petrochemical Technology;CHN;Higher educ.
+622;790;Northern Kentucky University;USA;Higher educ.
+622;790;Warsaw School of Economics;POL;Higher educ.
+622;790;University of Management and Technology;PAK;Higher educ.
+622;790;Hobart and William Smith Colleges;USA;Higher educ.
+622;790;Kalasalingam University;IND;Higher educ.
+623;791;Universite Vincennes-Saint-Denis, Paris 8 *;FRA;Higher educ.
+623;791;University of Wisconsin, Oshkosh;USA;Higher educ.
+623;791;Guru Angad Dev Veterinary and Animal Sciences University;IND;Higher educ.
+623;791;Maulana Azad National Institute of Technology;IND;Higher educ.
+623;791;Hebei University of Engineering;CHN;Higher educ.
+623;791;Damghan University of Basic Sciences;IRN;Higher educ.
+623;791;Universitat Hildesheim;DEU;Higher educ.
+623;791;Swinburne University of Technology, Sarawak Campus;MYS;Higher educ.
+623;791;Guangdong University of Foreign Studies;CHN;Higher educ.
+623;791;Bates College;USA;Higher educ.
+623;791;Okan University;TUR;Higher educ.
+623;791;Khulna University of Engineering and Technology;BGD;Higher educ.
+623;791;Binzhou University;CHN;Higher educ.
+623;791;Kathmandu University;NPL;Higher educ.
+623;791;Arab Academy for Science, Technology and Maritime Transport;EGY;Higher educ.
+624;792;Coastal Carolina University;USA;Higher educ.
+624;792;Omskij Gosudarstvennyj Tehniceskij Universitet;RUS;Higher educ.
+624;792;Institut National des Postes et Telecommunications;MAR;Higher educ.
+624;792;University of Agriculture, Abeokuta;NGA;Higher educ.
+624;792;St. Petersburg State Electrotechnical University;RUS;Higher educ.
+624;792;Heilongjiang University of Science and Technology;CHN;Higher educ.
+624;792;Electronics Engineering Polytechnic Institute of Surabaya;IDN;Higher educ.
+624;792;Golestan University;IRN;Higher educ.
+625;793;Frederick University;CYP;Higher educ.
+625;793;Universidad Simon Bolivar, Barranquilla;COL;Higher educ.
+625;793;Ecole Nationale Polytechnique;DZA;Higher educ.
+625;793;College of Engineering, Pune;IND;Higher educ.
+625;793;Shandong Jianzhu University;CHN;Higher educ.
+625;793;University of Michigan, Flint;USA;Higher educ.
+625;793;Northwest University for Nationalities;CHN;Higher educ.
+625;793;University Dunarea de Jos of Galati;ROU;Higher educ.
+625;793;Shijiazhuang Tiedao University;CHN;Higher educ.
+625;793;North Eastern Federal University;RUS;Higher educ.
+625;793;University of Moratuwa;LKA;Higher educ.
+625;793;Universite Bordeaux Montaigne *;FRA;Higher educ.
+625;793;Nanjing Institute of Technology;CHN;Higher educ.
+625;793;AMET University;IND;Higher educ.
+625;793;Universidad Nacional de La Pampa *;ARG;Higher educ.
+625;793;Al-Nahrain University;IRQ;Higher educ.
+626;794;Islamic Azad University, Qazvin;IRN;Higher educ.
+626;794;Katholische Universitat Eichstatt-Ingolstadt;DEU;Higher educ.
+626;794;Zhongnan University of Economics and Law;CHN;Higher educ.
+626;794;Texas Woman's University;USA;Higher educ.
+626;794;University of Petroleum and Energy Studies;IND;Higher educ.
+626;794;Gdynia Maritime University;POL;Higher educ.
+626;794;Chung-Hua University;TWN;Higher educ.
+626;794;Daugavpils University;LVA;Higher educ.
+626;794;Universite de Corse Pascal Paoli *;FRA;Higher educ.
+626;794;Southern Connecticut State University;USA;Higher educ.
+626;794;Southampton Solent University;GBR;Higher educ.
+626;794;Tomsk State University of Architecture and Building;RUS;Higher educ.
+626;794;Lishui University;CHN;Higher educ.
+627;795;University of Science and Technology Liaoning;CHN;Higher educ.
+627;795;Universite de Gabes;TUN;Higher educ.
+627;795;Ukrainian State Chemical Technology University, Dnipropetrovsk;UKR;Higher educ.
+627;795;St. Petersburg State University of Aerospace Instrumentation;RUS;Higher educ.
+627;795;Universidad de las Americas Puebla;MEX;Higher educ.
+627;795;Siberian State Industrial University;RUS;Higher educ.
+627;795;Inner Mongolia University of Technology;CHN;Higher educ.
+627;795;Arak University;IRN;Higher educ.
+627;795;Pondicherry Engineering College;IND;Higher educ.
+627;795;University of Presov in Presov;SVK;Higher educ.
+627;795;American University of Ras Al Khaimah;ARE;Higher educ.
+627;795;Vytautas Magnus University;LTU;Higher educ.
+627;795;Universite d'Oran Es-Senia;DZA;Higher educ.
+627;795;University of Craiova;ROU;Higher educ.
+628;796;University of Bahrain;BHR;Higher educ.
+628;796;Inner Mongolia Normal University;CHN;Higher educ.
+628;796;Nanjing University of Finance and Economics;CHN;Higher educ.
+628;796;Bannari Amman Institute of Technology;IND;Higher educ.
+628;796;Russian State University for the Humanities;RUS;Higher educ.
+628;796;Financial University Under the Government of the Russian Federation;RUS;Higher educ.
+628;796;Islamic Azad University, Isfahan Khorasgan Branch;IRN;Higher educ.
+628;796;Kadir Has University;TUR;Higher educ.
+628;796;College of Engineering, Thiruvananthapuram;IND;Higher educ.
+628;796;Zhengzhou Information Science and Technology Institute;CHN;Higher educ.
+628;796;Dongbei University of Finance and Economics;CHN;Higher educ.
+628;796;Novosibirsk State Medical University;RUS;Higher educ.
+628;796;University of the Arts London;GBR;Higher educ.
+628;796;Szechenyi Istvan University;HUN;Higher educ.
+629;797;Florida Gulf Coast University;USA;Higher educ.
+629;797;Central Washington University;USA;Higher educ.
+630;798;Sri Siva Subramania Nadar College of Engineering;IND;Higher educ.
+630;798;Kanazawa Institute of Technology;JPN;Higher educ.
+630;798;PES University;IND;Higher educ.
+630;798;Hiroshima City University;JPN;Higher educ.
+630;798;Latvia University of Agriculture;LVA;Higher educ.
+630;798;National Technical University - Kharkiv Polytechnic Institute;UKR;Higher educ.
+630;798;Irkutsk State Technical University;RUS;Higher educ.
+630;798;Dr. B.R. Ambedkar National Institute of Technology;IND;Higher educ.
+630;798;Yerevan State University;ARM;Higher educ.
+630;798;Rashtrasant Tukadoji Maharaj Nagpur University;IND;Higher educ.
+630;798;Mapua Institute of Technology;PHL;Higher educ.
+630;798;Lafayette College;USA;Higher educ.
+630;798;Quinnipiac University;USA;Higher educ.
+631;799;Indian Institute of Management, Ahmedabad;IND;Higher educ.
+631;799;Moscow State Pedagogical University;RUS;Higher educ.
+631;799;Bucharest Academy of Economic Studies;ROU;Higher educ.
+631;799;NMIMS University;IND;Higher educ.
+631;799;Northern Arctic Federal University;RUS;Higher educ.
+631;799;Beijing Institute of Civil Engineering and Architecture;CHN;Higher educ.
+631;799;Luoyang Institute of Science and Technology;CHN;Higher educ.
+631;799;Adelphi University;USA;Higher educ.
+631;799;University of Engineering and Technology, Taxila;PAK;Higher educ.
+631;799;Colorado College;USA;Higher educ.
+631;799;Irkutsk State University;RUS;Higher educ.
+632;800;Kazan State Medical University;RUS;Higher educ.
+632;800;Samara State Technical University;RUS;Higher educ.
+632;800;Jawaharlal Nehru Technological University, Kakinada;IND;Higher educ.
+632;800;Krakow University of Economics;POL;Higher educ.
+632;800;Northeast Electric Power University;CHN;Higher educ.
+632;800;University of Detroit Mercy;USA;Higher educ.
+632;800;Ningxia University;CHN;Higher educ.
+633;801;Communication University of China;CHN;Higher educ.
+633;801;Lunghwa University of Science and Technology;TWN;Higher educ.
+633;801;University of Wisconsin, Whitewater;USA;Higher educ.
+633;801;Kanagawa Institute of Technology;JPN;Higher educ.
+633;801;National Institute of Technology Silchar;IND;Higher educ.
+633;801;Nanjing Xiaozhuang University;CHN;Higher educ.
+633;801;Shenyang Normal University;CHN;Higher educ.
+633;801;Universite 20 Aout 55 Skikda;DZA;Higher educ.
+633;801;Petrozavodsk State University;RUS;Higher educ.
+633;801;Chelyabinsk State University;RUS;Higher educ.
+634;802;Chaoyang University of Technology;TWN;Higher educ.
+634;802;State University of New York, College at Oswego;USA;Higher educ.
+634;802;Hunan City University;CHN;Higher educ.
+634;802;Utkal University;IND;Higher educ.
+634;802;Notre Dame University;LBN;Higher educ.
+634;802;Cheng Shiu University;TWN;Higher educ.
+634;802;Symbiosis International University;IND;Higher educ.
+634;802;Yasar University;TUR;Higher educ.
+634;802;Western Carolina University;USA;Higher educ.
+634;802;Government College of Technology;IND;Higher educ.
+634;802;Baoji University of Arts and Sciences;CHN;Higher educ.
+634;802;Information Engineering University;CHN;Higher educ.
+634;802;Drake University;USA;Higher educ.
+634;802;Universitatea Valahia din Targoviste;ROU;Higher educ.
+634;802;Universite Hadj Lakhdar de Batna;DZA;Higher educ.
+635;803;Universiti Teknologi Brunei;BRN;Higher educ.
+635;803;Weifang University;CHN;Higher educ.
+635;803;Islamic Azad University, Urmia;IRN;Higher educ.
+635;803;Rajalakshmi Engineering College;IND;Higher educ.
+635;803;V.N. Karazin Kharkiv National University;UKR;Higher educ.
+635;803;Western Illinois University, Macomb;USA;Higher educ.
+635;803;Goa University;IND;Higher educ.
+635;803;Kharkov National University of Radio Electronics;UKR;Higher educ.
+635;803;North China University of Water Conservancy and Electric Power;CHN;Higher educ.
+635;803;Beijing Information Science and Technology University;CHN;Higher educ.
+636;804;Moscow State University of Medicine and Dentistry;RUS;Higher educ.
+636;804;Wakayama University;JPN;Higher educ.
+636;804;Shandong JiaoTong University;CHN;Higher educ.
+636;804;Mehran University of Engineering and Technology Jamshoro;PAK;Higher educ.
+636;804;Lee Kuan Yew School of Public Policy;SGP;Higher educ.
+636;804;Xi'an Technological University;CHN;Higher educ.
+636;804;William Paterson University;USA;Higher educ.
+637;805;Saint Petersburg Mining University;RUS;Higher educ.
+637;805;Harbin University of Commerce;CHN;Higher educ.
+637;805;Nanjing Audit University;CHN;Higher educ.
+637;805;Uzhhorod National University;UKR;Higher educ.
+637;805;School of Advanced Study *;GBR;Higher educ.
+637;805;Capital University of Economics and Business;CHN;Higher educ.
+637;805;Universidad Politecnica Salesiana;ECU;Higher educ.
+637;805;Beihua University *;CHN;Higher educ.
+637;805;Hunan University of Arts and Science;CHN;Higher educ.
+637;805;University of Economics in Bratislava;SVK;Higher educ.
+638;806;Rose-Hulman Institute of Technology;USA;Higher educ.
+638;806;Tianjin University of Technology and Education;CHN;Higher educ.
+638;806;Govind Ballabh Pant University of Agriculture and Technology;IND;Higher educ.
+638;806;Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca;BRA;Higher educ.
+638;806;Bentley University;USA;Higher educ.
+638;806;Alliant International University;USA;Higher educ.
+638;806;Tohoku Gakuin University;JPN;Higher educ.
+638;806;Shenyang Jianzhu University;CHN;Higher educ.
+638;806;Suffolk University;USA;Higher educ.
+638;806;Universite de M'sila;DZA;Higher educ.
+638;806;Islamic Azad University, Ahvaz Branch;IRN;Higher educ.
+639;807;PEC University of Technology;IND;Higher educ.
+639;807;Cyprus International University;CYP;Higher educ.
+639;807;Kyungnam University;KOR;Higher educ.
+639;807;Rajasthan Technical University;IND;Higher educ.
+639;807;Thiagarajar College of Engineering;IND;Higher educ.
+639;807;University of Texas, Tyler;USA;Higher educ.
+639;807;Tibet University;CHN;Higher educ.
+639;807;Zhongyuan University of Technology;CHN;Higher educ.
+639;807;Walden University;USA;Higher educ.
+639;807;National Institute of Technology Hamirpur;IND;Higher educ.
+640;808;Ulyanovsk State University;RUS;Higher educ.
+640;808;Qinghai Normal University;CHN;Higher educ.
+640;808;Moscow Power Engineering Institute, Technical University;RUS;Higher educ.
+640;808;Universite Amar Telidji de Laghouat;DZA;Higher educ.
+640;808;Universite Larbi Tebessi;DZA;Higher educ.
+640;808;Volgograd State Medical University;RUS;Higher educ.
+641;809;Tomsk State University of Control Systems and Radioelectronics;RUS;Higher educ.
+641;809;Military Technical College;EGY;Higher educ.
+641;809;Sher-e-Kashmir University of Agricultural Sciences and Technology-Jammu;IND;Higher educ.
+641;809;University of West Florida;USA;Higher educ.
+641;809;Borough of Manhattan Community College;USA;Higher educ.
+641;809;Xian Polytechnic University;CHN;Higher educ.
+641;809;BMS College of Engineering;IND;Higher educ.
+642;810;University of Pitesti;ROU;Higher educ.
+642;810;Universite Ibn Khaldoun de Tiaret;DZA;Higher educ.
+642;810;Metropolitan State University;USA;Higher educ.
+642;810;University of Agronomic Sciences and Veterinary Medicine;ROU;Higher educ.
+643;811;Jiangsu University of Technology;CHN;Higher educ.
+643;811;Chuvash State University;RUS;Higher educ.
+643;811;Rostov State Transport University;RUS;Higher educ.
+643;811;University of Medicine and Pharmacy Grigore T. Popa of Iasi;ROU;Higher educ.
+643;811;Inner Mongolia University of Science and Technology;CHN;Higher educ.
+643;811;Orenburg State University;RUS;Higher educ.
+643;811;Yibin University;CHN;Higher educ.
+643;811;Universitatea Petrol-Gaze din Ploiesti;ROU;Higher educ.
+643;811;University of International Business and Economics;CHN;Higher educ.
+643;811;Dubna International University for Nature, Society and Man;RUS;Higher educ.
+643;811;Universite Mustapha Stombouli de Mascara;DZA;Higher educ.
+643;811;Universite 08 mai 45 de Guelma;DZA;Higher educ.
+643;811;Assam Agricultural University;IND;Higher educ.
+644;812;University of Houston, Clear Lake;USA;Higher educ.
+644;812;Universidad de Guayaquil;ECU;Higher educ.
+644;812;Le Quy Don Technical University;VNM;Higher educ.
+645;813;Namibia University of Science and Technology;NAM;Higher educ.
+645;813;Shenyang Aerospace University;CHN;Higher educ.
+645;813;Siberian State Aerospace University;RUS;Higher educ.
+646;814;Magnitogorsk State Technical University;RUS;Higher educ.
+646;814;Kiev International University of Civil Aviation;UKR;Higher educ.
+646;814;Hefei Normal University;CHN;Higher educ.
+647;815;Volgograd State Technical University;RUS;Higher educ.
+647;815;Military Institute of Science and Technology;BGD;Higher educ.
+647;815;Voronezh State University;RUS;Higher educ.
+647;815;Xian Shiyou University;CHN;Higher educ.
+648;816;Universite Mouloud Mammeri de Tizi Ouzou;DZA;Higher educ.
+648;816;Sri Venkateswara College of Engineering;IND;Higher educ.
+648;816;Technical University of Sofia;BGR;Higher educ.
+649;817;Sher-e-Kashmir University of Agricultural Sciences and Technology-Srinagar;IND;Higher educ.
+649;817;Kemerovo State University;RUS;Higher educ.
+649;817;Naval Aeronautical and Astronautical University;CHN;Higher educ.
+649;817;Baku State University;AZE;Higher educ.
+649;817;Universitatea Lucian Blaga din Sibiu;ROU;Higher educ.
+649;817;Indian Institute of Management, Bangalore;IND;Higher educ.
+649;817;Liaoning Technical University;CHN;Higher educ.
+649;817;Naval University of Engineering;CHN;Higher educ.
+650;818;Moscow Aviation Institute, State University of Aerospace Technologies;RUS;Higher educ.
+650;818;Nizhny Novgorod State Technical University;RUS;Higher educ.
+650;818;Perm National Research Polytechnic University;RUS;Higher educ.
+650;818;Gubkin Russian State University of Oil and Gas;RUS;Higher educ.
+650;818;Jilin Institute of Chemical Technology;CHN;Higher educ.
+651;819;Buketov Karaganda State University;KAZ;Higher educ.
+652;820;Ufa State Petroleum Technological University;RUS;Higher educ.
+652;820;Chongqing University of Science and Technology;CHN;Higher educ.
+652;820;Dalian Jiaotong University;CHN;Higher educ.
+652;820;Electronic Engineering Institute of the PLA;CHN;Higher educ.
+652;820;Technical University of Civil Engineering of Bucharest;ROU;Higher educ.
+653;821;Orissa University of Agriculture and Technology;IND;Higher educ.
+653;821;Neijiang Teacher University;CHN;Higher educ.
+653;821;Volgograd State University;RUS;Higher educ.
+653;821;Nanchang Institute of Technology;CHN;Higher educ.
+654;822;D. Mendeleev University of Chemical Technology ;RUS;Higher educ.
+654;822;Islamic Azad University, Marvdasht;IRN;Higher educ.
+654;822;Kazan State Power Engineering University;RUS;Higher educ.
+655;823;Abu Dhabi University;ARE;Higher educ.
+655;823;Central Connecticut State University;USA;Higher educ.
+655;823;Beykent University;TUR;Higher educ.
+655;823;Moscow Polytechnic University;RUS;Higher educ.
+656;824;Belarusian National Technical University;BLR;Higher educ.
+656;824; American University of the Middle East;KWT;Higher educ.
+656;824;State University of West Georgia;USA;Higher educ.
+657;826;Kuban State University;RUS;Higher educ.
+657;826;Universita degli Studi di Macerata;ITA;Higher educ.
+657;826;Shenzhen Institute of Information Technology;CHN;Higher educ.
+658;827;Tamil Nadu Veterinary and Animal Sciences University;IND;Higher educ.
+658;827;Eastern Washington University;USA;Higher educ.
+659;828;Ryazan State Radio Engineering University;RUS;Higher educ.
+659;828;Yuri Gagarin State Technical University of Saratov;RUS;Higher educ.
+660;829;Ovidius University;ROU;Higher educ.
+660;829;Changzhou Institute of Technology;CHN;Higher educ.
+660;829;Centro Universitario da FEI;BRA;Higher educ.
+660;829;Troy University;USA;Higher educ.
+661;831;Suan Sunandha Rajabhat University;THA;Higher educ.
+661;831;Ivanovo State University of Chemistry and Technology;RUS;Higher educ.
+661;831;Shenyang University;CHN;Higher educ.
+662;832;Samara State Medical University;RUS;Higher educ.
+663;833;Moscow State Institute of International Relations;RUS;Higher educ.
+664;835;National Research University of Electronic Technology;RUS;Higher educ.
+665;836;Herzen State Pedagogical University of Russia;RUS;Higher educ.
+665;836;Voronezh State Technical University;RUS;Higher educ.
+666;838;Tambov State Technical University;RUS;Higher educ.
+667;839;Penn State Erie, The Behrend College;USA;Higher educ.
+667;839;Saint Petersburg State Institute of Technology;RUS;Higher educ.
+668;840;Quanzhou Normal University;CHN;Higher educ.
+669;842;Tver State University;RUS;Higher educ.
+669;842;Yaroslavl State University;RUS;Higher educ.
+670;843;Beijing Institute of Graphic Communication;CHN;Higher educ.
+671;844;China University of Political Science and Law;CHN;Higher educ.
+672;845;Logistical Engineering University;CHN;Higher educ.
+673;846;Chaudhary Charan Singh Haryana Agricultural University;IND;Higher educ.
+674;847;Vladimir State University;RUS;Higher educ.
+674;847;Jilin Jianzhu University;CHN;Higher educ.
+675;848;Kabardino-Balkarian State University;RUS;Higher educ.
+675;848;Maharana Pratap University of Agriculture and Technology;IND;Higher educ.
+676;849;Shanghai Dianji University;CHN;Higher educ.
+677;851;Beijing Institute of Fashion Technology;CHN;Higher educ.
+678;853;Dagestan State University;RUS;Higher educ.
+679;854;PLA Rocket Force University of Engineering;CHN;Higher educ.
+680;855;Ordenance Engineering College;CHN;Higher educ.
+681;858;Universitatea din Petrosani;ROU;Higher educ.
+682;862;Azerbaycan Tibb Universiteti;AZE;Higher educ.

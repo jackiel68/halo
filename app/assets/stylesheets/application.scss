@@ -1,0 +1,770 @@
+@import 'application/variables';
+@import 'application/mixins';
+@import 'application/icons';
+@import 'application/sticky_footer';
+@import 'application/progress_bar';
+@import 'application/circle_progress';
+@import 'application/slick_theme';
+@import 'bootstrap-sass/assets/stylesheets/bootstrap';
+@import 'home';
+@import 'coming_soon';
+@import 'donate_section';
+@import 'milestones';
+@import 'campaigns';
+@import 'donations';
+@import 'diseases';
+@import 'pages';
+
+html {
+  overflow-x: hidden;
+  position: relative;
+}
+
+html, body {
+  position: relative;
+}
+
+.prelaunch-btn{
+  width: 185px;
+}
+
+.btn.prelaunch-btn-mobile {
+  width: 120px;
+  font-size: 14px;
+}
+
+.prelaunch-btn:hover{
+  transform: scale(1.1);
+}
+
+// Header
+.main-header {
+  .navbar-brand {
+    padding: (($navbar-height - 15px)/2) 15px;// logo height=35px
+    line-height: 50px;
+  }
+  .navbar-nav {
+    & > li {
+      height: $navbar-height;
+    }
+  }
+  .navbar-nav > li > a {
+    @include main-nav;
+  }
+  .navbar-nav > li > .dropdown-menu {
+    margin-top: -10px;
+  }
+  .navbar-text-link {
+    font-size: 14px;
+    margin-left: 10px !important;
+  }
+  .navbar-button {
+    background-color: #7D3EF4;
+    align-items: center;
+    display: flex;
+    margin-top: 28px;
+    margin-left: 40px;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 10px 35px;
+    max-width: 128px;
+  }
+  .navbar-button:hover {
+    transform: scale(1.1);
+    background-color: #7D3EF4;
+  }
+  .navbar-header {
+    width: 100%;
+  }
+}
+
+.alert {
+  position: absolute;
+  width: 100%;
+  z-index: 10000;
+  opacity: 0.9;
+}
+
+.pages-home main .alert {
+  top: 10px;
+  opacity: 0.9;
+}
+
+.pages-home .navbar .navbar-collapse.collapse.in, .pages-home .navbar .navbar-collapse.collapsing{
+  background: $purple;
+}
+.pages-home .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+  border-color: $purple;
+}
+.pages-home .navbar-collapse {
+  box-shadow: none;
+}
+.pages-home .navbar-inverse .navbar-toggle:hover, .pages-home .navbar-inverse .navbar-toggle:focus {
+  background-color: $purple;
+}
+.pages-home .navbar-inverse .navbar-toggle {
+  border: 1px solid $white;
+
+}
+// Footer
+.footer {
+  background-color: $navbar-inverse-bg;
+  .container {
+    width: 100;
+    padding-right: 15px;
+  }
+  .navbar-left a {
+    @include main-nav;
+    color: #fff;
+    padding-right: 1em;
+    &.logo {
+      margin-right: 2em;
+    }
+    &:hover {
+      color: #fff;
+    }
+  }
+  .navbar-right {
+    span {
+      font-size: 12px;
+      padding-right: 15px;
+    }
+
+    .icon {
+      font-size: 2rem;
+      padding-right: .5rem;
+    }
+  }
+}
+.footer__social-links {
+  display: inline;
+  position: relative;
+  top: 3px;
+  li, .icon {
+    display: inline;
+  }
+}
+
+// Typography
+main {
+  letter-spacing: .01em;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+.primary-heading {
+  margin-top: 0;
+  margin-bottom: 32px;
+  a,
+  strong {
+    color: $magenta;
+  }
+  &.dotted {
+    @include dotted;
+  }
+}
+.sub-heading {
+  margin-top: 0;
+  margin-bottom: 32px;
+  a,
+  strong {
+    color: $magenta;
+  }
+  &.dotted {
+    @include dotted;
+  }
+}
+.font-small {
+  font-size: .7em;
+}
+.font-weight-bold {
+  font-weight: bold;
+}
+h2, h3 {
+  font-weight: 300;
+  margin-bottom: 1em;
+}
+
+h4 {
+  font-weight: 400;
+  margin-bottom: .6em;
+  margin-top: 1.4em;
+}
+strong {
+  font-weight: 700;
+}
+
+// Buttons
+.btn {
+  color: #fff;
+  font-size: 1.0em;
+  font-weight: 700;
+  text-shadow: 0 0 4px rgba(0,0,0,.3);
+  padding: 12px 30px;
+  @include boxshadow;
+}
+.btn-secondary {
+  background-color: $pink;
+}
+
+// Logo
+.logo-halo {
+  font-size: $nav-tabs-font-size;
+  img {
+    width: 6em;
+  }
+}
+
+// Social Share
+.social-share {
+  font-size: 1.5em;
+  padding: .5em .5em 0 0;
+  &:hover,
+  &:active,
+  &:focus {
+    text-decoration: none;
+  }
+  &:last-of-type {
+    padding-right: 0;
+  }
+}
+.btn-facebook-share {
+  background-color: #0369b2;
+  a {
+    color: #fff;
+    font-size: inherit;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .facebook-logo {
+    margin-right: .3rem;
+  }
+}
+.facebook-logo {
+  @extend .icon;
+  height: 2.3rem;
+  background-image:url(image-path('icons/facebook.svg'));
+}
+.icon-facebook {
+  color: #0369b2;
+}
+.icon-twitter {
+  color: #00bfd7;
+}
+
+// Wells
+.well {
+  background: #fff;
+  border-radius: 0;
+  h2,
+  h3 {
+    margin-top: 0;
+    font-size: 1.5em;
+  }
+  img {
+    max-width: 100%;
+  }
+  .btn {
+    width: 100%;
+  }
+  .button_to {
+    display: inline-block;
+  }
+  .list-unstyled li:last-of-type {
+    margin-bottom: 0;
+  }
+}
+.well-wrapper {
+  @include boxshadow;
+}
+
+// Forms
+.simple_form {
+  margin-bottom: 2em;
+  .form-group.boolean,
+  .form-group.check_boxes {
+    line-height: 1.2em;
+  }
+  .form-control {
+    padding: 7px 14px;
+  }
+  .form-group .help-block {
+    text-align: left;
+  }
+}
+
+// arrowbox
+.arrowbox {
+  position: relative;
+  padding: .5em 1em;
+  border-radius: $border-radius-base;
+  background-color: $gray;
+  &:after {
+    content: '';
+    width: 0;
+    position: absolute;
+    right: -9px;
+    top: 13px;
+    height: 0;
+    border-top: 0px solid transparent;
+    border-bottom: 30px solid transparent;
+    border-left: 14px solid $gray;
+  }
+}
+
+// Session modals
+#sign-up .btn {
+  width: 75%;
+  margin: .5em 0;
+}
+#sign-in .btn-fb,
+#sign-up-via-email form {
+  margin-top: .5em;
+}
+
+// Tabs
+.nav-tabs {
+  border-bottom: 1px solid $gray;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: $nav-tabs-font-size;
+  .active {
+    border-bottom: 5px solid $blue;
+  }
+  & > li > a {
+    color: $nav-tabs-active-link-hover-color;
+    &:hover,
+    &:focus {
+      background: transparent;
+    }
+  }
+}
+
+// Modals
+.modal {
+  text-align: center;
+  .simple_form {
+    margin: 0;
+  }
+  .btn {
+    margin-top: 0;
+    font-size: 0.9em;
+  }
+  .vertical-alignment-helper {
+    display:table;
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+  }
+  .vertical-align-center {
+    display: table-cell;
+    vertical-align: middle;
+    pointer-events: none;
+  }
+  abbr {
+    display: none;
+  }
+}
+
+// Overviews (used to display campaigns and disease categories)
+.overviews {
+  margin-top: 2em;
+  border-top: 1px solid #d9e0e2;
+}
+.overview {
+  @include boxshadow;
+  background: #fff;
+  padding: 0;
+  .padded {
+    padding: 20px;
+  }
+  h3 {
+    font-size: 1em;
+    font-weight: 700;
+    margin-bottom: .4em;
+  }
+  img {
+    width: 100%;
+  }
+  p {
+    @extend .font-small;
+    margin-bottom: 0;
+    strong {
+      color: #000;
+    }
+  }
+}
+
+// Utilities
+iframe {
+  max-width: 100%;
+}
+.avatar {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background: $magenta;
+  color: #fff;
+  text-align: center;
+  line-height: 20px;
+  margin-right: 1em;
+}
+.list-unstyled li {
+  margin-bottom: 2em;
+}
+.link-unstyled {
+  color: $text-color;
+  text-decoration: none!important;
+  &:hover,
+  &:active {
+    color: $text-color;
+  }
+  &.block-link-unstyled {
+    display: block;
+  }
+}
+.padded {
+  padding: $padding-base-horizontal;
+}
+.top-padded {
+  padding-top: 2em;
+}
+.halo-switch {
+  width: 50%;
+  margin: 0 auto 3em auto;
+}
+.help-block {
+  color: $text-gray-color;
+  font-size: .8em;
+}
+.popover-content {
+  font-size: .8em;
+}
+.full-width {
+  width: 100%;
+}
+.main-image {
+  max-width: 100%;
+}
+.css-table {
+  display: table;
+  .css-table-row {
+    display: table-row;
+  }
+  .css-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+  }
+}
+.no-break {
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+}
+.absolute-center {
+  width: 50%;
+  height: 50%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+// Media Queries
+
+// Small devices in portrait mood
+@media screen and (max-width: 375px) and (orientation: portrait) {
+  .modal {
+    .modal-content {
+      width: 100%;
+    }
+    .btn {
+      font-size: 0.80em;
+    }
+  }
+}
+// Small devices (tablets, 768px and lower)
+@media (max-width: $screen-sm-min) {
+  h2 {
+    font-size: 1.6em;
+  }
+  h3 {
+    font-size: 1.4em;
+    line-height: 1.25;
+  }
+  h4 {
+    font-size: 1.2em;
+  }
+  .btn {
+    font-size: 1em;
+    white-space: normal;
+  }
+  .nav-tabs {
+    li {
+      a {
+        margin-right: 0;
+        padding: 10px 12px;
+      }
+    }
+  }
+  .footer {
+    .container {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    position: relative;
+    text-align: center;
+    .navbar-left {
+      a:not(.logo) {
+        font-size: 0.6em;
+      }
+      a.logo {
+        text-align: left;
+        display: block;
+        margin: 3em 0;
+        img {
+          height: $logo-image-height-mobile;
+          width: auto;
+        }
+      }
+    }
+    .navbar-right {
+      margin: 30px 0;
+      span {
+        padding: 0;
+      }
+    }
+  }
+  .footer__social-links {
+    left: 10px;
+    position: relative;
+    margin: 3rem 15px;
+  }
+  .navbar-header {
+    width: 100%;
+    .navbar-brand {
+      img {
+        height: 50%;
+      }
+    }
+  }
+  .nav-tabs.mobile-stack > li {
+    display: block;
+    float: none;
+    &.active {
+      border-bottom: 0;
+      border-left: 5px solid #3bbded;
+    }
+  }
+  .modal-dialog {
+    .btn {
+      width: 100%;
+      margin-bottom: 1em;
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+    }
+    .help-block {
+      margin-bottom: 1em;
+    }
+  }
+}
+@media (min-width: $screen-sm-min) {
+  .navbar-nav > li > .sign-up {
+    border: 1px solid #fff;
+    border-radius: 3px;
+    margin-top: 16px;
+    padding: 5px 26px;
+    margin-left: 1em;
+    font-weight: 700;
+  }
+  .navbar-right {
+    margin-right: 0;
+  }
+  .divider {
+    background: transparent left center url(asset-path('home/divider-bg.png')) no-repeat;
+    padding-left: 1em;
+    margin-left: 1em;
+  }
+}
+@media (min-width: $screen-lg) {
+  .container {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+}
+@media (max-width: $screen-sm) {
+  .navbar-button {
+    top: -10px;
+    right: 20px;
+    position: absolute;
+    display: block;
+  }
+  .navbar {
+    min-height: 0px;
+    text-align: center;
+    margin-bottom: 20px;
+    &-header{
+      margin: 0px auto;
+      .navbar-brand {
+        padding: (($navbar-mobile-height - 25px)/2) 15px;
+        line-height: $line-height-base;
+      }
+    }
+    &-toggle {
+      margin: (($navbar-mobile-height - 34px)/2) 15px;
+    }
+    &-brand {
+      height: $navbar-mobile-height;
+      img {
+        height: $logo-image-height-mobile !important;
+        width: auto;
+      }
+    }
+  }
+}
+
+.ui.transparent.icon.input>i.icon {
+  width: 50px;
+}
+
+.ui.dimmer {
+  background-color: rgba(0,0,0,.50);
+}
+
+.ui.dropdown:not(.button)>.default.text {
+    color: #BABEC9;
+}
+
+input::placeholder {
+  color: #BABEC9;
+}
+
+textarea::placeholder {
+  color: #BABEC9;
+}
+
+.ui.modal {
+  padding: 2.5em;
+}
+
+.ui.fluid.dropdown>.dropdown.icon {
+  margin-top: -4px;
+}
+
+.ui.selection.dropdown>.search.icon {
+  margin-top: -9px;
+  padding-right: 8px;
+}
+
+.ui.selection.dropdown>.angle.down.icon {
+  position: absolute;
+  right: 7px;
+  color: #464648;
+}
+
+.ui.selection.dropdown>.chevron.down.icon {
+  font-size: 12px;
+  position: absolute;
+  right: 7px;
+}
+
+.ui.toggle + .ui.dropdown > .chevron.down {
+  position: relative;
+  top: 1px;
+  font-size: 14px;
+}
+
+.ui.search.dropdown>input.search {
+  height: 48px;
+}
+
+.onboarding-dropdown {
+  .ui.search.dropdown>input.search {
+    height: auto;
+    font-size: 14px;
+    padding-top: 14px;
+  }
+}
+
+.onboarding-dropdown {
+  .ui.multiple.search.dropdown>input.search {
+    height: auto;
+    font-size: 14px;
+    padding-top: 0px;
+  }
+}
+
+.large-dropdown {
+  .ui.fluid.dropdown>.dropdown.icon {
+    margin-top: -10px;
+  }
+
+  .ui.search.dropdown>input.search {
+    height: 38px;
+    font-size: 14px;
+  }
+}
+
+.custom-dropdown {
+  .search {
+    height: 48px;
+  }
+}
+
+/* Datepicker CSS */
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker-popper,
+.react-datepicker,
+.react-datepicker__month-container {
+  width: 100%;
+}
+
+.react-datepicker {
+  border: 1px solid #609FEE !important;
+}
+
+.react-datepicker__header {
+  background-color: white !important;
+  font-size: 14px;
+  line-height: 16px;
+  color: #131E29;
+}
+
+.react-datepicker__day-name,
+.react-datepicker__day {
+  padding: 2% 5% !important;
+  justify-content: center;
+  display: inline-flex !important;
+  font-size: 14px;
+}
+
+.react-datepicker__current-month {
+  font-size: 14px !important;
+  font-weight: regular;
+}
+
+.react-datepicker__day--selected {
+  background-color: #609FEE !important;
+}
+
+.react-datepicker__day--today {
+  font-weight: bold;
+}
+
+.react-datepicker-popper[data-placement^="top"] .react-datepicker__triangle::before, .react-datepicker__year-read-view--down-arrow::before,
+.react-datepicker__month-read-view--down-arrow::before,
+.react-datepicker__month-year-read-view--down-arrow::before {
+  border-top-color: #609FEE !important;
+}

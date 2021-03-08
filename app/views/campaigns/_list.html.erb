@@ -1,0 +1,9 @@
+<section class="row overviews">
+  <h2 class="col-sm-12">
+    <%= local_assigns[:heading] || 'Upcoming Campaigns' %>
+  </h2>
+  <% campaigns.each do |campaign| %>
+    <% next if campaign == campaign_on_display %>
+    <%= render(partial: 'campaigns/detail', locals: { campaign: campaign }) %>
+  <% end %>
+</section>

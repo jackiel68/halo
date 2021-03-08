@@ -1,0 +1,20 @@
+<%= title(thank_you_message_for(@donation)) %>
+
+<% if @donation.loved_one_name.present? %>
+  <p>You can <%= link_to('View', campaign_path(@campaign))%> <%= @donation.loved_one_name %>'s listing on the <%= @campaign.disease.name %> Memorial Wall anytime</p>
+<% end %>
+
+<p><strong>To make the biggest impact, share the campaign with friends and family.</strong><p>
+<p>Every share helps and you can keep track of the donations you helped generate on your <%= link_to('profile page', donations_path) %></p>
+
+<%= share_urls_for(@campaign, message: "I just donated to research on #{ @campaign.disease.name } through @halocures. Join me to help advance the most promising discoveries of today into the treatments of tomorrow #halocures") %>
+
+<% content_for :javascript do %>
+  <script>
+    analytics.track("Donated", {
+      value: <%= @donation.amount.to_f %>,
+      currency: 'USD',
+      campaign_disease_name: <%= raw @campaign.disease.name.to_json %>
+    });
+  </script>
+<% end %>

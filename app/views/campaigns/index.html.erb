@@ -1,0 +1,24 @@
+<% content_for :head do %>
+  <meta name="robots" content="noindex,nofollow">
+<% end %>
+
+<%= title('Campaigns') %>
+
+<% if current_campaign %>
+  <section class="row">
+    <h3 class="col-md-12">This Month's Campaign</h3>
+    <%= render(partial: 'detail', locals: { campaign: current_campaign, heading_tag: :h4 }) %>
+  </section>
+<% end %>
+
+<% if @upcoming_campaigns.any? %>
+  <section class="row">
+    <h3 class="col-md-12">Upcoming Campaigns*</h3>
+    <% @upcoming_campaigns.each do |campaign| %>
+      <%= render(partial: 'detail', locals: { campaign: campaign, heading_tag: :h4 }) %>
+    <% end %>
+    <%= clearfix %>
+
+    <p class="col-md-12">*Subject to Changes</p>
+  </section>
+<% end %>

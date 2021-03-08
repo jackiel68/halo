@@ -1,0 +1,18 @@
+// Sticky Footer
+
+@media(min-width: $screen-sm) {
+  html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    padding-bottom: $footer-height*1.5;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: $footer-height;
+    line-height: ($footer-height - 3px);
+  }
+}

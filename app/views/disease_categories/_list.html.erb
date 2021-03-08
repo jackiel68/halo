@@ -1,0 +1,14 @@
+<section class="row overviews">
+  <h2 class="col-sm-12">Upcoming Campaigns</h2>
+  <% categories.each do |category| %>
+    <%= link_to(disease_category_path(category), class: 'link-unstyled block-link-unstyled col-sm-3') do %>
+      <section class="well overview">
+        <%= image_tag(category.image_url(:thumb), alt: category.name) %>
+
+        <div class="padded">
+          <h3><%= category.name %></h3>
+        </div>
+      </section>
+    <% end %>
+  <% end %>
+</section>

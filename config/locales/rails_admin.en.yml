@@ -1,0 +1,7 @@
+en:
+  admin:
+    actions:
+      launch_campaign:
+        menu: Launch
+      close_campaign:
+        menu: Close

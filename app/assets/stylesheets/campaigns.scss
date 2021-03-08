@@ -1,0 +1,342 @@
+// Campaign Detail
+.campaigns-show {
+  .primary-heading {
+    font-size: 2.0em;
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  .sub-heading {
+    font-size: 1.5em;
+  }
+  .tab-content {
+    .photo_caption {
+      font-size: .8em;
+      margin-top: -15px;
+    }
+  }
+  .sponsor {
+    img {
+      max-width: 100%;
+    }
+    margin-bottom: 2em;
+  }
+  .stats {
+    padding: 0;
+    background: #fff;
+    color: #000;
+    .padded-progress {
+      padding-bottom: 18px;
+    }
+    dl {
+      margin-bottom: 18px;
+    }
+    dt {
+      font-weight: 300;
+      line-height: 1em;
+    }
+    dd {
+      margin-bottom: .3em;
+      line-height: 1.5em;
+      span {
+        color: $text-gray-color;
+      }
+      &.last {
+        margin-bottom: 0;
+      }
+    }
+    .countdown-clock {
+      margin: 15px 0;
+      line-height: 0;
+      .figure {
+        display: inline-block;
+        position: relative;
+        width: 30%;
+        padding: 7px 0 10px 0;
+        margin-right: 5%;
+        text-align: center;
+        border-radius: 3px;
+        border: 1px solid #c8ced3;
+        p,
+        span {
+          line-height: 1em;
+        }
+        p {
+          margin-bottom: .1em;
+        }
+        .unit {
+          font-size: .5em;
+        }
+        &:before {
+          content: ':';
+          width: 10%;
+          height: 50%;
+          position: absolute;
+          top: 31%;
+          right: -14%;
+          line-height: 50%;
+          text-align: center;
+          color: #798692;
+          font-weight: lighter;
+        }
+        &:last-of-type {
+          margin-right: 0;
+          &:before {
+            display: none;
+          }
+        }
+      }
+    }
+    .btn {
+      font-weight: 700;
+    }
+    .share {
+      background: #f8fafb;
+    }
+  }
+  .how-it-works {
+    dl {
+      padding-left: 5rem;
+      color: $headings-color;
+    }
+    dt {
+      margin-bottom: .5rem;
+    }
+    dd {
+      position: relative;
+      margin-bottom: 2rem;
+      line-height: 1.5;
+    }
+    img {
+      width: 30px;
+      position: absolute;
+      left: -5rem;
+      top: -29px;
+    }
+  }
+  .donor {
+    font-size: 0.9em;
+    margin-bottom: 2rem;
+  }
+  .donor:last-of-type {
+    margin-bottom: 0;
+  }
+  .nav-tabs {
+    margin-top: 1em;
+  }
+  .media {
+    margin-bottom: 1em;
+    .media-object {
+      width: 80px;
+    }
+    .media-left {
+      padding-right: 20px;
+    }
+    h4 {
+      margin-top: 0;
+      margin-bottom: .5em;
+      font-size: 1em;
+      span {
+        display: block;
+        font-style: italic;
+        font-weight: 300;
+        font-size: .8em;
+        padding-top: 3px;
+      }
+    }
+    .media-body p {
+      font-size: .9em;
+      line-height: 1.4em;
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+    }
+    .author {
+      font-style: italic;
+    }
+  }
+  .question {
+    h4 {
+      font-size: 1em;
+    }
+    .markdown {
+      margin-bottom: 2em;
+    }
+  }
+
+  .follow-container {
+    margin-top: 12px;
+    form {
+      margin-bottom: 0;
+    }
+    h5 {
+      margin: 2em 0;
+      font-weight: bold;
+    }
+    i {
+      display: inline-block;
+      position: relative;
+      vertical-align: sub;
+      top: 1px;
+      margin-left: 6px;
+      height: 23px;
+      width: 23px;
+    }
+    .email {
+      margin-bottom: 2rem;
+    }
+  }
+  #campaign-sticky-header {
+    display: none;
+  }
+  #campaign-nav-tabs {
+    overflow: hidden;
+    .navbar-right {
+      position: relative;
+      display: none;
+      float: right;
+      top: 50px;
+      font-size: $font-size-base;
+      .nav {
+        position: relative;
+        bottom: 5px;
+      }
+      .social-share {
+        padding: 0;
+      }
+      li {
+        float: left;
+      }
+    }
+    .btn {
+      text-transform: capitalize;
+      font-size: .9em;
+    }
+    .btn-facebook-share {
+      margin-left: .5rem;
+      padding: 11px 30px;
+    }
+    &.affix {
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 9999;
+      margin-top: 0;
+      border-bottom: 1px solid $gray;
+      background-color: #fff;
+      .navbar-right {
+        display: inherit;
+      }
+      .nav-tabs {
+        @extend .container;
+        border-bottom: 0;
+      }
+      & + .tab-content {
+        padding-top: 6rem;
+      }
+    }
+  }
+}
+
+// Media Queries
+
+// Small devices (tablets, 768px and up)
+@media (min-width: $screen-sm-min) {
+  .campaigns-show {
+    .sponsor h3 {
+      margin-top: 0;
+      font-size: 1em;
+      color: $text-gray-color;
+    }
+    .stats {
+      dt {
+        font-size: 1.3em;
+      }
+      dd {
+        font-size: 2.4em;
+        span {
+          font-size: .5em;
+          line-height: .5em;
+        }
+      }
+      .countdown-clock .figure .unit {
+        font-size: .3em;
+      }
+    }
+    .advisor .media-object {
+      width: 117px;
+    }
+  }
+}
+
+// Phones
+@media (max-width: $screen-xs) {
+  .campaigns-show {
+    .nav-tabs {
+      font-size: 0.7em;
+    }
+    .stats {
+      margin: 3rem 0;
+      box-shadow: 0 0 0;
+      .padded {
+        padding: 0;
+      }
+      .share {
+        background: initial;
+        padding-top: 0;
+      }
+    }
+    #campaign-nav-tabs {
+      .navbar-right {
+        display: none;
+      }
+      &.affix {
+        display: none;
+      }
+    }
+    #campaign-sticky-header {
+      display: initial;
+      position: fixed;
+      z-index: 2;
+      top: -($navbar-height + 5px);
+      left: 0;
+      right: 0;
+      opacity: 0;
+      @include transition(.2s ease transform, .2s opacity);
+      &.active {
+        opacity: 1;
+        @include transition(.5s ease transform);
+        transform: translateY(($navbar-height + 5px));
+      }
+      .logo-halo {
+        display: none;
+      }
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0;
+        display: inherit;
+      }
+      .navbar-nav {
+        display: flex;
+        justify-content: space-between;
+        margin: ($navbar-padding-vertical / 2);
+        &:before, &:after {
+          content: none;
+        }
+      }
+      .btn {
+        width: 100%;
+        padding: 10px 30px;
+      }
+      li {
+        float: left;
+        flex: 1;
+        margin: 0;
+        &:first-child {
+          margin-right: 1rem;
+        }
+      }
+    }
+  }
+}

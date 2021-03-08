@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="121" viewBox="0 0 151 121">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#E6E8F2" fill-rule="nonzero" d="M18 81.415v-37.57a5 5 0 0 1 5-5h94a5 5 0 0 1 5 5v60.879c0 5.522-4.477 10-10 10H40.263A20.44 20.44 0 0 1 25.5 121C14.178 121 5 111.822 5 100.5c0-8.675 5.388-16.09 13-19.085z"/>
+        <g stroke="#5625D7" stroke-width="2">
+            <path fill="#FFF" d="M31 31.846a4 4 0 0 0-4 4v65.878a4 4 0 0 0 4 4h89a9 9 0 0 0 9-9V35.846a4 4 0 0 0-4-4H31z"/>
+            <path fill="#E6E8F2" d="M129 92.227v6.662l1.988-.155c-.405-2.575-1.068-4.748-1.988-6.507zm-7.905-5.45a12.29 12.29 0 0 0-1-.04h-1v1.03h2v-.99zm0-69.721V16l-1 1c.338 0 .672.019 1 .056z"/>
+        </g>
+        <path fill="#F3E6EA" d="M37.826 44.196h25.261v19.93h-25.26z"/>
+        <path fill="#EEEBF6" d="M89.826 73.196h25.261v19.93h-25.26z"/>
+        <path stroke="#C2C6DA" stroke-linecap="round" stroke-width="4" d="M39.5 76.5h10"/>
+        <path stroke="#E6E8F2" stroke-linecap="round" stroke-width="3" d="M40 84h30M40 91h20"/>
+        <g fill-rule="nonzero" stroke="#5625D7" stroke-width="2" transform="translate(54 41)">
+            <circle cx="6" cy="4" r="4"/>
+            <path stroke-linecap="round" d="M12 15c0-3.866-2.686-7-6-7s-6 3.134-6 7"/>
+        </g>
+        <path stroke="#C2C6DA" stroke-linecap="round" stroke-width="4" d="M72.5 47h22"/>
+        <g transform="translate(12 80)">
+            <circle cx="17.5" cy="17.5" r="17.5" fill="#D87FFF" fill-rule="nonzero" stroke="#5625D7" stroke-width="2"/>
+            <g transform="translate(9 6)">
+                <path fill="#FFF" stroke="#5625D7" d="M3.75 13.69l-2.516 7.055 3.017-.89 1.586 2.555 2.502-7.016-4.588-1.704zM14.25 12.863l2.516 7.054-3.017-.89-1.586 2.555-2.502-7.015 4.588-1.704z"/>
+                <ellipse cx="9.409" cy="8.69" fill="#FFF" rx="6.955" ry="7.034"/>
+                <ellipse cx="8.182" cy="7.448" stroke="#5625D7" rx="7.364" ry="7.448"/>
+            </g>
+        </g>
+        <path stroke="#E6E8F2" stroke-linecap="round" stroke-width="3" d="M73 54.5h42M72.5 61h42"/>
+        <text fill="#40BBEC" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" transform="translate(5 16)">
+            <tspan x="83" y="80">$</tspan>
+        </text>
+        <text fill="#40BBEC" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" transform="translate(5 16)">
+            <tspan x="95" y="80">$</tspan>
+        </text>
+        <g font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold">
+            <text fill="#E6E8F2" transform="translate(94 6)">
+                <tspan x="0" y="17">$</tspan>
+            </text>
+            <text fill="#5625D7" transform="translate(94 6)">
+                <tspan x="1" y="16">$</tspan>
+            </text>
+            <text fill="#E6E8F2" transform="translate(8 -3)">
+                <tspan x="0" y="17">$</tspan>
+            </text>
+            <text fill="#5625D7" transform="translate(8 -3)">
+                <tspan x="1" y="16">$</tspan>
+            </text>
+            <g>
+                <text fill="#E6E8F2" transform="translate(0 49)">
+                    <tspan x="0" y="17">$</tspan>
+                </text>
+                <text fill="#5625D7" transform="translate(0 49)">
+                    <tspan x="1" y="16">$</tspan>
+                </text>
+            </g>
+            <g>
+                <text fill="#E6E8F2" transform="translate(140 67)">
+                    <tspan x="0" y="17">$</tspan>
+                </text>
+                <text fill="#5625D7" transform="translate(140 67)">
+                    <tspan x="1" y="16">$</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

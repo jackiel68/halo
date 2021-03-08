@@ -1,0 +1,201 @@
+<% title('Advancing Scientific Discoveries') %>
+<% meta_tag :description, "Search requests for proposals, find the right partner, submit a short proposal. Start advancing your science now." %>
+
+<section id="home-slider">
+  <article>
+    <div class="text-content">
+      <div class="container">
+        <h1 class="desktop">Find an industry partner and <br class="desktop"> bring your ideas to life<br class="desktop"></h1>
+        <h1 class="mobile">Find an industry partner and bring your ideas to life</h1>
+        <p class="">Halo connects scientists with opportunities to translate<br class="desktop"> their research into real-world applications</p>
+
+        <p class="font-weight-normal">Sign up in 90 seconds</p>
+          <div class="form-group">
+            <div class="col-md-4">
+                <%= link_to("Get Started", @getting_started_link, class: "btn desktop btn-primary prelaunch-btn") %>
+                <%= link_to("Get Started", @getting_started_link, class: "btn mobile btn-primary prelaunch-btn-mobile") %>
+            </div>
+          </div>
+          <%= image_tag('home/macbook.png', alt: 'Macbook', class: 'macbook') %>
+      </div>
+    </div>
+  </article>
+</section>
+
+<section class="features">
+  <div class="container">
+    <ul>
+      <li>
+        <%= image_tag('home/profile.svg', alt: 'Create Profile') %>
+        <dl>
+          <dt>Discover Opportunities</dt>
+          <dd>Search for opportunities from industry partners seeking collaborations with academic scientists.</dd>
+        </dl>
+        <%= clearfix %>
+      </li>
+
+      <li>
+        <%= image_tag('home/projects.svg', alt: 'Post Projects') %>
+        <dl>
+          <dt>Find the Right Partner</dt>
+          <dd>Learn more about partners and what they can offer you, from reagents and equipment to lab space, funding and expertise.</dd>
+        </dl>
+        <%= clearfix %>
+      </li>
+
+      <li>
+        <%= image_tag('home/apply.svg', alt: 'Apply to Research') %>
+        <dl>
+          <dt>Submit A Short Proposal</dt>
+          <dd>Provide a brief description of your proposed experiment and receive written feedback.</dd>
+        </dl>
+        <%= clearfix %>
+      </li>
+
+      <li>
+        <%= image_tag('home/funded.svg', alt: 'Keep Projects Funded') %>
+        <dl>
+          <dt>Advance Your Science</dt>
+          <dd>Do more research, publish more papers and show off your lab’s latest work</dd>
+        </dl>
+        <%= clearfix %>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<!-- Scientists review section -->
+
+<section class="scientists blue">
+  <div class="container">
+    <h3>What Scientists Are Saying</h3>
+
+    <div class="carousel slide">
+      <div class="carousel-item">
+        <div>
+          <i class="icon-left-quote-blue"></i>
+          <a href="https://www.linkedin.com/in/carmenvarela/" target="_blank">
+            <%= image_tag('headshots/carmen.png', alt: 'headshot', class: 'headshot') %>
+          </a>
+          <header>
+            <h4>Carmen Varela, PhD, University of Chicago</h4>
+            <span>Principal Scientist, Florida Atlantic University</span>
+          </header>
+
+          <p>Scientific advances made in academic settings have the potential for a broad impact, yet researchers often lack the resources to promote their discoveries outside academia. Platforms like Halo will help broaden funding options, and open a communication channel between researchers and partners to strengthen investment at critical stages</p>
+        </div>
+      </div>
+
+      <div class="carousel-item">
+        <div>
+          <i class="icon-left-quote-blue"></i>
+          <a href="https://www.linkedin.com/in/travis-moschak-26230565/" target="_blank">
+            <%= image_tag('headshots/travis.png', alt: 'headshot', class: 'headshot') %>
+          </a>
+          <header>
+            <h4>Travis Moschak, PhD, OSHU</h4>
+            <span>Posdoctoral Scientist, UNC</span>
+          </header>
+
+          <p>I was familiar with the concept of sponsored research, but as a new investigator didn't know how to go about finding partners that might be interested in supporting my research. Halo is making what has been a very opaque and mysterious process much more accessible and approachable for scientists.</p>
+        </div>
+      </div>
+
+      <!-- <div class="carousel-item">
+        <div>
+          <i class="icon-left-quote-blue"></i>
+          <%= image_tag('headshot1.png', alt: 'headshot', class: 'headshot') %>
+
+          <header>
+            <h4>Daniel Lemm, PhD</h4>
+            <span>Assistant Scientist, University of Idaho</span>
+          </header>
+          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Ipsum quia dolor sit amet, consectetur.</p>
+        </div>
+      </div> -->
+    </div>
+  </div>
+
+  <div id="scientists-carousel-dots" class="carousel-dots-container blue"/>
+</section>
+
+<!-- Partners review section -->
+
+<section class="partners green">
+  <div class="container">
+    <h3>What Partners Are Saying</h3>
+
+    <div class="carousel slide">
+      <div class="carousel-item">
+        <div>
+          <i class="icon-left-quote-green"></i>
+          <a href="https://www.brookings.edu/blog/metropolitan-revolution/2016/06/07/technology-transfer-2-0-finding-economic-value-in-university-rd/" target="_blank">
+            <%= image_tag('headshots/scott-andes.png', alt: 'headshot', class: 'headshot') %>
+          </a>
+          <header>
+            <h4>Scott Andes</h4>
+            <span>Brookings Institute</span>
+          </header>
+
+          <p>What is constraining the successful commercialization of research is not the quality of the research, but rather university relationships with firms.</p>
+        </div>
+      </div>
+
+      <div class="carousel-item">
+        <div>
+          <i class="icon-left-quote-green"></i>
+          <a href="https://www.linkedin.com/in/kenbahk/" target="_blank">
+            <%= image_tag('headshots/ken-bahk.png', alt: 'headshot', class: 'headshot') %>
+          </a>
+          <header>
+            <h4>Ken Bahk</h4>
+            <span>Collaborative Science Ventures</span>
+          </header>
+
+          <p>Halo enables the efficient connection of scientists and partners to catalyze collaboration and progress at a critical stage.</p>
+        </div>
+      </div>
+
+      <!-- <div class="carousel-item">
+        <div>
+          <i class="icon-left-quote-green"></i>
+          <%= image_tag('headshot1.png', alt: 'headshot', class: 'headshot') %>
+          <header>
+            <h4>Tom Heyman</h4>
+            <span>Johnson & Johnson Innovation</span>
+          </header>
+          <p>In today's world, trying to get access to external innovation is extremely important to stay competitive</p>
+        </div>
+      </div> -->
+    </div>
+  </div>
+  <div id="partners-carousel-dots" class="carousel-dots-container green"/>
+</section>
+
+<section class="learn-more">
+  <div class="container">
+    <h3>Join Halo and help advance today's most promising discoveries</h3>
+
+    <ul>
+      <li>
+        <i class="icon-science"></i>
+        <h4>For scientists</h4>
+        <span>I work in a lab</span>
+        <%= link_to 'Learn more', '/register', class: 'btn' %>
+      </li>
+      <li>
+        <i class="icon-university"></i>
+        <h4>For universities</h4>
+        <span>I work with faculty</span>
+        <%= link_to 'Learn more', '/universities/register', class: 'btn' %>
+      </li>
+      <li>
+        <i class="icon-drug"></i>
+        <h4>For partners</h4>
+        <span>I sponsor research</span>
+        <%= link_to 'Learn more', '/partners/register', class: 'btn' %>
+      </li>
+    </ul>
+
+  </div>
+</section>

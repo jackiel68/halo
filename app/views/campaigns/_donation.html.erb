@@ -1,0 +1,92 @@
+<div class="well stats well-wrapper">
+  <% if @campaign.current? %>
+    <%
+      milestones = @campaign.milestones
+      current_milestone = milestones[1]
+    %>
+
+    <section class="padded donate-section">
+      <div class="donate-section__main-wrapper">
+        <% milestones.each do |milestone| %>
+          <div
+            class="donate-section__main <%= milestone[:current] ? 'active' : '' %>"
+            data-position="<%= milestone[:position] %>"
+          >
+            <div class="donate-section__title">
+              <h6><%= funding_status_header_for(milestone) %></h6>
+              <h5>Milestone <%= milestone[:position] %></h5>
+            </div>
+
+            <span
+              class="circle-progress"
+              data-value="<%= milestone[:current_funds] / milestone[:goal_progress_display].to_f %>"
+            >
+              <div class="donate-section__funded absolute-center">
+                <h5><%= number_to_currency(milestone[:current_funds], precision: 0) %></h5>
+                <span>Funded</span>
+              </div>
+            </span>
+          </div>
+        <% end %>
+      </div>
+
+      <div class="donate-section__timeline-wrapper">
+        <h6>Milestones to Achieve Goal</h6>
+
+        <div class="donate-section__timeline">
+          <% milestones.each do |milestone| %>
+            <span
+              class="circle-progress circle-progress-timeline <%= milestone[:current] ? 'active inprogress' : '' %>"
+              data-position="<%= milestone[:position] %>"
+              data-value="<%= milestone[:current_funds] / milestone[:goal_progress_display].to_f %>"
+              data-thickness="6">
+              <span class="absolute-center"><%= milestone[:position] %></span>
+            </span>
+
+            <% unless milestone == milestones.last %>
+              <span class="circle-progress-connector <%= timeline_connector_class_for(milestone) %>">
+                <span><%= milestone[:project_duration] %>months</span>
+              </span>
+            <% end %>
+          <% end %>
+        </div>
+      </div>
+
+      <!-- Route to payment page if sign in else stay on campaign -->
+      <% if current_user %>
+        <%= link_to(new_campaign_donation_path(@campaign), class: 'btn btn-secondary btn-lg donate-auth-link') do %>
+          Donate
+          <span class="icon-circled-arrow-right icon-inline"></span>
+        <% end %>
+      <% else %>
+        <% session[:previous_url] = request.fullpath %>
+        <%= link_to '#', class: 'btn btn-secondary btn-lg donate-auth-link', :remote => true do %>
+            Donate
+          <span class="icon-circled-arrow-right icon-inline"></span>
+        <% end %>
+      <% end %>
+
+      <div class="follow-container">
+        <h6>Follow campaign and track its progress</h6>
+        
+       <%= render partial: 'follow_form' %>
+      </div>
+  </section>
+ <% end %>
+</div>
+
+<script>
+  $(document).ready(function() {
+    $('.donate-auth-link').click(function(){
+      $('#sign-up').modal('show');
+
+      // hide the close button
+      $('.close-auth-modal').hide();
+
+      // don't allow the modal to hide
+      $('#sign-up').on('hide.bs.modal', function(e) {
+        return false;
+      });
+    });
+  });
+</script>

@@ -1,0 +1,1254 @@
+
+Rank;Global Rank;Institution;Country;Sector
+1;7;National Institutes of Health *;USA;Health
+2;22;Institut National de la Sante et de la Recherche Medicale *;FRA;Health
+3;24;Howard Hughes Medical Institute *;USA;Health
+4;25;Veterans Affairs Medical Centers *;USA;Health
+5;26;American Cancer Society;USA;Health
+6;31;Whitehead Institute for Biomedical Research;USA;Health
+7;35;Broad Institute of MIT and Harvard;USA;Health
+8;40;Massachusetts General Hospital;USA;Health
+9;50;Brigham and Women's Hospital;USA;Health
+10;56;Ragon Institute of MGH, MIT and Harvard;USA;Health
+11;61;Assistance Publique Hopitaux de Paris *;FRA;Health
+12;65;Scripps Research Institute;USA;Health
+13;68;Johns Hopkins Medicine;USA;Health
+14;71;Dana Farber Cancer Institute ;USA;Health
+15;73;Mayo Clinic *;USA;Health
+16;77;Medical Research Council;GBR;Health
+17;95;Memorial Sloan-Kettering Cancer Center;USA;Health
+17;95;J. David Gladstone Institutes;USA;Health
+18;96;University of Texas M.D. Anderson Cancer Center ;USA;Health
+19;104;National Cancer Institute;USA;Health
+20;107;Stanford Medicine;USA;Health
+21;108;La Jolla Institute for Allergy & Immunology;USA;Health
+22;109;Cold Spring Harbor Laboratory;USA;Health
+23;110;University of Pennsylvania Health System;USA;Health
+24;118;Yale University Health & Medicine;USA;Health
+25;121;Wellcome Trust Sanger Institute;GBR;Health
+26;123;National Institute of Allergy and Infectious Diseases;USA;Health
+27;131;Mount Sinai Health System *;USA;Health
+28;135;UCLA Health System;USA;Health
+29;137;Duke Medicine;USA;Health
+30;143;Cancer Research UK;GBR;Health
+31;152;Ludwig Institute for Cancer Research *;USA;Health
+32;155;Washington University Medical Center ;USA;Health
+33;157;Children's Hospital Boston  *;USA;Health
+34;159;Wistar Institute;USA;Health
+35;164;National Institute of Biomedical Imaging and Bioengineering;USA;Health
+35;164;The Buck Institute for Research on Aging;USA;Health
+36;165;Columbia University Medical Center;USA;Health
+37;168;Wellcome Trust;GBR;Health
+38;176;Salk Institute for Biological Studies;USA;Health
+39;185;National Library of Medicine;USA;Health
+40;190;Translational Genomics Research Institute;USA;Health
+41;192;NYU Langone Medical Center;USA;Health
+41;192;Sarah Cannon Research Institute;USA;Health
+42;193;Vanderbilt University Medical Center;USA;Health
+43;195;Fred Hutchinson Cancer Research Center;USA;Health
+44;196;UCSF Helen Diller Family Comprehensive Cancer Center;USA;Health
+44;196;Academic Medical Center;NLD;Health
+45;197;Erasmus Medical Center;NLD;Health
+46;204;CareGroup Healthcare System *;USA;Health
+47;207;University of Colorado Cancer Center;USA;Health
+48;213;Centers for Disease Control and Prevention;USA;Health
+49;215;Institute of Cancer Research;GBR;Health
+50;216;Beth Israel Deaconess Medical Center;USA;Health
+51;221;Woodruff Health Sciences Center;USA;Health
+51;221;National Institute of Arthritis and Musculoskeletal and Skin Diseases;USA;Health
+52;231;University Health Network *;CAN;Health
+53;237;Cleveland Clinic *;USA;Health
+53;237;University Medical Center Utrecht;NLD;Health
+54;238;Charite - Universitatsmedizin Berlin *;DEU;Health
+54;238;University of Michigan Health System;USA;Health
+55;239;Leiden University Medical Center;NLD;Health
+55;239;National Human Genome Research Institute;USA;Health
+56;242;Copenhagen University Hospital;DNK;Health
+57;246;OHSU Knight Cancer Institute;USA;Health
+58;254;New York Blood Center;USA;Health
+58;254;Walter and Eliza Hall Institute of Medical Research;AUS;Health
+59;263;Institut Pasteur de Paris *;FRA;Health
+60;266;St. Jude Children's Research Hospital;USA;Health
+61;271;Northwestern Medicine;USA;Health
+62;273;UC San Diego Health System;USA;Health
+63;274;Radboud University Nijmegen Medical Centre;NLD;Health
+64;278;Institut Gustave Roussy;FRA;Health
+65;285;VU University Medical Center;NLD;Health
+66;290;Queensland Institute of Medical Research;AUS;Health
+66;290;National Institute of Diabetes and Digestive and Kidney Diseases;USA;Health
+67;293;National Heart, Lung and Blood Institute;USA;Health
+68;296;Centro Nacional de Investigaciones Oncologicas;ESP;Health
+69;299;Fondazione IFOM Istituto Firc di Oncologia Molecolare;ITA;Health
+70;300;University Medical Center Groningen;NLD;Health
+71;302;University of North Carolina Health Care;USA;Health
+72;305;Boston University Medical Campus ;USA;Health
+73;308;City of Hope;USA;Health
+74;312;Barbara Ann Karmanos Cancer Institute;USA;Health
+75;314;Joslin Diabetes Center;USA;Health
+76;316;Friedrich Miescher Institute for Biomedical Research;CHE;Health
+77;320;Jackson Laboratory;USA;Health
+78;324;National University Cancer Institute;SGP;Health
+79;328;University of Southern California Health Sciences Campus;USA;Health
+80;329;National Eye Institute;USA;Health
+81;330;Institut Curie *;FRA;Health
+82;333;British Columbia Cancer Agency;CAN;Health
+83;334;Montefiore Medical Center *;USA;Health
+83;334;J. Craig Venter Institute;USA;Health
+84;335;National Institute on Aging;USA;Health
+84;335;Peter Maccallum Cancer Centre;AUS;Health
+85;340;University of Miami Health System;USA;Health
+86;344;KentuckyOne Health;USA;Health
+87;346;International Agency for Research on Cancer;FRA;Health
+88;348;Houston Methodist;USA;Health
+89;349;Garvan Institute of Medical Research;AUS;Health
+90;350;Robert H. Lurie Comprehensive Cancer Center;USA;Health
+90;350;Cincinnati Children's Hospital Medical Center;USA;Health
+90;350;Centro de Regulacion Genomica;ESP;Health
+91;353;Children's Hospital of Philadelphia;USA;Health
+92;355;Karolinska University Hospital;SWE;Health
+93;356;Institut de Recerca Biomedica Barcelona;ESP;Health
+94;358;The Royal Marsden NHS Foundation Trust;GBR;Health
+94;358;H. Lee Moffitt Cancer Center and Research Institute;USA;Health
+95;359;Roswell Park Cancer Institute;USA;Health
+96;360;University of Pittsburgh Medical Center ;USA;Health
+96;360;National Institute of Dental and Craniofacial Research;USA;Health
+97;361;University of Rochester Medical Center;USA;Health
+98;363;Institute for Molecular Medicine;FIN;Health
+99;366;Netherlands Cancer Institute - Antoni van Leeuwenhoek Hospital;NLD;Health
+100;368;Oslo University Hospital;NOR;Health
+101;372;Ohio State University Wexner Medical Center;USA;Health
+102;373;Princess Margaret Cancer Centre;CAN;Health
+103;374;Rutgers Cancer Institute of New Jersey;USA;Health
+104;375;World Health Organization Switzerland;CHE;Health
+105;376;Seattle Cancer Care Alliance ;USA;Health
+106;377;Virginia Mason Medical Center ;USA;Health
+107;380;Guys & Saint Thomas NHS Foundation Trust;GBR;Health
+108;382;Cambridge University Hospitals NHS Foundation Trust;GBR;Health
+108;382;Fox Chase Cancer Center;USA;Health
+109;383;University Hospitals Leuven;BEL;Health
+110;384;Hospital Clinic i Provincial de Barcelona;ESP;Health
+111;385;Oxford University Hospitals NHS Trust;GBR;Health
+111;385;University of Washington Medicine ;USA;Health
+111;385;Cedars-Sinai Medical Center ;USA;Health
+112;389;Hospital for Sick Children;CAN;Health
+113;390;University of Florida Health Science Center;USA;Health
+114;391;Oklahoma Medical Research Foundation;USA;Health
+115;395;Temple Health;USA;Health
+116;396;University of Utah Health Care;USA;Health
+117;398;Institut Pasteur de Lille *;FRA;Health
+118;399;Pennington Biomedical Research Center;USA;Health
+118;399;UC Davis Health System;USA;Health
+119;400;Institut d'Investigacions Biomediques August Pi i Sunyer;ESP;Health
+120;401;Centro de Investigacion Cooperativa Biogune;ESP;Health
+121;402;Universitatsspital Zurich;CHE;Health
+121;402;Universitatsklinikum Hamburg Eppendorf;DEU;Health
+122;403;Wake Forest University Baptist Medical Center;USA;Health
+123;406;Toronto General Research Institute;CAN;Health
+124;407;Mount Sinai Hospital Joseph and Wolf Lebovic Health Complex;CAN;Health
+124;407;National Institute on Alcohol Abuse and Alcoholism;USA;Health
+125;412;National Institute on Drug Abuse;USA;Health
+126;416;National Institute of Health Clinical Center;USA;Health
+127;420;Universitatsklinikum Heidelberg;DEU;Health
+128;421;National Cancer Centre;SGP;Health
+129;423;University of Hawai'i Cancer Center;USA;Health
+130;427;BloodCenter of Wisconsin;USA;Health
+131;429;National Institute of Neurological Disorders and Stroke;USA;Health
+132;434;Instituto de Salud Carlos III;ESP;Health
+132;434;Iowa City VA Health Care System;USA;Health
+132;434;Fondazione IRCCS San Raffaele del Monte Tabor;ITA;Health
+133;435;Helsinki University Central Hospital;FIN;Health
+133;435;National Institute of Child Health and Human Development;USA;Health
+134;436;Centro de Investigacion Biomedica en Red sobre Enfermedades Neurodegenerativas *;ESP;Health
+135;441;Universitatsspital Basel;CHE;Health
+136;443;Baylor Scott & White Health;USA;Health
+137;445;Centro de Investigacion Biomedica en Red de Enfermedades Hepaticas y Digestivas *;ESP;Health
+138;446;University of South Alabama Health System;USA;Health
+139;447;Kennedy Krieger Institute;USA;Health
+140;448;University of Iowa Health Care;USA;Health
+141;450;Manchester Academic Health Science Centre;GBR;Health
+142;451;Istituto Europeo di Oncologia;ITA;Health
+142;451;University of Wisconsin Health;USA;Health
+143;452;Athinoula A. Martinos Center for Biomedical Imaging;USA;Health
+143;452;Forsyth Institute;USA;Health
+144;453;Skane University Hospital;SWE;Health
+144;453;Universitatsklinikum Freiburg;DEU;Health
+145;454;National Institute of Environmental Health Sciences;USA;Health
+145;454;National Cancer Center;JPN;Health
+146;455;Imperial College Healthcare NHS Trust;GBR;Health
+146;455;Center for Disease Control and Prevention China;CHN;Health
+146;455;Stowers Institute for Medical Research;USA;Health
+146;455;Texas Children's Hospital ;USA;Health
+147;456;National Institute of Mental Health;USA;Health
+147;456;Aarhus University Hospital;DNK;Health
+148;457;Emory Healthcare;USA;Health
+149;461;Centro de Investigacion Principe Felipe;ESP;Health
+150;464;University of Cincinnati Medical Center;USA;Health
+150;464;Universitatsklinikum Bonn;DEU;Health
+151;465;Centro Nacional de Investigaciones Cardiovasculares;ESP;Health
+151;465;National Health Research Institutes;TWN;Health
+152;468;National Jewish Health;USA;Health
+152;468;Centre Hospitalier Universitaire Vaudois ;CHE;Health
+152;468;U.S. Department of Health & Human Services;USA;Health
+152;468;Istituto Nazionale dei Tumori Fondazione Giovanni Pascale IRCCS;ITA;Health
+153;469;VA Palo Alto Health Care System;USA;Health
+154;471;University Hospital Maastricht;NLD;Health
+155;473;Statens Serum Institut;DNK;Health
+155;473;Istituto Oncologico Veneto;ITA;Health
+156;474;National Taiwan University Hospital;TWN;Health
+156;474;VA San Diego Healthcare System;USA;Health
+157;476;Centro de Investigacion Biomedica en Red sobre Enfermedades Neurodegenerativas, Madrid;ESP;Health
+157;476;University of Virginia Health System;USA;Health
+158;477;Singapore Eye Research Institute;SGP;Health
+159;478;Samsung Medical Center Seoul;KOR;Health
+159;478;West China Hospital;CHN;Health
+159;478;Tufts Medical Center;USA;Health
+160;479;Universitatsklinikum Essen;DEU;Health
+161;480;Yonsei University Health System;KOR;Health
+162;481;Hospital Universitari Vall d'Hebron;ESP;Health
+162;481;VCU Medical Center;USA;Health
+163;483;Population Health Research Institute;CAN;Health
+163;483;Georgetown University Medical Center;USA;Health
+163;483;Baker IDI Heart and Diabetes Institute;AUS;Health
+164;485;VA NY Harbor Healthcare System;USA;Health
+165;486;Chang Gung Memorial Hospital, Taipei *;TWN;Health
+165;486;Rush University Medical Center;USA;Health
+166;487;The Christie NHS Trust;GBR;Health
+166;487;Institut Catala d'Oncologia, Hospitalet de Llobregat;ESP;Health
+167;488;The Arizona Cancer Center;USA;Health
+168;489;San Francisco VA Medical Center;USA;Health
+168;489;Sun Yat-sen University Cancer Center;CHN;Health
+168;489;Fundacao Oswaldo Cruz *;BRA;Health
+168;489;Magee-Womens Research Institute;USA;Health
+169;490;McGill University Health Centre;CAN;Health
+169;490;Singapore National Eye Centre *;SGP;Health
+169;490;Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina *;ESP;Health
+169;490;Klinikum der Johannes Gutenberg Universitat Mainz;DEU;Health
+169;490;Jesse Brown VA Medical Center;USA;Health
+170;491;Institut d'Investigacio Biomedica de Bellvitge;ESP;Health
+171;493;National Institute of Public Health of Japan;JPN;Health
+171;493;Aichi Cancer Center Research;JPN;Health
+171;493;University College London Hospital NHS Trust;GBR;Health
+172;495;Centre for Eye Research Australia;AUS;Health
+173;496;University Hospital Southampton NHS Foundation Trust;GBR;Health
+174;497;Florey Neuroscience Institutes;AUS;Health
+175;498;Nationwide Children's Hospital ;USA;Health
+176;499;University of Kansas Medical Center;USA;Health
+177;500;Moorfields Eye Hospital NHS Trust;GBR;Health
+177;500;Hospital for Tropical Diseases *;VNM;Health
+177;500;Universitatsklinikum Schleswig-Holstein;DEU;Health
+178;501;Bernhard Nocht Institut fur Tropenmedizin;DEU;Health
+178;501;Hadassah Medical Center;ISR;Health
+179;502;Klinikum Rechts der Isar der Technische Universitat Munchen;DEU;Health
+179;502;Naval Medical Research Center;USA;Health
+180;504;National Institute of Immunology;IND;Health
+180;504;Istituto Nazionale Tumori Regina Elena;ITA;Health
+181;505;The North Shore-LIJ Health System *;USA;Health
+181;505;Istituti Fisioterapici Ospitalieri IRCCS *;ITA;Health
+182;506;Kings College Hospital NHS Foundation Trust;GBR;Health
+182;506;Massachusetts Eye and Ear Infirmary ;USA;Health
+182;506;Diakonhjemmet Hospital;NOR;Health
+182;506;Children’s National Health System;USA;Health
+183;507;Partners HealthCare System;USA;Health
+183;507;California Pacific Medical Center;USA;Health
+183;507;Doheny Eye Institute;USA;Health
+183;507;University of Tennessee Health Science Center;USA;Health
+184;508;Ottawa Hospital Research Institute;CAN;Health
+184;508;Wadsworth Center;USA;Health
+184;508;Toronto General Hospital;CAN;Health
+184;508;Universitatsklinikum Munster;DEU;Health
+184;508;University of Kentucky HealthCare;USA;Health
+185;509;Royal Victorian Eye and Ear Hospital ;AUS;Health
+185;509;Hopitaux Universitaires de Geneve;CHE;Health
+185;509;University of California, Irvine Healthcare;USA;Health
+186;510;Institut de Recerca Hospital Universitari Vall d'Hebron;ESP;Health
+186;510;National Institute of Genetics;JPN;Health
+187;511;Institut Hospital del Mar d’Investigacions Mediques;ESP;Health
+188;512;Royal Brompton and Harefield NHS Foundation Trust;GBR;Health
+188;512;Haukeland University Hospital;NOR;Health
+189;513;Public Health Agency of Canada;CAN;Health
+189;513;Hunter Holmes McGuire VA Medical Center;USA;Health
+189;513;Sanquin Blood Supply;NLD;Health
+189;513;Tennessee Valley Healthcare System;USA;Health
+190;514;Istituto Clinico Humanitas;ITA;Health
+190;514;Fondazione IRCCS Istituto Nazionale Tumori di Milano;ITA;Health
+190;514;Sir Mortimer B. Davis Jewish General Hospital;CAN;Health
+191;516;Seattle Children's Hospital;USA;Health
+192;517;Tokyo Metropolitan Institute of Medical Science;JPN;Health
+192;517;Portland VA Medical Center;USA;Health
+192;517;The Leeds Teaching Hospitals NHS Trust;GBR;Health
+192;517;Institut Paoli Calmettes;FRA;Health
+193;518;Istituto Dermopatico Dell'Immacolata IRCCS;ITA;Health
+193;518;South Texas Veterans Health Care System;USA;Health
+194;519;The General Hospital of the People's Liberation Army;CHN;Health
+195;520;The Ottawa Hospital  *;CAN;Health
+196;521;Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina, Barcelona;ESP;Health
+196;521;Centro de Investigacion Biomedica en Red de Enfermedades Raras *;ESP;Health
+197;522;University of New Mexico Health Sciences Center;USA;Health
+197;522;Ministry of Health;CHN;Health
+197;522;St. Michael's Hospital Toronto;CAN;Health
+198;523;Assistance Publique Hopitaux de Marseille *;FRA;Health
+199;525;Henry Ford Health System;USA;Health
+199;525;Universitatsklinikum Tubingen;DEU;Health
+199;525;National Hospital for Tropical Diseases *;VNM;Health
+200;526;Klinikum Ludwig Maximilians Universitat Munchen;DEU;Health
+201;527;Academy of Military Medical Sciences *;CHN;Health
+201;527;National University Health System *;SGP;Health
+201;527;Universitatsklinikum Gottingen;DEU;Health
+201;527;Clinica Universidad de Navarra;ESP;Health
+202;528;Los Angeles Biomedical Research Institute;USA;Health
+202;528;Folkhalsan;FIN;Health
+203;529;NHS Tayside;GBR;Health
+204;530;Blood Systems Research Institute;USA;Health
+204;530;Chaim Sheba Medical Center;ISR;Health
+205;531;Vejle Hospital;DNK;Health
+205;531;Asan Medical Center Seoul *;KOR;Health
+206;532;Universitatsklinikum Wurzburg;DEU;Health
+206;532;Centro de Investigacion Biomedica en Red de Enfermedades Raras, Madrid;ESP;Health
+207;533;Centre Hospitalier Universitaire de Nantes;FRA;Health
+207;533;National Cancer Center;KOR;Health
+207;533;Hospices Civils de Lyon *;FRA;Health
+207;533;Azienda Ospedaliera Universitaria Senese;ITA;Health
+208;534;Mario Negri Istituto di Ricerche Farmacologiche;ITA;Health
+208;534;The First Affiliated Hospital of Zhejiang University;CHN;Health
+209;535;NHS Lothian;GBR;Health
+209;535;Istituto Nazionale Malattie Infettive Lazzaro Spallanzani IRCCS;ITA;Health
+210;536;Universitatsklinikum Carl Gustav Carus Dresden;DEU;Health
+211;538;Ghent University Hospital;BEL;Health
+211;538;Centro de Investigacion Biomedica en Red de Diabetes y Enfermedades Metabolicas Asociadas *;ESP;Health
+211;538;Nathan S. Kline Institute for Psychiatric Research;USA;Health
+211;538;Group Health Cooperative;USA;Health
+212;539;Fondazione Santa Lucia IRCCS;ITA;Health
+212;539;Atlanta VA Medical Center;USA;Health
+212;539;Centre Hospitalier Universitaire de Quebec;CAN;Health
+212;539;Istituto Superiore di Sanita;ITA;Health
+212;539;University Hospital of South Manchester NHS Foundation Trust;GBR;Health
+213;540;China Medical University Hospital;TWN;Health
+213;540;Kaiser Permanente, Oakland *;USA;Health
+214;541;Hospital Universitari Germans Trias i Pujol;ESP;Health
+214;541;Universitatsklinikum Koln;DEU;Health
+214;541;University of North Texas Health Science Center;USA;Health
+215;542;University Hospital of Bern;CHE;Health
+215;542;Burnet Institute;AUS;Health
+215;542;Instituto Nacional de Medicina Genomica;MEX;Health
+216;543;Taipei Veterans General Hospital;TWN;Health
+217;544;Cancer Council Victoria;AUS;Health
+217;544;Institut Universitaire de Cardiologie et de Pneumologie de Quebec;CAN;Health
+217;544;Instituto de Salud Global de Barcelona;ESP;Health
+217;544;Biodonostia Institute;ESP;Health
+217;544;Servicio Andaluz de Salud Sevilla *;ESP;Health
+218;545;Landspitali National University Hospital;ISL;Health
+219;546;Odense University Hospital;DNK;Health
+219;546;USF Health;USA;Health
+219;546;Nottingham University Hospitals NHS Trust;GBR;Health
+220;547;Danish Cancer Society;DNK;Health
+221;548;Universitatsklinikum Jena;DEU;Health
+221;548;Penn State Milton S. Hershey Medical Center;USA;Health
+221;548;Fondazione IRCCS Policlinico San Matteo ;ITA;Health
+222;549;Universitatsklinikum Ulm;DEU;Health
+222;549;Dartmouth-Hitchcock Health Care System;USA;Health
+223;550;National Institute for Public Health and the Environment;NLD;Health
+223;550;Sunnybrook Health Sciences Centre;CAN;Health
+223;550;Lawson Health Research Institute;CAN;Health
+223;550;Japanese Foundation for Cancer Research;JPN;Health
+224;551;Shanghai Tenth People's Hospital;CHN;Health
+225;552;University of Chicago Medical Center ;USA;Health
+225;552;New York Presbyterian Hospital;USA;Health
+225;552;Royal Melbourne Hospital;AUS;Health
+225;552;Centre Leon-Berard;FRA;Health
+226;553;New York State Department of Health *;USA;Health
+226;553;University Hospitals of Cleveland  *;USA;Health
+226;553;University Hospital Antwerp;BEL;Health
+227;554;Universitatsklinikum Erlangen;DEU;Health
+227;554;IRCCS San Raffaele Pisana;ITA;Health
+227;554;Shanghai Cancer Center Fudan University;CHN;Health
+227;554;National Defense Medical Center;TWN;Health
+228;555;Miami VA Healthcare System;USA;Health
+228;555;Alabama VA Medical Center;USA;Health
+229;556;Hospital de Cancer de Barretos;BRA;Health
+229;556;Scripps Health;USA;Health
+229;556;Murdoch Children's Research Institute;AUS;Health
+230;557;Tel Aviv Sourasky Medical Center;ISR;Health
+230;557;Renji Hospital;CHN;Health
+231;558;Tartu University Hospital;EST;Health
+231;558;Victor Chang Cardiac Research Institute;AUS;Health
+231;558;Klinikum und Fachbereich Medizin Johann Wolfgang Goethe-Universitat Frankfurt am Main;DEU;Health
+232;559;McLean Hospital;USA;Health
+232;559;Fondazione IRCCS Ospedale Maggiore Policlinico, Mangiagalli e Regina Elena;ITA;Health
+233;560;Shanghai Public Health Clinical Center;CHN;Health
+233;560;Kenya Medical Research Institute;KEN;Health
+233;560;First Affiliated Jiangsu Province Hospital with Nanjing Medical University;CHN;Health
+233;560;Louis Stokes Cleveland VA Medical Center;USA;Health
+234;561;Shandong University Qilu Hospital;CHN;Health
+234;561;Sahlgrenska University Hospital;SWE;Health
+234;561;Centre Hospitalier Universitaire de Toulouse *;FRA;Health
+234;561; Centre Hospitalier de l'Universite de Montreal;CAN;Health
+234;561;Istituto Nazionale per la Ricerca sul Cancro IRCCS;ITA;Health
+235;562;James J. Peters VA Medical Center;USA;Health
+236;563;Harry Perkins Institute of Medical Research;AUS;Health
+236;563;Indian Council of Medical Research *;IND;Health
+236;563;Fundacio Privada Institut d'Investigacio Biomedica de Girona Dr. Josep Trueta ;ESP;Health
+236;563;VA Greater Los Angeles Healthcare System;USA;Health
+237;564;Tampere University Hospital;FIN;Health
+237;564;Instituto de Investigacion Sanitaria FJD, UAM;ESP;Health
+237;564;Royal Free London NHS Foundation Trust;GBR;Health
+237;564;VA Eastern Colorado Health Care System;USA;Health
+238;565;Jinling Hospital;CHN;Health
+238;565;VA Boston Healthcare System;USA;Health
+238;565;Centre Hospitalier Universitaire de Montpellier *;FRA;Health
+238;565;Tianjin Medical University Cancer Institute and Hospital;CHN;Health
+239;566;San Francisco General Hospital;USA;Health
+239;566;Indiana University Health;USA;Health
+239;566;Kuopio University Hospital;FIN;Health
+240;567;Memphis VA Medical Center;USA;Health
+240;567;Cardiovascular Research Foundation;USA;Health
+240;567;Hopital Erasme;BEL;Health
+241;568;Saint Louis University Care;USA;Health
+242;569;Universitatsklinikums Aachen;DEU;Health
+243;570;Arizona Health Sciences Center University of Arizona Tucson;USA;Health
+244;571;Xijing Hospital;CHN;Health
+244;571;VA Puget Sound Health Care System;USA;Health
+244;571;Charite Campus Virchow Klinikum;DEU;Health
+245;572;Universitatsklinikum Regensburg;DEU;Health
+245;572;Maria Sklodowska-Curie Memorial Institute of Oncology;POL;Health
+246;573;National Heart Centre Singapore;SGP;Health
+246;573;Instituto Ramon y Cajal de Investigacion Sanitaria;ESP;Health
+247;574;Seoul National University Hospital *;KOR;Health
+247;574;Orebro University Hospital;SWE;Health
+247;574;Toronto Western Hospital;CAN;Health
+247;574;Sanidad de Castilla y Leon Salamanca;ESP;Health
+247;574;Cross Cancer Institute;CAN;Health
+248;575;Montreal Heart Institute;CAN;Health
+248;575;National Institute for Health and Welfare;FIN;Health
+248;575;National Institute of Health Sciences;JPN;Health
+248;575;Tangdu Hospital;CHN;Health
+248;575;Austin Health;AUS;Health
+248;575;Sanidad de Castilla y Leon de Valladolid *;ESP;Health
+249;576;Vancouver Coastal Health;CAN;Health
+249;576;Affiliated Jiangsu Cancer Hospital;CHN;Health
+249;576;Huashan Hospital;CHN;Health
+249;576;Centre for Health and Population Research;BGD;Health
+250;577;University of Illinois, College of Medicine at Chicago;USA;Health
+250;577;Central Manchester University Hospitals NHS Foundation Trust;GBR;Health
+250;577;National Center of Neurology and Psychiatry;JPN;Health
+251;578; Instituto de Investigacion Sanitaria del Hospital Universitario de La Princesa;ESP;Health
+251;578;Wonkwang University School of Medicine & Hospital;KOR;Health
+251;578;VA Northern California Health Care System;USA;Health
+251;578;Centro de Investigacion Biomedica en Red de Enfermedades Raras, Barcelona;ESP;Health
+252;579;Great Ormond Street Hospital for Children NHS Trust;GBR;Health
+252;579;VA Ann Arbor Healthcare System;USA;Health
+252;579;Rhode Island Hospital ;USA;Health
+252;579;University of Louisville Health Sciences Center;USA;Health
+252;579;Centro de Investigacion Biomedica en Red de Enfermedades Respiratorias *;ESP;Health
+252;579;Fondazione IRCCS Istituto Neurologico Carlo Besta;ITA;Health
+253;580;California Department of Public Health;USA;Health
+253;580;VA Maryland Health Care System;USA;Health
+253;580;Institute of Oncology Ljubljana;SVN;Health
+254;581;Centro de Investigacion Biomedica en Red de Epidemiologia y Salud Publica *;ESP;Health
+254;581;National Center for Global Health and Medicine;JPN;Health
+254;581;VA Salt Lake City Health Care System;USA;Health
+254;581;Tom Baker Cancer Centre;CAN;Health
+254;581;Prince of Wales Hospital;HKG;Health
+254;581;Hamilton Health Sciences;CAN;Health
+254;581;Children's Hospital Los Angeles ;USA;Health
+254;581;Westmead Hospital ;AUS;Health
+255;582;Ruijin Hospital;CHN;Health
+255;582;Instituto de Investigacion Sanitaria La Fe;ESP;Health
+255;582;Chang Gung Memorial Hospital, Taoyuan;TWN;Health
+255;582;Instituto Aragones de Ciencias de la Salud;ESP;Health
+255;582;Norwegian Institute of Public Health;NOR;Health
+255;582;Rady Children's Hospital-San Diego;USA;Health
+255;582;George Washington The School of Medicine & Health Sciences;USA;Health
+256;584;Oulu University Hospital;FIN;Health
+256;584;Centre Hospitalier Regional Universitaire de Lille *;FRA;Health
+256;584;Hospital del Mar;ESP;Health
+256;584;Chung Shan Medical University Hospital;TWN;Health
+256;584;George Institute for International Health;AUS;Health
+257;585;Harbor–UCLA Medical Center;USA;Health
+257;585;Istituto Giannina Gaslini Ospedale Pediatrico IRCCS;ITA;Health
+257;585;Centro de Investigacion Biomedica en Red Fisiopatologia de la Obesidad y Nutricion *;ESP;Health
+257;585;First Affiliated Southwest Hospital to Third Military Medical University;CHN;Health
+257;585;Royal Prince Alfred Hospital ;AUS;Health
+258;586;Edward Hines VA Hospital ;USA;Health
+258;586;Uppsala University Hospital;SWE;Health
+258;586;Wuhan Tongji Hospital;CHN;Health
+258;586;Second Affiliated Xinqiao Hospital to Third Military Medical University;CHN;Health
+259;587;Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina, Madrid;ESP;Health
+259;587;Xiangya Hospital Affiliated to Central South University;CHN;Health
+259;587;Michael E. DeBakey VA Medical Center;USA;Health
+260;588;Children's Healthcare of Atlanta ;USA;Health
+260;588;University of Missouri Health Care ;USA;Health
+260;588;James A. Haley Veterans' Hospital;USA;Health
+261;589;Bradford Teaching Hospitals NHS Foundation Trust;GBR;Health
+261;589;Korea Institute of Radiological and Medical Sciences;KOR;Health
+261;589;Loyola Medicine;USA;Health
+262;590;Robert Bosch Krankenhaus, Germany;DEU;Health
+262;590;Turku University Hospital;FIN;Health
+262;590;Zhongshan Hospital;CHN;Health
+262;590;Universitatsklinikum Mannheim;DEU;Health
+262;590;Robarts Research Institute;CAN;Health
+262;590;Nanfang Hospital;CHN;Health
+263;591;Wuhan Union Hospital;CHN;Health
+263;591;Blood Diseases Hospital;CHN;Health
+263;591;Centro de Investigacion Biomedica en Red Fisiopatologia de la Obesidad y Nutricion, Madrid;ESP;Health
+263;591;Richard L. Roudebush VA Medical Center;USA;Health
+264;592;Centro de Investigacion Biomedica en Red de Enfermedades Hepaticas y Digestivas, Madrid;ESP;Health
+264;592;UCSF Medical Center;USA;Health
+264;592;Rehabilitation Institute of Chicago ;USA;Health
+265;593;Albany Medical Center *;USA;Health
+265;593;Sun Yat-sen University First Hospital;CHN;Health
+265;593;National Cheng Kung University Hospital;TWN;Health
+265;593;Ralph H. Johnson VA Medical Center ;USA;Health
+265;593;Ministry of Public Health;THA;Health
+265;593;Swedish Medical Center ;USA;Health
+266;595;Centro de Investigacion Biomedica en Red de Diabetes y Enfermedades Metabolicas Asociadas, Madrid;ESP;Health
+266;595;Instituto Oswaldo Cruz;BRA;Health
+267;596;Ospedale Pediatrico Bambino Gesu;VAT;Health
+267;596;NHS Greater Glasgow and Clyde;GBR;Health
+268;597;National Institute for Medical Research;TZA;Health
+268;597;Chung-Ho Memorial Hospital;TWN;Health
+269;598;Minneapolis VA Health Care System;USA;Health
+269;598;Shanghai Changzheng Hospital;CHN;Health
+269;598;Eastern Hepatobiliary Surgery Hospital;CHN;Health
+269;598;Philadelphia VA Medical Center;USA;Health
+269;598;Institut Claudius Regaud - Centre de Lutte contre le Cancer de Toulouse;FRA;Health
+269;598;Istituti Ortopedici Rizzoli;ITA;Health
+270;599;VA Connecticut Healthcare System;USA;Health
+270;599;Third Affiliated Daping Hospital to Third Military Medical University;CHN;Health
+270;599;Alfred Health;AUS;Health
+270;599;Princess Alexandra Hospital ;AUS;Health
+270;599;Second Affiliated Hospital of Nanjing Medical University;CHN;Health
+270;599;Ann & Robert H. Lurie Children s Hospital;USA;Health
+271;600;William S. Middleton Memorial Veterans Hospital;USA;Health
+271;600;University Hospital Brussels;BEL;Health
+271;600;Policlinico Universitario Agostino Gemelli;ITA;Health
+272;601;Seoul St. Mary's Hospital;KOR;Health
+272;601;Stony Brook University Medicine;USA;Health
+272;601;Centre for Addiction and Mental Health;CAN;Health
+273;602;Centro di Riferimento Oncologico Aviano IRCCS;ITA;Health
+273;602;Centre Hospitalier Universitaire de Bordeaux;FRA;Health
+273;602;First Affiliated Hospital of China Medical University;CHN;Health
+273;602;St. Joseph's Hospital and Medical Center ;USA;Health
+274;603;Universitatsklinikum des Saarlandes;DEU;Health
+274;603;Tohoku University Hospital;JPN;Health
+274;603;Hospital de la Santa Creu i Sant Pau;ESP;Health
+274;603;Third Affiliated Hospital of Soochow University;CHN;Health
+274;603;Turku PET Centre;FIN;Health
+275;604;Hospital for Special Surgery;USA;Health
+276;605;St Vincent's Hospital Sydney;AUS;Health
+276;605;The Second Affiliated Hospital of Zhejiang University;CHN;Health
+276;605;Cancer Institute and Hospital, Chinese Academy of Medical Sciences;CHN;Health
+276;605;Istituto Neurologico Mediterraneo Neuromed IRCCS;ITA;Health
+276;605;VA Pittsburgh Healthcare System;USA;Health
+276;605;General Hospital of Tianjin Medical University;CHN;Health
+277;606;Children's Hospital of Eastern Ontario;CAN;Health
+278;607;University Hospitals Birmingham NHS Foundation Trust;GBR;Health
+278;607;Royal North Shore Hospital;AUS;Health
+278;607;University of Maryland Medical Center;USA;Health
+278;607;St. Joseph's Healthcare Hamilton;CAN;Health
+279;608;Masaryk Memorial Cancer Institute;CZE;Health
+279;608;Chang Gung Memorial Hospital, Kaohsiung;TWN;Health
+279;608;Charite Campus Benjamin Franklin;DEU;Health
+279;608;Royal Brisbane and Women's Hospital *;AUS;Health
+279;608;Queen Mary Hospital Hong Kong;HKG;Health
+279;608;Chang Gung Memorial Hospital, Chiayi;TWN;Health
+279;608;Ministerio da Saude;BRA;Health
+279;608;Central Arkansas Veterans Healthcare System;USA;Health
+280;610;Azienda Ospedaliera Careggi;ITA;Health
+280;610;Seoul National University Bundang Hospital;KOR;Health
+280;610;Shanghai East Hospital;CHN;Health
+280;610;Fondazione Don Carlo Gnocchi IRCCS;ITA;Health
+281;611;European Centre for Disease Prevention and Control;SWE;Health
+281;611;South African Medical Research Council;ZAF;Health
+281;611;Affiliated Nanjing First Hospital;CHN;Health
+281;611;Sun Yat-sen University Sixth Hospital;CHN;Health
+281;611;Shanghai First Maternity and Infant Health Hospital;CHN;Health
+282;612;Russian Academy of Medical Sciences *;RUS;Health
+282;612;Singapore General Hospital;SGP;Health
+282;612;University Hospital of Northern Norway;NOR;Health
+283;613;Fourth Hospital of Harbin Medical University;CHN;Health
+283;613;University Hospitals Leicester NHS Trust;GBR;Health
+283;613;West Virginia University Health Sciences Center;USA;Health
+283;613;University of Ottawa Heart Institute;CAN;Health
+283;613;Shanghai Sixth People's Hospital;CHN;Health
+283;613;St. James's Hospital;IRL;Health
+283;613;Hospital Universitario 12 de Octubre;ESP;Health
+284;614;Xinhua Hospital;CHN;Health
+284;614;Instituto de Investigacion Sanitaria Fundacion para la Investigacion del Hospital Clinico de Valencia - INCLIVA;ESP;Health
+285;615;Newcastle upon Tyne Hospitals NHS Foundation Trust;GBR;Health
+285;615;St. Josef-Hospital;DEU;Health
+285;615;Centre Hospitalier Universitaire de Nice *;FRA;Health
+285;615;Chonnam National University Hwasun Hospital;KOR;Health
+286;616;Azienda Ospedaliera San Gerardo Monza;ITA;Health
+286;616;Health Canada;CAN;Health
+286;616;Centro de Investigacion Biomedica en Red de Enfermedades Respiratorias, Barcelona;ESP;Health
+286;616;Asklepios Klinik St. Georg;DEU;Health
+286;616;Changhai Hospital of Shanghai;CHN;Health
+287;617;St. Olavs University Hospital;NOR;Health
+287;617;Royal Children's Hospital Melbourne;AUS;Health
+288;618;Azienda Ospedaliero Universitaria Policlinico Sant'Orsola Malpighi;ITA;Health
+288;618;The Royal Liverpool and Broadgreen University Hospitals NHS Trust;GBR;Health
+288;618;Shanghai Shuguang Hospital;CHN;Health
+288;618;Universitatsklinikum Dusseldorf;DEU;Health
+288;618;Institut de Recerca Biomedica de Lleida;ESP;Health
+288;618;Neuroscience Research Australia;AUS;Health
+289;619;Carolinas Healthcare System *;USA;Health
+289;619;Cliniques Universitaires Saint-Luc;BEL;Health
+289;619;Second Xiangya Hospital Affiliated to Central South University;CHN;Health
+289;619;First Affiliated Hospital of Xi'an Jiaotong University;CHN;Health
+289;619;St Vincent's Hospital Melbourne;AUS;Health
+289;619;Centre Hospitalier Universitaire de Grenoble;FRA;Health
+290;620;Linkoping University Hospital;SWE;Health
+290;620;OLV Hospital;BEL;Health
+290;620;Monash Medical Centre ;AUS;Health
+290;620;Kantonsspital St. Gallen;CHE;Health
+290;620;Inova Fairfax Hospital;USA;Health
+291;621;Barts and the London NHS Trust;GBR;Health
+291;621;Sir Charles Gairdner Hospital ;AUS;Health
+292;622;Sir Run Run Shaw Hospital;CHN;Health
+292;622;Azienda Sanitaria Ospedaliera Molinette San Giovanni Battista di Torino;ITA;Health
+292;622;Hospital Universitari de Bellvitge;ESP;Health
+292;622;London Health Sciences Centre;CAN;Health
+293;623;Buddhist Tzu Chi General Hospital;TWN;Health
+293;623;Shizuoka Cancer Center;JPN;Health
+293;623;Royal Adelaide Hospital ;AUS;Health
+294;624;Cancercare Manitoba;CAN;Health
+294;624;First Affiliated Hospital of Soochow University;CHN;Health
+294;624;Peking Union Medical College Hospital Beijing;CHN;Health
+294;624;Second Affiliated Hospital Harbin Medical University;CHN;Health
+294;624;Groote Schuur Hospital;ZAF;Health
+295;625;Northshore University HealthSystem;USA;Health
+295;625;Centre Hospitalier Universitaire Sainte-Justine;CAN;Health
+295;625;Centre Oscar Lambret *;FRA;Health
+295;625;Zhongshan Hospital Xiamen University;CHN;Health
+295;625;Shanghai Jiao Tong University Affiliated First People's Hospital;CHN;Health
+295;625;Hospital do Cancer A.C. Camargo;BRA;Health
+295;625;Telethon Kids Institute;AUS;Health
+295;625;Harvard Pilgrim Health Care;USA;Health
+296;626;North Bristol NHS Trust;GBR;Health
+296;626;National Research Institute for Child Health and Development;JPN;Health
+296;626;Centro de Investigacion Biomedica en Red de Enfermedades Respiratorias, Madrid;ESP;Health
+296;626;First Affiliated Hospital Harbin Medical University;CHN;Health
+296;626;Children's Hospital Colorado;USA;Health
+296;626;Istituto Auxologico Italiano IRCCS;ITA;Health
+297;627;Shandong Provincial Hospital;CHN;Health
+297;627;St. Vincent's University Hospital;IRL;Health
+297;627;National Institute of Radiological Sciences;JPN;Health
+298;628;Hospital Universitario Ramon y Cajal *;ESP;Health
+298;628;Hennepin County Medical Center;USA;Health
+298;628;Saint Luke’s Mid America Heart Institute;USA;Health
+299;629;Steno Diabetes Center;DNK;Health
+299;629;Hospital Universitari de Girona Dr. Josep Trueta;ESP;Health
+299;629;Renmin Hospital of Wuhan University;CHN;Health
+299;629;Sun Yat-sen University Second Hospital;CHN;Health
+299;629;Obstetrics and Gynecology Hospital Fudan University;CHN;Health
+299;629;Complejo Hospitalario Virgen del Rocio;ESP;Health
+300;630;Taichung Veterans General Hospital;TWN;Health
+300;630;Ospedale Casa Sollievo della Sofferenza IRCCS;ITA;Health
+301;631;UCSF Benioff Children's Hospital;USA;Health
+301;631;Instituto de Investigacion Sanitaria de Santiago de Compostela;ESP;Health
+301;631;Instituto Adolfo Lutz;BRA;Health
+301;631;Hospital Universitario La Paz;ESP;Health
+301;631;Beaumont Hospital;IRL;Health
+302;632;Providence Health Care;CAN;Health
+302;632;Rambam Health Care Campus;ISR;Health
+302;632;Flinders Medical Centre;AUS;Health
+303;633;Sheffield Teaching Hospitals NHS Trust;GBR;Health
+303;633;Shanghai Ninth People's Hospital;CHN;Health
+303;633;The Children's Hospital at Westmead;AUS;Health
+303;633;Shaare Zedek Medical Center;ISR;Health
+303;633;Royal Perth Hospital ;AUS;Health
+304;634;Instituto Butantan;BRA;Health
+304;634;First Hospital of Jilin University;CHN;Health
+304;634;Institute for Clinical Evaluative Sciences;CAN;Health
+304;634;Chang Gung Memorial Hospital, Linkou;TWN;Health
+304;634;King Faisal Specialist Hospital and Research Centre ;SAU;Health
+305;635;Complejo Asistencial Universitario de Salamanca;ESP;Health
+305;635;Centre Hospitalier Universitaire de Poitiers;FRA;Health
+305;635;Hopitaux Universitaires de Strasbourg;FRA;Health
+305;635;University Hospitals Bristol NHS Foundation Trust;GBR;Health
+305;635;Shanghai Pulmonary Hospital;CHN;Health
+305;635;Hospitais da Universidade de Coimbra;PRT;Health
+305;635;Okayama University Hospital;JPN;Health
+306;636;First Affiliated Hospital of Guangxi Medical University;CHN;Health
+306;636;Third Affiliated Hospital of Nanchang;CHN;Health
+306;636;Second Affiliated Hospital of Dalian Medical University ;CHN;Health
+307;637;Aalborg University Hospital;DNK;Health
+307;637;Hospital Universitario Marques de Valdecilla;ESP;Health
+307;637;Eye, Ear, Nose and Throat Hospital Fudan University;CHN;Health
+307;637;Boston Medical Center ;USA;Health
+307;637;BJC HealthCare;USA;Health
+307;637;Charite Campus Mitte;DEU;Health
+307;637;Salford Royal Hospitals NHS Trust;GBR;Health
+307;637;Tri-Service General Hospital;TWN;Health
+308;638;First Affilated Hospital of Wenzhou Medical College;CHN;Health
+308;638;Centre Hospitalier Universitaire de Rennes;FRA;Health
+308;638;Taipei Medical University Hospital;TWN;Health
+308;638;Monash Health *;AUS;Health
+309;639;Uganda Ministry of Health;UGA;Health
+309;639;Centro de Investigacion Biomedica en Red de Epidemiologia y Salud Publica, Madrid;ESP;Health
+309;639;Chi Mei Medical Center;TWN;Health
+309;639;Longhua Hospital Shanghai University of Traditional Chinese Medicine;CHN;Health
+309;639;Instituto de Investigacion Hospital 12 de Octubre;ESP;Health
+309;639;Kinderspital Zurich, Universitats-Kinderklinik;CHE;Health
+309;639;Centre Hospitalier Universitaire de Liege;BEL;Health
+309;639;Akershus University Hospital;NOR;Health
+310;640;Charite Campus Buch;DEU;Health
+310;640;Geisinger Medical System;USA;Health
+310;640;Nagoya University Hospital;JPN;Health
+310;640;Centre Hospitalier Universitaire d'Angers;FRA;Health
+310;640;Mount Sinai Hospital;USA;Health
+311;641;University of Toledo Medical Center;USA;Health
+311;641;Heraklion University General Hospital;GRC;Health
+311;641;Kaiser Permanente Center for Health Research ;USA;Health
+311;641;Denver Health Medical Center;USA;Health
+311;641;International Clinical Research Center;CZE;Health
+311;641;Instituto de Investigacion Sanitaria IdIPAZ;ESP;Health
+311;641;Centre Antoine Lacassagne *;FRA;Health
+312;642;Wan Fang Hospital;TWN;Health
+312;642;Instituto de Investigacion Sanitaria Gregorio Maranon;ESP;Health
+312;642;Zhongda Hospital;CHN;Health
+312;642;North Texas VA Health Care System ;USA;Health
+313;643;Tongji Hospital;CHN;Health
+313;643;Hospital Universitario de La Princesa;ESP;Health
+313;643;National Cerebral and Cardiovascular Center;JPN;Health
+313;643;Birmingham Women's NHS Foundation Trust;GBR;Health
+313;643;Providence VA Medical Center;USA;Health
+314;644;St Georges Healthcare NHS Trust;GBR;Health
+314;644;Korea Centers for Disease Control and Prevention;KOR;Health
+314;644;First Affiliated Hospital of Henan University of Science and Technology;CHN;Health
+314;644;Carolinas Medical Center ;USA;Health
+315;645;Our Lady's Hospital for Sick Children;IRL;Health
+315;645;Kaohsiung Veterans General Hospital;TWN;Health
+315;645;Cathay General Hospital;TWN;Health
+315;645;Shandong Academy of Medical Sciences *;CHN;Health
+315;645;Papworth Hospital NHS Foundation Trust;GBR;Health
+315;645;Fondazione Salvatore Maugeri IRCCS;ITA;Health
+316;646;Norfolk and Norwich University Hospitals NHS Foundation Trust;GBR;Health
+316;646;Korea University Medical Center;KOR;Health
+317;647;Durham VA Medical Center ;USA;Health
+317;647;Sun Yat-sen University Third Hospital;CHN;Health
+317;647;John Hunter Hospital ;AUS;Health
+317;647;South London and Maudsley NHS Foundation Trust;GBR;Health
+317;647;Prince of Wales Hospital ;AUS;Health
+317;647;Marshfield Clinic;USA;Health
+317;647;Amrita Institute for Medical Science and Research;IND;Health
+317;647;Centre Hospitalier Universitaire de Nancy;FRA;Health
+317;647;Public Health Ontario;CAN;Health
+318;648;Azienda Ospedaliera Universitaria Pisana;ITA;Health
+318;648;Royal Surrey County Hospital NHS Foundation Trust;GBR;Health
+318;648;North Florida-South Georgia Veterans Health System;USA;Health
+318;648;Meander Medical Centre;NLD;Health
+318;648;British Columbia Centre for Excellence in HIV/AIDS;CAN;Health
+318;648;Ospedale Niguarda;ITA;Health
+318;648;Chungnam National University Hospital;KOR;Health
+319;649;Children's Memorial Health Institute;POL;Health
+319;649;Osaka Medical Center for Cancer and Cardiovascular Diseases;JPN;Health
+319;649;Hallym University Medical Center;KOR;Health
+319;649;Women and Infants Hospital of Rhode Island ;USA;Health
+319;649;Miriam Hospital ;USA;Health
+320;650;National Hospital Organization Nagoya Medical Center;JPN;Health
+320;650;Sandwell and West Birmingham Hospitals NHS Trust;GBR;Health
+320;650;Instituto Maimonides de Investigacion Biomedica de Cordoba;ESP;Health
+320;650;Ajou University Medical Center;KOR;Health
+320;650;Mackay Memorial Hospital;TWN;Health
+320;650;West China Hospital of Stomatology;CHN;Health
+320;650;Azienda Ospedaliera di Verona;ITA;Health
+320;650;VA Nebraska-Western Iowa Health Care System;USA;Health
+321;651;Centro Cardiologico Monzino IRCCS;ITA;Health
+321;651;Deutsches Herzzentrum Munchen;DEU;Health
+321;651;Queen Elizabeth Hospital Hong Kong;HKG;Health
+321;651;Hull and East Yorkshire Hospitals NHS Trust;GBR;Health
+321;651;Cork University Hospital;IRL;Health
+321;651;Instituto de Investigacion Biomedica de A Coruna;ESP;Health
+322;652;Allgemeines Krankenhaus Wien;AUT;Health
+322;652;Heart of England NHS Foundation Trust;GBR;Health
+322;652;Deutsches Herzzentrum Berlin;DEU;Health
+322;652;Complejo Hospitalario Virgen de La Victoria;ESP;Health
+322;652;Tokyo Metropolitan Institute of Gerontology;JPN;Health
+322;652;Auckland City Hospital;NZL;Health
+322;652;Children's Hospital of Wisconsin;USA;Health
+322;652;Rainbow Babies and Children's Hospital ;USA;Health
+323;653;First Affiliated Hospital of Chongqing Medical University;CHN;Health
+323;653;Women's College Hospital;CAN;Health
+323;653;Donostia Ospitalea;ESP;Health
+323;653;Rabin Medical Center;ISR;Health
+323;653;Spedali Civili di Brescia;ITA;Health
+324;654;OU Medicine;USA;Health
+324;654;Universitatsklinikum Leipzig;DEU;Health
+324;654;Kyungpook National University Hospital;KOR;Health
+324;654;Policlinico Tor Vergata;ITA;Health
+324;654;Concord Repatriation General Hospital ;AUS;Health
+324;654;Public Health Foundation of India;IND;Health
+325;655;St George Hospital ;AUS;Health
+325;655;Canisius Wilhelmina Ziekenhuis;NLD;Health
+325;655;Centro Hospitalar de Lisboa Norte *;PRT;Health
+325;655;Nanjing Drum Tower Hospital;CHN;Health
+325;655;Belfast Health and Social Care Trust;GBR;Health
+326;656;New York Eye and Ear Infirmary;USA;Health
+326;656;Hospital Santa Maria;PRT;Health
+326;656;Stavanger University Hospital;NOR;Health
+326;656;Instituto Nacional de Salud Publica;MEX;Health
+326;656;Hospital de Clinicas de Porto Alegre;BRA;Health
+327;657;Third Hospital Affiliated to Central South University;CHN;Health
+327;657;Azienda Ospedaliera San Camillo Forlanini;ITA;Health
+327;657;Sun Yat-sen University Fifth Hospital;CHN;Health
+327;657;Istituto Ortopedico Galeazzi;ITA;Health
+327;657;Yale New Haven Health System;USA;Health
+328;658;Servicio Murciano de Salud;ESP;Health
+328;658;Centro de Investigacion Biomedica en Red de Salud Mental *;ESP;Health
+328;658;N.N. Blokhin Cancer Research Center of the Russian Academy of Medical Sciences;RUS;Health
+328;658;Complejo Hospitalario Universitario de Santiago;ESP;Health
+328;658;Children's Medical Center Dallas;USA;Health
+328;658;Herzzentrum Leipzig;DEU;Health
+329;659;Alberta Children's Hospital;CAN;Health
+329;659;Hospital Universitario Puerta de Hierro Majadahonda;ESP;Health
+329;659;Comision Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad;MEX;Health
+330;660;Centre Hospitalier Universitaire de Clermont-Ferrand;FRA;Health
+330;660;John Paul II Hospital;POL;Health
+330;660;Krankenanstalt Rudolfsstiftung;AUT;Health
+330;660;Finnish Institute Occupational Health;FIN;Health
+330;660;China-Japan Friendship Hospital;CHN;Health
+330;660;Ministerio de Salud *;PER;Health
+330;660;Hanyang University Medical Center;KOR;Health
+331;661;Chonnam National University Hospital;KOR;Health
+331;661;Children's Mercy Hospital ;USA;Health
+331;661;Second Affiliated Hospital of Chongqing Medical University;CHN;Health
+332;662;Kingston General Hospital;CAN;Health
+332;662;Incheon St. Mary's Hospital;KOR;Health
+332;662;St. Antonius Hospital;NLD;Health
+332;662;Affiliated Zhongshan Hospital of Dalian University;CHN;Health
+332;662;Inje University Sanggye-Paik Hospital;KOR;Health
+332;662;Tan Tock Seng Hospital;SGP;Health
+332;662;Jinshan Hospital;CHN;Health
+332;662;Complejo Hospitalario Regional Reina Sofia;ESP;Health
+333;663;Agence Nationale de la Securite Sanitaire de l'Alimentation, de l'Environnement et du Travail *;FRA;Health
+333;663;Royal Devon and Exeter NHS Foundation Trust;GBR;Health
+333;663;Rotman Research Institute;CAN;Health
+333;663;Shanghai Chest Hospital;CHN;Health
+333;663;Brighton and Sussex University Hospitals NHS Trust;GBR;Health
+334;664;Hospital Universitario La Fe;ESP;Health
+334;664;University Hospitals Coventry and Warwickshire NHS Trust;GBR;Health
+335;665;First Affiliated Hospital of Zhengzhou University;CHN;Health
+335;665;Zhujiang Hospital;CHN;Health
+335;665;Hokkaido University Hospital;JPN;Health
+336;666;Institut d'Investigacio Biomedic Sant Pau;ESP;Health
+336;666;Minneapolis Heart Institute Foundation;USA;Health
+337;667;Second Affiliated Hospital of China Medical University-Sheng Jing Hospital;CHN;Health
+337;667;Second Clinical Hospital of Jilin University;CHN;Health
+337;667;Zhongnan Hospital at Wuhan University;CHN;Health
+337;667;The Affiliated Hospital of Qingdao University Medical College;CHN;Health
+337;667;Women's and Children's Hospital;AUS;Health
+337;667;Burdenko Neurosurgery Institute of the Russian Academy of Medical Sciences;RUS;Health
+337;667;Institut Pasteur of Iran;IRN;Health
+337;667;Institute of Cardiology;POL;Health
+338;668;Cooper University Health Care;USA;Health
+338;668;Centro Hospitalar do Porto;PRT;Health
+338;668;Catharina Hospital;NLD;Health
+338;668;Changhua Christian Hospital;TWN;Health
+339;669;Hospital de Sant Joan de Deu de Esplugues de Llobregat;ESP;Health
+339;669;King Abdulaziz Medical City, Riyadh;SAU;Health
+339;669;Gangnam Severance Hospital;KOR;Health
+339;669;Fundacio Puigvert;ESP;Health
+340;670;Attikon Athens University Hospital;GRC;Health
+340;670;Chang Gung Memorial Hospital, Keelung;TWN;Health
+341;671;Universitatsklinikum Greifswald;DEU;Health
+341;671;Children's Hospital Fudan University;CHN;Health
+341;671;China-Japan Union Hospital of Jilin University;CHN;Health
+341;671;Fundacion Instituto Valenciano de Oncologia;ESP;Health
+341;671;BC Children's Hospital and Sunny Hill Health Centre for Children Vancouver;CAN;Health
+341;671;Centre Hospitalier Universitaire de Brest;FRA;Health
+342;672;The Prince Charles Hospital;AUS;Health
+342;672;Hospital General Universitario Gregorio Maranon *;ESP;Health
+342;672;Bundang Cha Medical Center;KOR;Health
+342;672;Military Medical Academy;SRB;Health
+342;672;Black Dog Institute;AUS;Health
+342;672;Hospital Clinico Universidad de Chile Jose Joaquin Aguirre;CHL;Health
+342;672;University of Tokyo Hospital;JPN;Health
+342;672;Second Affiliated Hospital of Nanchang University;CHN;Health
+343;673;Yonsei University Severance Hospital;KOR;Health
+343;673;Intermountain Healthcare;USA;Health
+343;673;King Khaled Eye Specialist Hospital;SAU;Health
+343;673;Second Affiliated Hospital & Yuying Children s Hospital of Wenzhou Medical College;CHN;Health
+343;673;The Children's Hospital of Chongqing Medical University;CHN;Health
+343;673;Centre Hospitalier Regional et Universitaire de Besancon;FRA;Health
+343;673;First Affiliated Hospital of Anhui Medical University;CHN;Health
+344;674;Hamad Medical Corp;QAT;Health
+344;674;Chelsea and Westminster Hospital NHS Foundation Trust;GBR;Health
+344;674;Hopital Foch;FRA;Health
+344;674;Foothills Medical Centre;CAN;Health
+344;674;Hospital Universitari Sant Joan de Reus;ESP;Health
+344;674;Parc de Salut Mar de Barcelona;ESP;Health
+344;674;Hospital Sirio-Libanes;BRA;Health
+344;674;Second Hospital of Xi'an Jiaotong University;CHN;Health
+344;674;MetroHealth System ;USA;Health
+345;675;Institute of Psychiatry and Neurology;POL;Health
+345;675;Institut d'Investigacio Sanitaria Pere Virgili;ESP;Health
+345;675;Hospital Universitario Miguel Servet;ESP;Health
+345;675;Azienda Ospedaliera di Parma;ITA;Health
+345;675;Taipei City Hospital;TWN;Health
+345;675;Tokyo Metropolitan Geriatric Hospital and Institute of Gerontology;JPN;Health
+345;675;Ospedale Luigi Sacco;ITA;Health
+345;675;Aintree University Hospitals NHS Trust;GBR;Health
+346;676;Ewha Women University Medical Center;KOR;Health
+346;676;Nizhny Novgorod State Medical Academy;RUS;Health
+346;676;Kaiser Permanente Southern California, Pasadena;USA;Health
+346;676;Centre Hospitalier Universitaire de Rouen;FRA;Health
+346;676;Toranomon Hospital;JPN;Health
+346;676;Centre Hospitalier Regional et Universitaire de Tours;FRA;Health
+347;677;Azienda Ospedaliera Sant Andrea;ITA;Health
+347;677;Daejeon St. Mary's Hospital;KOR;Health
+347;677;Instituto de Investigacion e Innovacion Parc Tauli;ESP;Health
+347;677;Walter Reed National Military Medical Center;USA;Health
+347;677;Far Eastern Memorial Hospital;TWN;Health
+347;677;Sociedade Beneficiente Israelita Brasileira Albert Einstein;BRA;Health
+347;677;MedStar Health Research Institute;USA;Health
+348;678;Christchurch Hospital;NZL;Health
+348;678;Azienda Sanitaria Ulss 6 Vicenza;ITA;Health
+349;679;Hartford Hospital ;USA;Health
+349;679;Azienda Ospedaliera di Padova;ITA;Health
+349;679;Centre Hospitalier Universitaire de Caen;FRA;Health
+349;679;Second Hospital of Shandong University;CHN;Health
+349;679;Edith Nourse Rogers Memorial Veterans Hospital ;USA;Health
+349;679;Safdarjang Hospital;IND;Health
+349;679;First Affiliated Hospital of Nanchang University;CHN;Health
+349;679;Spectrum Health;USA;Health
+350;680;Edith Wolfson Medical Center;ISR;Health
+350;680;IRCCS Centro Neurolesi Bonino Pulejo;ITA;Health
+350;680;Institute for Clinical and Experimental Medicine;CZE;Health
+350;680;Detroit Medical Center;USA;Health
+350;680;Cardiff and Vale NHS Trust;GBR;Health
+350;680;First Affiliated Hospital of Jinan University;CHN;Health
+350;680;Washington Hospital Center;USA;Health
+351;681;Complexo Hospitalario Universitario a Coruna;ESP;Health
+351;681;Birmingham Children's Hospital NHS Foundation Trust;GBR;Health
+351;681;Dongguk University Medical Center;KOR;Health
+352;682;St. Anne's University Hospital Brno *;CZE;Health
+352;682;Osaka University Hospital;JPN;Health
+352;682;Universitats Kinderspital beider Basel;CHE;Health
+352;682;Hospital Universitario Central de Asturias;ESP;Health
+352;682;Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran;MEX;Health
+352;682;Kyushu University Hospital;JPN;Health
+353;683;Juntendo University Urayasu Hospital;JPN;Health
+353;683;Hospital das Clinicas da Faculdade de Medicina da Universidade de Sao Paulo;BRA;Health
+354;684;Shuang Ho Hospital;TWN;Health
+354;684;Azienda Ospedaliera Universitaria Policlinico Gaetano Martino;ITA;Health
+354;684;Affiliated Hospital of Nantong University;CHN;Health
+354;684;Balgrist University Hospital;CHE;Health
+354;684;Ospedale infantile Burlo Garofolo IRCCS;ITA;Health
+355;685;St.John's National Academy of Health Sciences *;IND;Health
+356;686;Toronto Rehab ;CAN;Health
+356;686;Seoul National University Boramae Hospital;KOR;Health
+356;686;Queen Elizabeth II Health Sciences Centre;CAN;Health
+356;686;Centre Hospitalier Universitaire Dijon;FRA;Health
+356;686;Women's Hospital School of Medicine Zhejiang University;CHN;Health
+356;686;Princess Margaret Hospital for Children ;AUS;Health
+356;686;Kyung Hee University Medical Center;KOR;Health
+357;687;Instituto Mexicano del Seguro Social *;MEX;Health
+357;687;Gyeongsang National University Hospital;KOR;Health
+357;687;Pusan National University Hospital;KOR;Health
+357;687;Instituto de Investigacion Sanitaria del Hospital Clinico San Carlos;ESP;Health
+357;687;Howard University Health Sciences;USA;Health
+357;687;Complejo Hospitalario de Especialidades Virgen de Valme;ESP;Health
+357;687;Complejo Universitario de San Carlos;ESP;Health
+357;687;Centre Hospitalier Universitaire de Limoges;FRA;Health
+357;687;Instituto Nacional de Saude Dr. Ricardo Jorge;PRT;Health
+358;688;Centre Hospitalier Universitaire de Reims;FRA;Health
+358;688;Osaka National Hospital;JPN;Health
+358;688;King Abdullah International Medical Research Center;SAU;Health
+358;688;Assaf Harofeh Medical Center Zerifin;ISR;Health
+359;689;Hospital Universitario Clementino Fraga Filho;BRA;Health
+359;689;Tumour Hospital of Harbin Medical University;CHN;Health
+359;689;National Kyushu Cancer Center;JPN;Health
+359;689;The Queen Elizabeth Hospital;AUS;Health
+359;689;Hospital Clinico Universitario Lozano Blesa;ESP;Health
+360;690;Centro Hospitalar de Sao Joao;PRT;Health
+360;690;Royal Women's Hospital ;AUS;Health
+360;690;Connecticut Children's Medical Center ;USA;Health
+360;690;Second Affiliated Hospital of Soochow University;CHN;Health
+360;690;Complejo Hospitalario de Toledo;ESP;Health
+361;691;National Neuroscience Institute;SGP;Health
+361;691;Medisch Spectrum Twente;NLD;Health
+361;691;Kanazawa University Hospital;JPN;Health
+362;692;Siriraj Hospital;THA;Health
+362;692;Kuwait University Health Science Center;KWT;Health
+362;692;Afiliated Taizhou Hospital of Wenzhou Medical College;CHN;Health
+362;692;Hospital General de Elche;ESP;Health
+362;692;Shenzhen Peoples Hospital, 2nd Clinical Medical College of Jinan University;CHN;Health
+363;693;Affiliated Provincial Hospital of Anhui Medical University;CHN;Health
+363;693;Meir Medical Center;ISR;Health
+363;693;Instituto Nacional de Cancerologia, Mexico;MEX;Health
+363;693;Affiliated Huai'an First Hospital;CHN;Health
+364;694;Mount Sinai Beth Israel;USA;Health
+364;694;Centro Hospitalar de Lisboa Central;PRT;Health
+364;694;King Fahad Medical City ;SAU;Health
+364;694;Fourth Hospital of Hebei Medical University;CHN;Health
+364;694;University Hospital of Ioannina;GRC;Health
+364;694;Children's Hospital School of Medicine Zhejiang University;CHN;Health
+365;695;Fuwai Heart Hospital and Cardiovascular Institute;CHN;Health
+365;695;Guilin Medical University;CHN;Health
+365;695;Helios Kliniken Berlin-Buch;DEU;Health
+365;695;Isala Clinics;NLD;Health
+365;695;University Hospital Brno;CZE;Health
+366;696;Agencia de Salut Publica de Barcelona;ESP;Health
+366;696;Azienda Ospedaliera San Paolo;ITA;Health
+366;696;Evaggelismos Hospital;GRC;Health
+366;696;Lancashire Teaching Hospitals NHS Trust;GBR;Health
+366;696;Polish Mothers Memorial Hospital Research Institute;POL;Health
+367;697;Royal Darwin Hospital;AUS;Health
+367;697;Centre Hospitalier Universitaire de Amiens-Picardie;FRA;Health
+368;698;Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez;MEX;Health
+368;698;Kandang Kerbau Women's and Children's Hospital;SGP;Health
+368;698;Chonbuk National University Hospital;KOR;Health
+369;699;Ulsan University Hospital;KOR;Health
+369;699;Gachon University Gil Hospital;KOR;Health
+369;699;VA Long Beach Healthcare System;USA;Health
+370;700;Shanghai Institute of Mental Health;CHN;Health
+370;700;Hospital Infanta Leonor;ESP;Health
+370;700;Konkuk University Medical Center;KOR;Health
+370;700;University Hospital Hradec Kralove;CZE;Health
+370;700;St. Vincent's Hospital;KOR;Health
+371;701;Children's Hospital Affiliated to Soochow University;CHN;Health
+371;701;First Affiliated Hospital of Dalian Medical University ;CHN;Health
+372;702;Toho University Sakura Medical Center;JPN;Health
+372;702;Razi Vaccine and Serum Research Institute;IRN;Health
+372;702;Clinica Alemana de Santiago;CHL;Health
+372;702;First Hospital of Shanxi Medical University;CHN;Health
+373;703;Hospital de Cruces;ESP;Health
+373;703;Ljubljana University Medical Centre;SVN;Health
+373;703;Kyoto University Hospital;JPN;Health
+373;703;Instituto Nacional de Cardiologia Ignacio Chavez;MEX;Health
+373;703;Tokyo Womens Medical University Hospital;JPN;Health
+374;704;Beaumont Health System;USA;Health
+374;704;King Khalid University Hospital  ;SAU;Health
+374;704;Shin Kong Wu Ho-Su Memorial Hospital;TWN;Health
+374;704;Niigata University Medical and Dental Hospital;JPN;Health
+374;704;Red de Investigacion en Servicios de Salud en Enfermedades Cronicas;ESP;Health
+374;704;Allina Health;USA;Health
+374;704;Kanagawa Cancer Center;JPN;Health
+375;705;IWK Health Centre;CAN;Health
+375;705;West China Second University Hospital;CHN;Health
+375;705;Instituto Nacional de Perinatologia Isidro Espinosa de los Reyes;MEX;Health
+375;705;Hospital Regional Universitario de Malaga;ESP;Health
+375;705;Soroka University Medical Center;ISR;Health
+375;705;Hospital Nacional de Pediatria Profesor Dr. Juan P. Garrahan;ARG;Health
+375;705;South Tees Hospitals NHS Foundation Trust;GBR;Health
+375;705;Ramathibodi Hospital;THA;Health
+376;706;Arkansas Children's Hospital ;USA;Health
+376;706;St. Lukes International Hospital;JPN;Health
+376;706;Mater Misericordiae University Hospital;IRL;Health
+376;706;Tumor Hospital of Guangxi Medical University;CHN;Health
+376;706;Fujian Medical University Union Hospital;CHN;Health
+376;706;Hospital de Clinicas Jose de San Martin *;ARG;Health
+376;706;Tokyo Metropolitan Komagome Hospital;JPN;Health
+376;706;Hospital Universitario San Cecilio;ESP;Health
+376;706;Children Medical Center Hospital;IRN;Health
+376;706;Henan University Huaihe Hospital;CHN;Health
+377;707;Rijnstate Ziekenhuis;NLD;Health
+377;707;Chiba University Hospital;JPN;Health
+377;707;University General Hospital;CZE;Health
+377;707;Sheffield Children's NHS Foundation Trust;GBR;Health
+377;707;Government Medical College and Hospital, Chandigarh;IND;Health
+377;707;Instituto Nacional de Enfermedades Respiratorias Ismael Cosio Villegas;MEX;Health
+377;707;University of Illinois Hospital & Health Sciences System;USA;Health
+378;708;First Affiliated Hospital of Zhejiang Chinese Medical University;CHN;Health
+378;708;XuanWu Hospital;CHN;Health
+378;708;Centro de Investigacion Biomedica en Red de Salud Mental, Barcelona;ESP;Health
+378;708;Portsmouth Hospitals NHS Trust;GBR;Health
+378;708;Orygen Youth Health;AUS;Health
+379;709;Jefferson Health System;USA;Health
+379;709;Japanese Red Cross Medical Center;JPN;Health
+379;709;Schneider Children's Medical Center of Israel;ISR;Health
+379;709;Fundacion Jimenez Diaz;ESP;Health
+380;710;Galway University Hospitals;IRL;Health
+380;710;Third Hospital of Hebei Medical University;CHN;Health
+380;710;Hospitales Civiles de Guadalajara;MEX;Health
+380;710;Alberta Health Services;CAN;Health
+380;710;Umberto I Policlinico di Roma;ITA;Health
+380;710;Chungbuk National University Hospital;KOR;Health
+381;711;Cambridge Health Alliance;USA;Health
+381;711;Second Hospital of Hebei Medical University;CHN;Health
+381;711;Complejo Hospitalario Universitario de Albacete;ESP;Health
+381;711;Liverpool Hospital ;AUS;Health
+381;711;Universitatsklinikum Giessen und Marburg GmbH Standort Giessen;DEU;Health
+381;711;Shariati Hospital;IRN;Health
+382;712;Seth Gordhandas Sunderdas Medical College and King Edward Memorial Hospital ;IND;Health
+382;712;The First Affiliated Hospital of Fujian Medical University;CHN;Health
+383;713;Complejo Hospitalario Regional Virgen de las Nieves;ESP;Health
+383;713;Plymouth Hospitals NHS Trust;GBR;Health
+383;713;Kangwon National University Hospital;KOR;Health
+383;713;Complejo Hospitalario Regional Virgen Macarena;ESP;Health
+383;713;Inje University Busan-Paik Hospital;KOR;Health
+383;713;Kobe University Hospital;JPN;Health
+383;713;Affiliated People's Hospital of Jiangsu University;CHN;Health
+383;713;Public Health Institute;USA;Health
+384;714;University of Malaya Medical Centre;MYS;Health
+384;714;Hospital Nuestra Senora de Candelaria;ESP;Health
+384;714;First People's Hospital of Hangzhou Affiliated to Nanjing Medical University;CHN;Health
+384;714;Hippokration General Hospital;GRC;Health
+384;714;Second Hospital of Shanxi Medical University;CHN;Health
+384;714;Nagasaki University Hospital;JPN;Health
+385;715;Hospital Mutua de Terrassa;ESP;Health
+385;715;Tuen Mun Hospital;HKG;Health
+385;715;Universitatsklinikum Rostock;DEU;Health
+385;715;Inje University Seoul-Paik Hospital;KOR;Health
+385;715;Ziekenhuis Oost-Limburg;BEL;Health
+385;715;Hospital Infantil de Mexico Federico Gomez;MEX;Health
+386;716;Maulana Azad Medical College;IND;Health
+386;716;Centre Hospitalier Sainte Anne;FRA;Health
+386;716;Second Affiliated Hospital of Zhengzhou University;CHN;Health
+386;716;Clinical Center of Serbia;SRB;Health
+386;716;Inje University Ilsan-Paik Hospital;KOR;Health
+386;716;Sultan Qaboos University Hospital;OMN;Health
+387;717;Ministry of Health and Medical Education;IRN;Health
+387;717;Arcispedale Santa Maria Nuova;ITA;Health
+387;717;Seoul National University Children's Hospital;KOR;Health
+387;717;Motol University Hospital;CZE;Health
+388;718;Clinica Las Condes;CHL;Health
+388;718;Loma Linda University Medical Center ;USA;Health
+388;718;Instituto Nacional de Pediatria;MEX;Health
+388;718;Uijeongbu St Mary's Hospital;KOR;Health
+388;718;London North West Healthcare NHS Trust;GBR;Health
+389;719;Gifu University Hospital;JPN;Health
+389;719;AHEPA University General Hospital;GRC;Health
+389;719;L. V. Prasad Eye Institute;IND;Health
+390;720;The Second Hospital of Tianjin;CHN;Health
+390;720;Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado *;MEX;Health
+390;720;Tygerberg Hospital;ZAF;Health
+390;720;Complejo Hospitalario de Navarra;ESP;Health
+390;720;Instituto Nacional de Psiquiatria Ramon de la Fuente;MEX;Health
+390;720;First Affiliated Hospital of Xinjiang Medical University;CHN;Health
+390;720;University Hospital of Larissa;GRC;Health
+391;721;Gulhane Military Medical Academy;TUR;Health
+391;721;West Penn Allegheny Health System;USA;Health
+391;721;First Affiliated Hospital of Shantou University Medical College;CHN;Health
+391;721;Santa Casa de Misericordia de Porto Alegre;BRA;Health
+391;721;Endocrinological Scientific Centre of the Russian Academy of Medical Sciences;RUS;Health
+391;721;Sina Hospital;IRN;Health
+391;721;Phoenix Children's Hospital;USA;Health
+391;721;Jacobi Medical Center;USA;Health
+392;722;Centre Hospitalaire Universitaire de Saint-Etienne;FRA;Health
+392;722;Aghia Sophia Children's Hospital;GRC;Health
+392;722;Khoo Teck Puat Hospital;SGP;Health
+392;722;American University of Beirut Medical Center;LBN;Health
+392;722;Hospital General Universitario de Alicante;ESP;Health
+393;723;Holland Bloorview Kids Rehabilitation Hospital;CAN;Health
+393;723;Klinikum Augsburg;DEU;Health
+393;723;Guru Tegh Bahadur Hospital;IND;Health
+393;723;Swiss Paraplegic Centre;CHE;Health
+393;723;Medical College and Hospital Kolkata;IND;Health
+393;723;Hospital Universitario de Getafe;ESP;Health
+394;724;Yokohama City University Medical Center;JPN;Health
+394;724;Hospital Universitario Virgen de La Arrixaca;ESP;Health
+395;725;Sir Ganga Ram Hospital;IND;Health
+395;725;Lady Hardinge Medical College;IND;Health
+395;725;Hospital Universitario Doctor Peset;ESP;Health
+395;725;Adelaide and Meath Hospital Incorporating the National Children's Hospital;IRL;Health
+395;725;Changi General Hospital ;SGP;Health
+396;726;Maimonides Medical Center;USA;Health
+396;726;Los Angeles County-USC Medical Center ;USA;Health
+397;727;Farabi Hospital;IRN;Health
+398;728;Saitama Medical University Saitama International Medical Center;JPN;Health
+398;728;Hiroshima University Hospital;JPN;Health
+398;728;Inje University Haeundae-Paik Hospital;KOR;Health
+399;729;Complejo Hospitalario de Caceres;ESP;Health
+399;729;Complejo Hospitalario Universitario de Canarias;ESP;Health
+399;729;Chung-Ang University Hospital;KOR;Health
+399;729;Baystate Health System;USA;Health
+399;729;Staten Island University Hospital;USA;Health
+400;730;Hospital Universitario Dr. Jose Eleuterio Gonzalez;MEX;Health
+400;730;Alder Hey Children's NHS Foundation Trust;GBR;Health
+400;730;Abertawe Bro Morgannwg University NHS Trust;GBR;Health
+401;732;Complexo Hospitalario Universitario de Vigo;ESP;Health
+401;732;Saint Christopher's Hospital for Children;USA;Health
+402;733;Teikyo University Group Hospitals;JPN;Health
+402;733;Hospital Universitario Son Espases;ESP;Health
+402;733;Hospital Universitario Fundacion Alcorcon;ESP;Health
+402;733;University Goce Delcev;MKD;Health
+402;733;Berufsgenossenschaftliche Kliniken Bergmannsheil;DEU;Health
+403;734;Complejo Hospitalario Dr. Negrin;ESP;Health
+403;734;Institut Universitaire de Geriatrie de Montreal;CAN;Health
+404;735;Rothman Institute;USA;Health
+404;735;Tribhuvan University Teaching Hospital;NPL;Health
+404;735;Imam Khomeini Hospital;IRN;Health
+404;735;Yeungnam National University Medical Center;KOR;Health
+405;736;Hospital General Universitario de Valencia;ESP;Health
+406;737;Kurashiki Central Hospital;JPN;Health
+406;737;Hospital Clinico Universitario de Valencia;ESP;Health
+407;738;Nepean Hospital;AUS;Health
+407;738;Jackson Health System;USA;Health
+407;738;Hospital Universitario San Ignacio;COL;Health
+408;739;Dongzhimen Hospital;CHN;Health
+409;740;Hospital Italiano de Buenos Aires;ARG;Health
+409;740;University Hospital Centre Zagreb;HRV;Health
+409;740;Complejo Asistencial Universitario de Leon;ESP;Health
+409;740;Institute of Biomedical Chemistry of the Russian Academy of Medical Sciences;RUS;Health
+409;740;Osaka General Medical Center;JPN;Health
+410;742;Krankenhaus  Dresden - Friedrichstadt;DEU;Health
+410;742;Jeju National University Hospital;KOR;Health
+410;742;Royal Cornwall Hospitals NHS Trust;GBR;Health
+410;742;Centre Hospitalier et Universitaire Hassan II Fes;MAR;Health
+411;743;Koshigaya Hospital;JPN;Health
+411;743;Centro Medico Nacional Siglo XXI;MEX;Health
+412;744;Hospital Universitario de Nuevo Leon;MEX;Health
+412;744;Winthrop-University Hospital;USA;Health
+413;745;Hospital General Universitario Jose Maria Morales Meseguer;ESP;Health
+414;746;Ministry of Health;MYS;Health
+415;747;Hospital Universitari de Tarragona Joan XXIII;ESP;Health
+415;747;National University of Malaysia Medical Center;MYS;Health
+416;748;Milwaukee VA Medical Center;USA;Health
+416;748;National Hospital Organization Kyushu Medical Center;JPN;Health
+417;749;Second Affiliated Hospital of Lanzhou University;CHN;Health
+417;749;Hospital General Dr. Manuel Gea Gonzalez;MEX;Health
+417;749;Medical Biology Research Center;IRN;Health
+418;750;Universitatsklinikum Magdeburg;DEU;Health
+418;750;Universitatsklinikum Graz;AUT;Health
+418;750;Hospital Clinico Universitario de Valladolid;ESP;Health
+419;751;MGH Institute of Health Professions;USA;Health
+420;752;Clalit Health Services;ISR;Health
+420;752;Hospital Universitario Rio Hortega;ESP;Health
+421;753;National Hospital Organization Tokyo Medical Center;JPN;Health
+422;754;Hospital Infantil Universitario Nino Jesus;ESP;Health
+423;756;Ankara Ataturk Training and Research Hospital;TUR;Health
+424;757;Ankara Numune Educational and Research Hospital;TUR;Health
+425;758;Hospital Galdakao Usansolo;ESP;Health
+425;758;Centre Hospitalier Ibn Sina Rabat;MAR;Health
+425;758;Naval Medical Center San Diego ;USA;Health
+426;759;Centro Hospitalar de Vila Nova de Gaia, Espinho;PRT;Health
+427;760;Kaiser Permanente Medical Center, Los Angeles;USA;Health
+427;760;Sanming First Hospital Affiliated to Fujian Medical University;CHN;Health
+427;760;Academy of Medical Sciences of Ukraine;UKR;Health
+428;761;Hopital Militaire d'Instruction Mohammed V;MAR;Health
+428;761;Toho University Ohashi Medical Center;JPN;Health
+429;762;Osaka City General Hospital;JPN;Health
+430;766;Yuksek Ihtisas Hospital;TUR;Health
+431;768;Complejo Hospitalario Universitario de Badajoz ;ESP;Health
+431;768;University College Hospital, Ibadan;NGA;Health
+432;769;Basurtuko Ospitalea;ESP;Health
+432;769;Hospital de Cabuenes;ESP;Health
+433;770;Instituto Nacional de Rehabilitacion;MEX;Health
+433;770;Saitama Medical University Saitama Medical Center;JPN;Health
+433;770;Clinical Hospital Centre Rijeka;HRV;Health
+433;770;General University Hospital of Patras;GRC;Health
+434;773;Complejo Asistencial Universitario de Burgos;ESP;Health
+434;773;Aga Khan University Hospital, Karachi;PAK;Health
+435;774;Goztepe Training and Research Hospital;TUR;Health
+435;774;University Hospital Vinohrady;CZE;Health
+436;777;First Affiliated Hospital of Lanzhou University;CHN;Health
+437;780;Townsville Hospital;AUS;Health
+438;788;Habib Bourguiba Hopital;TUN;Health
+438;788;Centre Hospitalier Universitaire Farhat Hached de Sousse;TUN;Health
+439;789;Charles University Hospital in Pilsen;CZE;Health
+439;789;The University of Vermont Medical Center;USA;Health
+440;790;Hospital General de Ciudad Real;ESP;Health
+441;791;Hospital Universitario Principe de Asturias;ESP;Health
+442;793;University Hospital in Olomouc;CZE;Health
+442;793;Hopital Charles Nicolle;TUN;Health
+443;796;Hospital Universitario de Fuenlabrada;ESP;Health
+444;798;Hospital Costa del Sol;ESP;Health
+445;799;Hospital Puerta del Mar;ESP;Health
+446;800;Naval Medical Center Portsmouth;USA;Health
+446;800;Universite Hassiba BenBouali de Chlef;DZA;Health
+447;801;Klinikum Stuttgart;DEU;Health
+448;802;Complejo Hospitalario Materno - Insular;ESP;Health
+449;814;Plastic Surgery Hospital;CHN;Health
+450;853;Scientific Centre of Obstetrics, Gynaecology and Perinatology of the Russian Academy of Medical Sciences;RUS;Health

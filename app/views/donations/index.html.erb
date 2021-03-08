@@ -1,0 +1,73 @@
+<section>
+  <%= title('My Account') %>
+
+  <ul class="nav nav-tabs mobile-stack" role="tablist">
+    <li role="presentation" class="active"><a href="#donations" aria-controls="donations" role="tab" data-toggle="tab">Campaigns you support</a></li>
+    <li role="presentation"><a href="#wallet" aria-controls="wallet" role="tab" data-toggle="tab">Tokens of Appreciation</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <section role="tabpanel" class="tab-pane active top-padded" id="donations">
+      <% if @campaigns && @campaigns.any? %>
+        <% @campaigns.sorted.each do |campaign| %>
+          <section class="well overview col-md-3">
+            <%= image_tag(campaign.image_url(:thumb), alt: campaign.name) %>
+
+            <div class="padded">
+              <h3><%= campaign.name %></h3>
+              <p>
+                Your donation:
+                <strong><%= number_to_currency(current_user.direct_donations_for(campaign)) %></strong>
+              </p>
+              <p>
+                Number of Shares:
+                <strong><%= current_user.shares_for(campaign) %></strong>
+              </p>
+              <p>
+                Donations from Shares:
+                <strong><%= number_to_currency(current_user.indirect_donations_for(campaign)) %></strong>
+              </p>
+            </div>
+
+            <p class="outcome-badge <%= campaign.outcome %>">
+              Campaign <%= campaign.outcome.humanize %>
+            </p>
+          </section>
+        <% end %>
+      <% else %>
+        <p class="alert alert-info">It seems you don't support any campaigns yet</p>
+      <% end %>
+    </section>
+    <section role="tabpanel" class="tab-pane top-padded" id="wallet">
+      <% if @undistributed_donations && @undistributed_donations.any? %>
+        <% @undistributed_donations.each do |donation| %>
+          <section class="well wallet">
+            <strong><%= number_to_currency(donation.amount) %></strong>
+            <%= button_to "Redonate to #{ Campaign.current.name }", redonate_donation_path(donation), class: 'btn btn-primary' %>
+            <span>or</span>
+            <%= button_to "Request a refund", refund_donation_path(donation), class: 'btn btn-default' %>
+          </section>
+        <% end %>
+      <% else %>
+        <p>
+          Tokens of Appreciation are virtual currency you can use to donate to future campaigns on Halo.
+        </p>
+
+      <h5>Earn 5 tokens for:</h5>
+
+        <ul style="margin-left: 25px;">
+          <li>Every dollar you donate</li>
+          <li>Sharing a campaign on Facebook or Twitter</li>
+        </ul><br>
+
+       <h5>Earn 50 tokens when:</h5>
+
+        <ul style="margin-left: 25px;">
+          <li>Someone uses your link to share</li>
+          <li>The fundraising goal is met</li>
+        </ul>
+
+      <% end %>
+    </section>
+  </div>
+</section>

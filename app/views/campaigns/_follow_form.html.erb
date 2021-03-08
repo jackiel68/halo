@@ -1,0 +1,8 @@
+<%= simple_form_for Follower.new, url: followers_path do |f| %>
+  <%= f.hidden_field :campaign_id, value: @campaign.id %>
+  <%= f.input :email, label: false, placeholder: 'Enter email' %>
+
+  <button type="submit" class="btn btn-primary btn-lg">
+    Follow<i class="icon-white-cross"></i>
+  </button>
+<% end %>

@@ -1,0 +1,166 @@
+.donate-section {
+  text-align: center;
+  position: relative;
+
+  h6 {
+    font-weight: normal;
+    margin-top: 2em;
+    font-size: .75em;
+  }
+
+  .circle-progress {
+    display: inline-block;
+    position: relative;
+    margin-bottom: 1rem;
+  }
+
+  .circle-progress-connector {
+    position: relative;
+    bottom: 1px;
+    height: 7px;
+    width: 7rem;
+    margin: 0 -1px;
+
+    &.inprogress::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 50%;
+      background-color: $blue;
+      height: 100%;
+    }
+
+    span {
+      display: none;
+      position: relative;
+      bottom: 14px;
+      font-size: .45em;
+
+      @media (max-width: $screen-sm) {
+        display: block;
+      }
+    }
+
+    &:hover {
+      span {
+        display: block;
+      }
+    }
+  }
+}
+
+.donate-section__timeline-wrapper {
+  @media (max-width: $screen-xs) {
+    display: none;
+  }
+}
+
+.donate-section__main {
+  position: relative;
+
+  .circle-progress {
+    height: 160px;
+    display: block;
+
+    @media (max-width: $screen-sm) {
+      height: 200px;
+    }
+  }
+
+  @media (min-width: $screen-xs) {
+    visibility: hidden;
+    position: absolute;
+
+    &.active {
+      visibility: visible;
+      position: static;
+    }
+  }
+}
+
+.donate-section__main-wrapper {
+  position: relative;
+  width: 100vw;
+  margin: 0 0 2rem -15px;
+  overflow: hidden;
+
+  .slick-slide {
+    display: inline-block;
+    outline: none;
+  }
+
+  i {
+    font-size: .75em;
+    color: $gray;
+    display: inline;
+    position: absolute;
+    top: 56%;
+
+    &.icon-arrow-right {
+      right: 7px;
+    }
+
+    &.icon-arrow-left {
+      left: 7px;
+    }
+  }
+}
+
+.donate-section__funded {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: auto;
+
+  h5 {
+    font-size: 2rem;
+    margin: 0;
+  }
+
+  span {
+    position: relative;
+    color: $text-gray-color;
+    font-size: .6em;
+    bottom: 3px;
+  }
+
+  @media (max-width: $screen-sm) {
+    h5 {
+      margin-bottom: 5px;
+    }
+
+    span {
+      font-size: .8em;
+    }
+  }
+}
+
+.donate-section__timeline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3rem;
+  margin-top: 2rem;
+
+  .circle-progress {
+    margin-bottom: 0;
+  }
+}
+
+.donate-section__title {
+  h5 {
+    margin-top: 5px;
+  }
+
+  h6 {
+    margin: 0;
+  }
+}
+
+@media (min-width: $screen-xs) {
+  .donate-section__main-wrapper {
+    width: auto;
+    margin: 0;
+  }
+}

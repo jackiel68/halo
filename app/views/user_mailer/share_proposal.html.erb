@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css"
+    />
+  <style>
+    body {
+      background-color: white;
+      font-family: "Helvetica Neue";
+    }
+
+    .container {
+      width: 40%;
+      border-radius: 5px;
+      border: 1px solid #BABEC9;
+      margin: 20px auto;
+      padding: 20px;
+      position: relative;
+    }
+
+    .header {
+      color: #454444;
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 23px;
+      margin-bottom: 7px;
+    }
+
+    .subheader {
+      color: #454444;
+      font-size: 14px;
+      line-height: 16px;
+      margin-bottom: 14px;
+    }
+
+    .center-logo {
+      margin: 20px auto;
+      text-align: center;
+    }
+
+    .paper-icon {
+      height: 25px;
+      width: 25px;
+      margin-top: 10px;
+      margin-right: 20px;
+    }
+
+    .header-container {
+      display: flex;
+      margin-bottom: 10px;
+    }
+
+    .content-container {
+      display: flex;
+      width: 100%;
+    }
+
+    .profile-pic {
+      height: 48px;
+      width: 48px;
+      border-radius: 48px;
+      margin-right: 30px;
+      background-image: url(<%= @proposal.user.image.small.url %>);
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+
+    .text-section {
+      width: 80%;
+      color: #454444;
+      font-size: 12px;
+    }
+
+    .name {
+      font-weight: 500;
+      line-height: 15px;
+    }
+
+    .time-ago {
+      color: #8A94A6;
+      font-size: 11px;
+      margin-left: 20px;
+    }
+
+    .user-intro {
+      margin-bottom: 30px;
+    }
+
+    .section-header {
+      font-weight: 500;
+      margin-bottom: 20px;
+    }
+
+    .section-content {
+      margin-bottom: 30px;
+    }
+  </style>
+  </head>
+  <body>
+    <div class="center-logo">
+      <%= image_tag('halo_logo.png', alt: 'Halo Header', class: 'full-width' )%>
+    </div>
+    <div class="container">
+      <div>
+        <div class="header-container">
+          <%= image_tag('icons/pen-and-paper.png', alt: 'pen and paper', class: 'paper-icon') %>
+          <div>
+            <div class="header">Review proposal from <%= @proposal.user.name %></div>
+            <div class="subheader">
+              <%= @proposal.user.name %> submitted a proposal for "<%= @proposal.request_for_proposal.title %>"
+            </div>
+          </div>
+        </div>
+        <div class="section-header">Message from <%= @reply_to.name %>:</div>
+        <div class="section-content"><%= @message %></div>
+
+        <hr />
+        <br />
+        <div class="content-container">
+          <div class="profile-pic"></div>
+          <div class="text-section">
+            <div class='user-intro'><span class="name"><%= @proposal.user.name %></span> <span class="time-ago"><%= time_ago_in_words(@proposal.created_at) %> ago</span></div>
+
+            <div class="section-header">HYPOTHESIS</div>
+            <div class="section-content"><%= @proposal.research_hypothesis %></div>
+
+            <div class="section-header">BASIS OF HYPOTHESIS</div>
+            <div class="section-content"><%= @proposal.hypothesis_basis %></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

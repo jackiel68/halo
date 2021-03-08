@@ -1,0 +1,65 @@
+<div class="session-modals">
+  <!-- Sign up -->
+  <%= simple_modal(modal_id: 'sign-up', title: 'Create Account') do %>
+     <p class="help-block">Sign up to receive your tax deduction</p>
+    <div class="col-md-12">
+      <%= simple_form_for @new_user, url: set_interests_path do |f| %>
+        <%= f.association :diseases, wrapper_html: { class: 'hidden' } %>
+        <%= f.button :submit, 'Sign up with Facebook', name: 'via_facebook' %>
+        <p class="help-block">We will NEVER post without your permission</p>
+
+        <%= link_to('Sign up with Email', '#', class: 'btn btn-primary', data: { dismiss: 'modal', toggle: 'modal', target: '#sign-up-via-email' }) %>
+      <% end %>
+
+      <p class="help-block">
+       
+        By continuing, you agree with the Halo <%= link_to( 'terms of service', terms_path )%> and <%= link_to( 'privacy policy', privacy_policy_path )%>
+      </p>
+    </div>
+  <% end %>
+
+  <!-- Sign up via email -->
+  <%= simple_modal(modal_id: 'sign-up-via-email', title: 'Continue') do %>
+    <div class="col-md-12">
+      <%= simple_form_for(resource, as: resource_name, url: registration_path(resource_name, format: :json), remote: true, html: { id: 'new_session' }) do |f| %>
+        <div id="alert" class="centered fade" role="alert" data-alert="alert"></div>
+
+        <div class="row">
+          <%= f.input :first_name, wrapper_html: { class: 'col-md-12' }, placeholder: 'First Name', label: false %>
+        </div>
+        <div class="row">
+          <%= f.input :last_name, wrapper_html: { class: 'col-md-12' }, placeholder: 'Last Name', label: false %>
+        </div>
+        <div class="row">
+          <%= f.input :email, wrapper_html: { class: 'col-md-12' }, placeholder: 'Email', label: false %>
+          <%= f.input :password, wrapper_html: { class: 'col-md-12' }, hint: 'Must be at least 6 characters', placeholder: 'Password', label: false %>
+        </div>
+        <%= f.button :submit, 'Sign Up', class: 'full-width' %>
+      <% end %>
+
+      <%= link_to('Already have an account? Sign In', '#', data: { dismiss: 'modal', toggle: 'modal', target: '#sign-in' }) %>
+
+      <p class="help-block">
+        By continuing, you agree with the Halo <%= link_to( 'terms of service', terms_path )%> and <%= link_to( 'privacy policy', privacy_policy_path )%>.
+      </p>
+    </div>
+  <% end %>
+
+  <!-- Sign in -->
+  <%= simple_modal(modal_id: 'sign-in', title: 'Sign In') do %>
+    <div class="col-md-12">
+      <%= link_to 'Sign in with Facebook', '/auth/facebook', class: 'btn btn-primary full-width btn-fb' %>
+
+      <p class="or">Or, use your email</p>
+
+      <%= simple_form_for(resource, as: resource_name, url: session_path(resource_name, format: :json), remote: true, html: { id: 'new_session' }) do |f| %>
+        <div id="alert" class="centered fade" role="alert" data-alert="alert"></div>
+        <%= f.input :email, input_html: { value: params[:email].presence }, placeholder: 'Email', label: false %>
+        <%= f.input :password, placeholder: 'Password', label: false %>
+        <%= f.button :submit, 'Sign In', class: 'full-width' %>
+      <% end %>
+      <div><%= link_to 'Forgot your password', new_user_password_path %></div>
+    </div>
+  <% end %>
+</div>
+

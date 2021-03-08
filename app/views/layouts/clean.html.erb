@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="google-site-verification" content="W2KiQAy_WpNojjtr4wKNhErtla7CBlE-qgH4vG-9p9U" />
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="google-site-verification" content="Bb0PQI7lj5Rx0CWvmyj5nqOc3qaYxqwUp8RF2wlDW3Y" />
+    <title><%= yield(:title) %> | Halo</title>
+    <%= Gon::Base.render_data %>
+    <meta name='description' content='<%= yield_meta_tag(:description, 'Halo Cures') %>' />
+    <%= yield :head %>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css"
+    />
+
+    <%= favicon_link_tag '/favicon.png', type: 'image/png' %>
+    <%= stylesheet_link_tag 'application', media: 'all' %>
+    <%= stylesheet_link_tag 'clean', media: 'all' %>
+    <%= stylesheet_link_tag 'react-datepicker', media: 'all' %>
+
+    <%= javascript_include_tag 'application' %>
+
+    <%= csrf_meta_tags %>
+    <%= render(partial: 'application/header_scripts') %>
+
+    <script type="text/javascript">
+      window.MemberfulOptions = {site: "https://halocures.memberful.com"};
+      (function() {
+         var s   = document.createElement('script');
+         s.type  = 'text/javascript';
+         s.async = true;
+         s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+         setup = function() { window.MemberfulEmbedded.setup(); }
+         s.addEventListener("load", setup, false);
+        ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+      })();
+    </script>
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6895929.js"></script>
+    <!-- End of HubSpot Embed Code -->
+    <!-- Start of halocures Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=be5188d3-5197-493e-b409-90cf99fa886e"> </script>
+    <!-- End of halocures Zendesk Widget script -->
+  </head>
+  <body class="<%= controller_name %> <%= controller_name %>-<%= action_name %>" <%=@require_sign_in ? 'data-sign-in-required=true' : ''%> >
+    <% session[:previous_url] = request.fullpath %>
+    <%= flash_messages %>
+    <%= yield %>
+    <div id="full-container"></div>
+    <%= render(partial: 'application/footer_scripts') %>
+  </body>
+</html>

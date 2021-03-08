@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="google-site-verification" content="W2KiQAy_WpNojjtr4wKNhErtla7CBlE-qgH4vG-9p9U" />
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="google-site-verification" content="Bb0PQI7lj5Rx0CWvmyj5nqOc3qaYxqwUp8RF2wlDW3Y" />
+  <title><%= yield(:title) %> | Halo</title>
+  <%= Gon::Base.render_data %>
+  <meta name='description' content='<%= yield_meta_tag(:description, 'Halo Cures') %>' />
+  <%= yield :head %>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+  <%= favicon_link_tag '/favicon.png', type: 'image/png' %>
+  <%= stylesheet_link_tag 'application', media: 'all' %>
+  <%= javascript_include_tag 'application' %>
+  <%= csrf_meta_tags %>
+  <%= render(partial: 'application/header_scripts') %>
+
+  <script type="text/javascript">
+    window.MemberfulOptions = {site: "https://halocures.memberful.com"};
+    (function() {
+       var s   = document.createElement('script');
+       s.type  = 'text/javascript';
+       s.async = true;
+       s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+       setup = function() { window.MemberfulEmbedded.setup(); }
+       s.addEventListener("load", setup, false);
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+  </script>
+  <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6895929.js"></script>
+  <!-- End of HubSpot Embed Code -->
+  <!-- Start of halocures Zendesk Widget script -->
+  <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=be5188d3-5197-493e-b409-90cf99fa886e"> </script>
+  <!-- End of halocures Zendesk Widget script -->
+</head>
+<body class="<%= controller_name %> <%= controller_name %>-<%= action_name %>" <%=@require_sign_in ? 'data-sign-in-required=true' : ''%> >
+  <% session[:previous_url] = request.fullpath %>
+  <header class="main-header">
+    <h1 class="hidden">Halo</h1>
+    <nav class="navbar navbar-inverse navbar-static-top">
+      <h2 class="hidden">Main navigation</h2>
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <%= link_to(root_path, class: 'navbar-brand logo-halo') do %>
+            <%= image_tag('/halo-inverse.svg') %>
+          <% end %>
+          <%= link_to("/translation", class: 'navbar-brand navbar-text-link') do %>
+            Blog
+          <% end %>
+          <%= link_to("/translation/2019-halo-awards", class: 'navbar-brand navbar-text-link') do %>
+            Halo Awards
+          <% end %>
+          <%= link_to("/register", class: 'desktop navbar-right navbar-button') do %>
+            Join now
+          <% end %>
+          <%= link_to("/login", class: 'desktop navbar-brand navbar-right navbar-text-link') do %>
+            Sign in
+          <% end %>
+        </div>
+
+        <% if current_campaign && action_name != 'coming_soon' %>
+          <div class="collapse navbar-collapse" id="main-nav">
+            <ul class="nav navbar-nav navbar-right">
+              <%# if current_campaign && session[:auth] && current_user && current_user.is_admin? %>
+              <!-- <% if current_campaign && action_name != 'coming_soon' %>
+                <%= menu_item_for('Current Campaign', campaign_path(current_campaign)) %>
+              <% end %>
+              <% if false && session[:auth]  && current_user && current_user.is_admin? %>
+                <%= menu_item_for('Scientific Advisors', scientific_advisors_path) %>
+              <% end %>
+              <%= menu_item_for('The Halo Effect', the_halo_effect_path) %>
+              <%= menu_item_for('Awards', "http://events.halocures.com/haloawards") %>
+              <%= menu_item_for('FAQ', faq_path) %> -->
+              <!-- <% if current_user %>
+                <li class="dropdown divider">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    <%= avatar_for(current_user) %>
+                    <%= current_user.name %>
+                    <span class="caret"></span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <% if current_user.donations.any? %>
+                      <li><%= link_to('My Account', donations_path) %></li>
+                    <% end %>
+                    <% if current_user.is_admin? %>
+                      <li><%= link_to('Admin', '/admin') %></li>
+                    <% end %>
+                    <li><%= link_to('Sign Out', sign_out_path, method: :delete, class: 'sign-out') %></li>
+                  </ul>
+                </li>
+              <% else %>
+                <li class="divider"><%= link_to('Sign In', '#', data: { toggle: 'modal', target: '#sign-in' }) %></li>
+
+                <li><%= link_to('Sign Up', '#', class: 'sign-up', data: { toggle: 'modal', target: '#sign-up' }) %></li>
+              <% end %> -->
+            </ul>
+          </div>
+        <% end %>
+      </div>
+    </nav>
+  </header>
+
+  <main class="<%= conditional_main_class %>">
+    <%= flash_messages %>
+    <%= yield %>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="navbar-left">
+        <%= link_to(root_path, class: 'logo logo-halo link-unstyled') do %>
+          <%= image_tag('/halo-inverse.svg') %>
+        <% end %>
+        <!-- <% if current_campaign && action_name != 'coming_soon' %>
+          <%= link_to('About', about_path) %>
+          <%= link_to('Mission', mission_path) %>
+          <%= link_to('Our Promise', our_promise_path) %>
+          <%= link_to('Partners', 'https://research.halocures.com/partner/') %>
+          <%= link_to('Jobs', jobs_path) %>
+          <%= link_to('Contact', contact_path) %>
+          <%= link_to('Terms of Service', terms_path) %>
+          <%= link_to('Privacy Policy', privacy_policy_path) %>
+        <% end %> -->
+      </div>
+
+      <div class="navbar-right">
+        <span> © <%= Time.now.year %> Halo Cures, Inc.</span>
+        <ul class="footer__social-links">
+          <li><%= link_to(share_icon('facebook'), 'https://www.facebook.com/halocures', class: 'link-unstyled') %></li>
+          <li><%= link_to(share_icon('twitter'), 'https://twitter.com/halocures', class: 'link-unstyled') %></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <%= render(partial: 'application/session_modals') unless current_user %>
+  <%= render(partial: 'application/footer_scripts') %>
+</body>
+</html>

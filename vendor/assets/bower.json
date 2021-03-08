@@ -1,0 +1,10 @@
+{
+  "name": "dsl-generated-dependencies",
+  "dependencies": {
+    "jquery-ujs": "1.0.4",
+    "bootstrap-sass": "3.3.6",
+    "clipboard": "1.5.5",
+    "jquery-circle-progress": "1.2.2",
+    "slick-carousel": "1.8.1"
+  }
+}

@@ -1,0 +1,14 @@
+development: &default
+  adapter: postgresql
+  pool: 5
+  timeout: 5000
+  host: localhost
+  encoding: unicode
+  database: halocures_development
+  username: <%= ENV['DB_UN'] %>
+  password: <%= ENV['DB_PW'] %>
+
+test:
+  <<: *default
+  database: halocures_test
+  port: 5432

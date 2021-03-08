@@ -1,0 +1,106 @@
+<% content_for :head do %>
+  <!-- <meta name="robots" content="noindex,nofollow"> -->
+  <style>
+
+/* make gutter sizes consistent */
+.flex-row  {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* 
+  Extra Small Devices, Phones { .col-xs-$ } 
+    ~ 480px to 767px ~
+
+  Extra Small Devices, Phones { .col-sm-$ } 
+    ~ 768px to 991px ~
+
+  Extra Small Devices, Phones { .col-md-$ } 
+    ~ 992 to 1200px ~
+
+  Extra Small Devices, Phones { .col-lg-$ } 
+    ~ 1201px up ~
+ */
+  
+/* Extra Media Query Below for Retina Iphones and Smaller */
+@media only screen and (max-width : 480px){
+  .flex-row > [class*='col-'] {
+      width: 100%;
+  }
+  .flex-row  {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+.flex-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-row > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row .thumbnail,
+.flex-row .caption {
+  flex-direction: column;
+  display: flex;
+  flex: 1 0 auto;
+  height: auto;
+  position: relative;
+}
+.flex-text {
+  flex-grow: 1;
+}
+.flex-row div.img {
+  min-width: 0;
+  width: 100%;
+  height: 250px;
+}
+  </style>
+<% end %>
+
+<%= title('Scientific Advisors') %>
+
+<p>
+  Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. <%= mail_to('partnerships@halocures.com') %>.
+</p>
+
+<% if @advisors.any? %>
+  <!-- <div class="css-table center-block">
+    <% @advisors.in_groups_of(4) do |advisor_group| %>
+      <div class="css-table-row">
+        <% advisor_group.each do |advisor|%>
+          <% next unless advisor %>
+          <%= link_to advisor.linkedin_profile, target: :blank, class: 'link-unstyled css-table-cell well advisor border-top text-center' do %>
+            <div class="img text-center center-block" style="background-image: url(<%= advisor.image.url%>);"></div>
+            <strong style="display: block; margin-top: -10px;"><%= advisor.full_name.capitalize %></strong>
+            <span style="display: block; margin-top: -10px;"> <%= advisor.title.capitalize %> </span>
+            <span style="display: block; margin-top: -10px;"> <%= advisor.institution.capitalize %> </span> 
+          <% end %>
+        <% end %>
+      </div>
+    <% end %>
+  </div> -->
+
+  <div class="container">
+    <div class="flex-row row">
+      <% @advisors.each do |advisor| %>
+        <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
+          <div class="thumbnail ">
+            <div class="img" style="background-image:url('<%= advisor.image.url %>'); background-size: cover;"></div>
+            <div class="caption">
+              <h3><%= advisor.full_name.capitalize %></h3>
+              <p class="flex-text text-muted"> <%= advisor.title.capitalize %> </p>
+              <p class="flex-text text-muted"> <%= advisor.institution.capitalize %> </p>
+            </div>
+            <!-- /.caption -->
+          </div>
+          <!-- /.thumbnail -->
+        </div>
+      <!-- /.flex-row  -->
+    <% end %>
+  </div>
+</div>
+<% end %>

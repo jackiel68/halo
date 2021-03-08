@@ -1,0 +1,25 @@
+<% content_for :head do %>
+  <meta name="robots" content="noindex,nofollow">
+<% end %>
+
+<%= title('University Partners') %>
+
+<p>
+  Halo identifies promising biomedical research in need of additional funding through partnerships with tech transfer offices at universities. If you are interested in joining Halo as a University Partner, contact us at <%= mail_to('partnerships@halocures.com') %>.
+</p>
+
+<% if @universities.any? %>
+  <div class="css-table">
+    <% @universities.in_groups_of(3) do |university_group| %>
+      <div class="css-table-row">
+        <% university_group.each do |university|%>
+          <% next unless university %>
+          <%= link_to university.url, target: :blank, class: 'link-unstyled css-table-cell well university border-top' do %>
+            <%= image_tag(university.logo_url(:landscape), alt: university.name) %>
+            <%= university.tagline %>
+          <% end %>
+        <% end %>
+      </div>
+    <% end %>
+  </div>
+<% end %>

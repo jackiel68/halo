@@ -1,0 +1,162 @@
+// Donations
+
+.donations-index {
+  .overview {
+    font-size: 1.2em;
+    color: #000;
+    h3 {
+      margin-bottom: .6em;
+      padding-bottom: 1em;
+      border-bottom: 1px solid #cecece;
+    }
+    p {
+      font-size: .8em;
+      line-height: 1.7em;
+      margin-bottom: .4em;
+    }
+    strong {
+      display: block;
+      font-weight: 700;
+      font-size: 1.3em;
+    }
+    .outcome-badge {
+      text-transform: uppercase;
+      text-align: center;
+      font-weight: 700;
+      padding: .4em 0;
+      margin-bottom: 0;
+      color: #fff;
+      &.in_progress {
+        background-color: $blue;
+      }
+      &.successful {
+        background-color: $green;
+      }
+      &.unsuccessful {
+        background-color: $magenta;
+      }
+    }
+  }
+}
+
+.donations-new {
+  .back-to-campaign {
+    font-size: .9em;
+    &:hover {
+      text-decoration: none;
+      cursor: pointer;
+    }
+  }
+  h3 {
+    margin-top: 0;
+  }
+  .payment-fields {
+    overflow: auto;
+    margin-bottom: 2em;
+    .col-md-12 {
+      border-top: 1px solid #cecece;
+    }
+    .col-md-6 {
+      border: 1px solid #cecece;
+      border-left: 0;
+      &:last-of-type {
+        border-right: 0;
+      }
+    }
+    input {
+      padding: 18px 0;
+      border: 0;
+      outline: none;
+      background: transparent;
+    }
+  }
+  .donation_is_anonymous,
+  .donation_has_loved_one {
+    margin-bottom: 0;
+    label {
+      color: #0e0e0e;
+    }
+  }
+  .well {
+    border: 0;
+  }
+  .confirmation {
+    background: #fff;
+    border-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+  }
+  .security-seal {
+    background: #f8fafb;
+    font-size: .8em;
+    border-top: 0;
+    font-weight: 400;
+    color: #0e0e0e;
+    line-height: 1.2em;
+    .icon-lock {
+      line-height: 2em;
+      font-weight: 700;
+      color: #0e0e0e;
+    }
+    .lock {
+      padding-right: 1em;
+    }
+    .seal {
+      padding-left: 1em;
+      width: auto;
+      text-align: right;
+      img {
+        float: right;
+      }
+    }
+  }
+  .checkout-questions {
+    h2,
+    h3,
+    p {
+      font-size: 1em;
+    }
+    h2 {
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+    h3 {
+      color: $blue;
+      font-weight: 400;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+
+// Media Queries
+
+// Small devices (tablets, 768px and up)
+@media (max-width: $screen-sm-min) {
+  .donations-new {
+    .payment-fields > .col-md-6 {
+      border-right: 0;
+      border-bottom: 0;
+    }
+    .security-seal .col-sm-8 {
+      text-align: center;
+      margin-bottom: 1em;
+    }
+  }
+  .donations-index .wallet {
+    text-align: center;
+    .button_to,
+    span {
+      display: block;
+    }
+  }
+}
+
+// Big devices
+@media (min-width: $screen-sm-min) {
+  #loved-one-name {
+    width: 47%;
+  }
+}

@@ -1,0 +1,70 @@
+.milestones {
+  color: $text-black-color;
+  li {
+    list-style: none;
+  }
+  p {
+    margin-bottom: 4rem;
+  }
+  .circle-progress-connector {
+    position: absolute;
+    top: 27px;
+    bottom: -1px;
+    left: 50%;
+    width: 7px;
+    margin-left: -3.5px;
+    @media (max-width: $screen-sm) {
+      top: 30px;
+    }
+  }
+  .icon-halo-o {
+    height: 5rem;
+    width: 70px;
+  }
+}
+.milestones__timeline {
+  .circle-progress {
+    cursor: default;
+    margin: 0 2rem;
+    display: block;
+  }
+}
+.milestones__timeline-section {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  &:last-child {
+    h5 {
+      margin-top: 0;
+      margin-bottom: .5rem;
+    }
+  }
+}
+.milestones__project-data {
+  flex: 4;
+  padding-bottom: 6rem;
+  h6 {
+    margin-top: 0;
+  }
+}
+.milestones__funding-data {
+  flex: 1.4;
+  margin-right: 1rem;
+  li {
+    line-height: 1.7;
+  }
+  &.active {
+    visibility: visible;
+  }
+  @media (max-width: $screen-sm) {
+    visibility: visible;
+    flex: 2.6;
+    padding-top: 3rem;
+  }
+}
+.milestones__progress-wrapper {
+  position: relative;
+}
+.milestones__progress-wrapper {
+  position: relative;
+}

@@ -1,0 +1,14 @@
+<%= link_to(campaign_path(campaign), class: 'link-unstyled block-link-unstyled col-sm-3') do %>
+  <section class="well overview">
+    <%= image_tag(campaign.image_url(:thumb), alt: campaign.name) %>
+
+    <div class="padded">
+      <%= content_tag(local_assigns[:heading_tag] || :h3 , campaign.name) %>
+      <p><strong>With generous support from:</strong> <%= campaign.sponsor.name %></p>
+
+      <% if campaign.launch_date.future? %>
+        <p><strong>Days until launch:</strong> <%= days_until(campaign.launch_date) %></p>
+      <% end %>
+    </div>
+  </section>
+<% end %>

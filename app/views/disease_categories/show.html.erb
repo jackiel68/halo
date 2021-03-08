@@ -1,0 +1,22 @@
+<section>
+  <div class="col-md-8">
+    <%= title("About: <strong>#{ @category.name }</strong>") %>
+    <%= markdown(@category.description) %>
+    <%= image_tag(@category.image_url(:big), alt: @category.name, class: 'main-image') %>
+  </div>
+  <div class="col-md-4">
+    <% if @category.diseases.any? %>
+      <section class="well padded">
+        <h3>Diseases</h3>
+        <ul class="list-unstyled">
+          <% @category.diseases.each do |disease| %>
+            <li><%= link_to(disease.name, disease_path(disease)) %></li>
+          <% end %>
+        </ul>
+      </section>
+    <% end %>
+  </div>
+  <div class="col-md-12">
+    <%= render(partial: 'campaigns/list', locals: { campaigns: @category.campaigns, campaign_on_display: nil, heading: "#{ @category.name } Campaigns" }) %>
+  </div>
+</section>

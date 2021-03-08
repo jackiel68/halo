@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css"
+    />
+  <style>
+    body {
+      background-color: white;
+      font-family: 'Avenir Medium', 'Lato', 'Helvetica Neue';
+    }
+
+    .container {
+      width: 80%;
+      position: relative;
+    }
+
+    .header {
+      color: #454444;
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 23px;
+      margin-bottom: 7px;
+    }
+
+    .subheader {
+      color: #454444;
+      font-size: 14px;
+      line-height: 16px;
+      margin-bottom: 14px;
+    }
+
+    .center-logo {
+      margin: 20px auto;
+      text-align: center;
+    }
+
+    .paper-icon {
+      height: 25px;
+      width: 25px;
+      margin-top: 10px;
+      margin-right: 20px;
+    }
+
+    .header-container {
+      display: flex;
+      margin-bottom: 10px;
+    }
+
+    .content-container {
+      display: flex;
+      width: 100%;
+    }
+
+    .text-section {
+      color: #454444;
+      font-size: 12px;
+    }
+
+    .name {
+      font-weight: 500;
+      line-height: 15px;
+    }
+
+    .time-ago {
+      color: #8A94A6;
+      font-size: 11px;
+      margin-left: 20px;
+    }
+
+    .user-intro {
+      margin-bottom: 30px;
+    }
+
+    .section-header {
+      font-weight: 500;
+      margin-bottom: 20px;
+    }
+
+    .section-content {
+      font-size: 16px;
+      margin-bottom: 30px;
+      font-family: 'Avenir Medium', 'Lato', 'Helvetica Neue';
+    }
+
+    .section-content .invite-button {
+      background-color: rgb(96, 159, 238);
+      color: rgb(255, 255, 255);
+      font-size: 14px;
+      font-weight: 500;
+      padding: 16px 40px;
+      cursor: pointer;
+      display: inline-block;
+      min-height: 1em;
+      outline: 0;
+      border: none;
+      vertical-align: baseline;
+      font-family: 'Avenir Medium', 'Lato', 'Helvetica Neue';
+      margin: 0 .25em 0 0;
+      text-transform: none;
+      text-shadow: none;
+      line-height: 1em;
+      font-style: normal;
+      text-align: center;
+      text-decoration: none;
+      border-radius: .28571429rem;
+    }
+
+    .expire {
+      font-size: 11px;
+      margin: 5px 0 0 10px;
+    }
+
+    .sponsor-info {
+      margin: 32px 0;
+      font-size: 16px;
+      line-height: 22px;
+    }
+
+    .custom-message {
+      font-family: "Avenir Medium", "Lato", "Helvetica Neue";
+      font-size: 12px;
+      margin: 30px 0;
+    }
+
+    hr {
+      width: 35%;
+      text-align: left;
+    }
+  </style>
+  </head>
+  <body>
+    <div class="container">
+      <div>
+        <% if @message && @message.length > 0 %>
+          <pre class="custom-message"><%= @message %></pre>
+
+          <hr align="left" />
+          <br />
+        <% end %>
+        <div class="content-container">
+          <div class="text-section">
+            <div class="section-content">
+              <%= "#{@reply_to.first_name.capitalize} #{@reply_to.last_name.capitalize}" %> invited you to submit a proposal to an industry RFP on Halo.
+
+              <div class="sponsor-info">
+                Opportunity: <%= @rfp.title %><br />
+                Industry Sponsor: <%= @rfp.company.company_name %><br />
+                Funding: <%= @rfp.company.funding_amount %>
+              </div>
+
+              <a
+                href="https://www.halocures.com/research/<%= @rfp.research_area %>/<%= @rfp.identifier %>"
+                target="_blank"
+                class="ui button invite-button"
+              >
+                Learn More
+              </a>
+              <br />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,39 @@
+<% if Rails.env.production? %>
+  <script>
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+    analytics.load("<%= ENV['SEGMENT_RB_WRITE_KEY'] %>");
+
+    <% if current_user %>
+      analytics.identify('<%= current_user.id %>', {
+        email: '<%= current_user.email %>',
+        first_name: '<%= current_user.first_name %>',
+        last_name: '<%= current_user.last_name %>',
+      });
+    <% end %>
+
+    analytics.page();
+    }}();
+  </script>
+
+  <script>
+    window['_fs_debug'] = false;
+    window['_fs_host'] = 'fullstory.com';
+    window['_fs_org'] = 'AK8SY';
+    window['_fs_namespace'] = 'FS';
+    (function(m,n,e,t,l,o,g,y){
+      if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+      g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+      o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+      y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+      g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};
+      y="rec";g.shutdown=function(i,v){g(y,!1)};g.restart=function(i,v){g(y,!0)};
+      g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+      g.clearUserCookie=function(){};
+    })(window,document,window['_fs_namespace'],'script','user');
+  </script>
+
+  <!-- Deadline Funnel -->
+  <script type="text/javascript" data-cfasync="false">
+    function base64_encode(e){var r,t,c,a,h,n,o,A,i = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",d=0,l=0,s="",u=[];if(!e)return e;do r=e.charCodeAt(d++),t=e.charCodeAt(d++),c=e.charCodeAt(d++),A=r<<16|t<<8|c,a=A>>18&63,h=A>>12&63,n=A>>6&63,o=63&A,u[l++]=i.charAt(a)+i.charAt(h)+i.charAt(n)+i.charAt(o);while(d<e.length);s=u.join("");var C=e.length%3;var decoded = (C?s.slice(0,C-3):s)+"===".slice(C||3);decoded = decoded.replace("+", "-");decoded = decoded.replace("/", "_");return decoded;} var url = base64_encode(location.href);var parentUrl = (parent !== window) ? ('/' + base64_encode(document.referrer)) : '';(function() {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.setAttribute("data-scriptid", "dfunifiedcode");s.src ="https://deadlinefunnel.com/runified/eyJpdiI6ImRFTnFPc05VUGE2cnVXK1R2WWtVTWc9PSIsInZhbHVlIjoiRE0wUUtFM2xxOEVhZXpyYkVuNVFUZz09IiwibWFjIjoiY2NmNzYxN2FjNjJkZDllZGNmODY2OTJiYjY2OTNjNWNjMGIxZmMxNzRhNjdhNDE1YmY3MzljNzVmMmMxZTljOCJ9/"+url+parentUrl;var s2 = document.getElementsByTagName('script')[0];s2.parentNode.insertBefore(s, s2);})();
+  </script>
+<% end %>

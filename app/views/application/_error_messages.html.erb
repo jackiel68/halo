@@ -1,0 +1,8 @@
+<%# @param object %>
+
+<% if object && object.errors.any? %>
+  <div class="alert alert-danger">
+    <button class="close" data-dismiss="alert">×</button>
+    <p><%= object.errors.full_messages.to_sentence %></p>
+  </div>
+<% end %>
